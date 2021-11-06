@@ -1,0 +1,53 @@
+@startmindmap taksonomi
+skinparam { 
+backgroundColor #EEEBDC
+ArrowColor DeepSkyBlue
+}
+
+<style>
+node {
+    Padding 20
+    Margin 5
+    HorizontalAlignment center
+    LineColor blue
+    LineThickness 3.0
+    BackgroundColor gold
+    RoundCorner 30
+    MaximumWidth 100
+}
+</style>
+
+header **Taksonomi Machine Learning**
+
+*[#Orange] Machine Learning
+**[#lightgreen] Supervised
+***[#FFBBCC] Linear
+**** Linear Regression
+**** Logistic Regression
+**** Perceptron
+***[#FFBBCC] Non-Linear
+****[#Salmon] Single
+***** Decision Tree
+***** Rule Learning
+***** Naive Bayes
+***** K-Nearest Neighbours
+***** Multi-Layer Perceptron
+***** Support Vector Machine(SVM)
+****[#Salmon] Combined
+***** Bagging
+***** Boosting
+***** Random Forest
+**[#lightgreen] Unsupervised
+***[#FFBBCC] K-Means
+***[#FFBBCC] Expectation-Maximization(EM)
+***[#FFBBCC] Self Organizing Maps(SOM)
+**[#lightgreen] Reinforced
+***[#FFBBCC] Real-Time Decision
+***[#FFBBCC] Robot Navigation
+***[#FFBBCC] Learning Task
+***[#FFBBCC] Game AI
+***[#FFBBCC] Skill Acquisition
+
+
+footer **Copyright Universitas Esa Unggul @ 2021**
+@endmindmap
