@@ -1,15 +1,10 @@
 # **PERTEMUAN 4**
 
 ## **KEMAMPUAN AKHIR**
-Mahasiswa dapat mengenal dan memahami kenapa pemahaman bisnis berperan penting dalam menentukan algoritma dalam pemilihan penyelesaian masalah
+{belum disusun}
 
 ## **MATERI PEMBELAJARAN**
-- Pengantar
-    - Intro Tentang Business Understanding
-- Pendahuluan 
-    - Penjelasakan kenapa pemahaman bisnis sangat berperan penting dalam Machine Learning
-- Praktek
-    - Melakukan preproses data, missing value, cleaning, transformation dan reduction 
+{belum disusun}
 
 ## **BENTUK PEMBELAJARAN**
 - Metoda contextual instruction
