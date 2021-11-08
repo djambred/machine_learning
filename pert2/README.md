@@ -29,6 +29,3 @@
 - Mahasiswa mampu menjelaskan konsep dasar AI dengan benar dan mengidentifikasi konsep teknologi AI yang digunakan pada sebuah aplikasi AI.
 - Mahasiswa mampu menerapkan python sederhana
 - Mahasiswa mampu menggunakan library python yang telah dipelajari
-
-
-

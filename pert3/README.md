@@ -1,4 +1,4 @@
-# **PERTEMUAN 1**
+# **PERTEMUAN 3**
 
 ## **KEMAMPUAN AKHIR**
 Mahasiswa dapat mengenal dan memahami kenapa pemahaman bisnis berperan penting dalam menentukan algoritma dalam pemilihan penyelesaian masalah
