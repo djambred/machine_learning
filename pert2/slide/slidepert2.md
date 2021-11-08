@@ -131,4 +131,8 @@ git remote add origin https://github.com/[user]/[repo].git
 >>> Pull: 
 >>> git pull origin [branch]
 
+---
+![bg contain opacity blur](ueu.png)
+# Terima Kasih
+
 
