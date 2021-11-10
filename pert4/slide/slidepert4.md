@@ -55,3 +55,16 @@ Regresi merupakan suatu metode yang digunakan dalam pengukuran pengaruh variabel
 ![bg contain opacity blur](ueu.png)
 # Support Vector Regression (SVR)
 ![image](svr.png)
+
+---
+![bg contain opacity blur](ueu.png)
+# Decition Tree Regression
+
+---
+![bg contain opacity blur](ueu.png)
+# Random Forest Regression
+
+---
+![bg contain opacity blur](ueu.png)
+# Terima Kasih
+
