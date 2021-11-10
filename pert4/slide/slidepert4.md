@@ -31,25 +31,27 @@ size: 4:3
 
 ---
 ![bg contain opacity blur](ueu.png)
-#Apa itu Regresi?
+# Apa itu Regresi?
 Regresi merupakan suatu metode yang digunakan dalam pengukuran pengaruh variabel yang bebas pada variabel tergatung. Atau bisa juga sebuah pendekatan yang digunakan untuk mendefisinkan hubungan matematis antara variabel (y) output/dependent(DV) dengan satu variabel (x) input/independent(IV)
 
 ---
 ![bg contain opacity blur](ueu.png)
-#Simple Linear Regression
+# Simple Linear Regression
 ![image](simplelinear.png)
 ![image](simplereg.png)
 
 ---
 ![bg contain opacity blur](ueu.png)
-#Multiple Linear Regression
+# Multiple Linear Regression
 ![image](multilinear.png)
 
 
 ---
 ![bg contain opacity blur](ueu.png)
-#Polynomial Linear Regression
+# Polynomial Linear Regression
 ![image](poly.png)
 
 ---
 ![bg contain opacity blur](ueu.png)
+# Support Vector Regression (SVR)
+![image](svr.png)
