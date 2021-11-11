@@ -23,6 +23,7 @@ Mahasiswa dapat mengenal dan memahami apa itu Machine Learning
 - Online Learning (Google Meeting atau Zoom Meeting)
 
 ## **SUMBER PEMBELAJARAN**
+- Efficient Learning Machines, Mariette Awad and Tahul Khanna, 2015
 - Hands-On Machine Learning with Scikit-Learn and Tensorflow (2nd Edition), Aurelien Geron, 2017
 - Pengantar Machine Learning, Bedy Purnama, 2019
 
