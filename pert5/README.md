@@ -1,16 +1,16 @@
-# **PERTEMUAN 4**
-LANJUTAN REGRESSION
+# **PERTEMUAN 5**
+CLASSIFICATION
 
 ## **KEMAMPUAN AKHIR**
-Mahasiswa dapat memahami karakter dan penggunaan macam macam algoritma regresi untuk di implementasikan dalam pembuatan model machine learning berdasarkan problema bisnis sehari-hari
+Mahasiswa dapat memahami karakter dan penggunaan macam macam algoritma classification untuk di implementasikan dalam pembuatan model machine learning berdasarkan problema bisnis sehari-hari
 
 ## **MATERI PEMBELAJARAN**
 - Pengantar
-    - Flashback Regression
+    - Flashback Classification
 - Pendahuluan 
-    - Penjelasan terkait regresi dan macam-macam regresi yang biasa digunakan dalam membangun model machine learning
+    - Penjelasan terkait klasifikasi dan macam-macam klasifikasi yang biasa digunakan dalam membangun model machine learning
 - Praktek
-    - Python Regression
+    - Python Classification
 
 ## **BENTUK PEMBELAJARAN**
 - Metoda contextual instruction

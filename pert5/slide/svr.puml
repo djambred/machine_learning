@@ -1,9 +1,0 @@
-@startuml svr
-:<math>f(x)=w^tau phi(x) +b</math>;
-note right
-dimana <math>x</math> adalah input
-dimana <math>w</math> adalah parameter bobot
-dimana <math>phi(x)</math> adalah transformasi fitur
-dimana <math>b</math> adalah bias
-end note
-@enduml

@@ -1,16 +1,16 @@
 # **PERTEMUAN 6**
-CLASSIFICATION
+CLUSTERING
 
 ## **KEMAMPUAN AKHIR**
-Mahasiswa dapat memahami karakter dan penggunaan macam macam algoritma classification untuk di implementasikan dalam pembuatan model machine learning berdasarkan problema bisnis sehari-hari
+Mahasiswa dapat memahami karakter dan penggunaan macam macam algoritma clustering untuk di implementasikan dalam pembuatan model machine learning berdasarkan problema bisnis sehari-hari
 
 ## **MATERI PEMBELAJARAN**
 - Pengantar
-    - Flashback Classification
+    - Flashback Clustering
 - Pendahuluan 
     - Penjelasan terkait klasifikasi dan macam-macam klasifikasi yang biasa digunakan dalam membangun model machine learning
 - Praktek
-    - Python Classification
+    - Python Clustering
 
 ## **BENTUK PEMBELAJARAN**
 - Metoda contextual instruction
