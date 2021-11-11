@@ -1,4 +1,5 @@
 # **PERTEMUAN 3**
+INTRODUCTION BUSINESS UNDERSTANDING
 
 ## **KEMAMPUAN AKHIR**
 Mahasiswa dapat mengenal dan memahami kenapa pemahaman bisnis berperan penting dalam menentukan algoritma dalam pemilihan penyelesaian masalah

@@ -1,4 +1,5 @@
 # **PERTEMUAN 4**
+REGRESSION
 
 ## **KEMAMPUAN AKHIR**
 Mahasiswa dapat memahami karakter dan penggunaan macam macam algoritma regresi untuk di implementasikan dalam pembuatan model machine learning berdasarkan problema bisnis sehari-hari

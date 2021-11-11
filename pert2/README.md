@@ -1,4 +1,6 @@
 # **PERTEMUAN 2**
+INTRODUCTION PYTHON PROGRAMMING
+
 ## **MATERI PEMBELAJARAN**
 - Pengantar
     - Intro to Python Programming
