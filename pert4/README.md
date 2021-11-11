@@ -1,10 +1,15 @@
 # **PERTEMUAN 4**
 
 ## **KEMAMPUAN AKHIR**
-{belum disusun}
+Mahasiswa dapat memahami karakter dan penggunaan macam macam algoritma regresi untuk di implementasikan dalam pembuatan model machine learning berdasarkan problema bisnis sehari-hari
 
 ## **MATERI PEMBELAJARAN**
-{belum disusun}
+- Pengantar
+    - Flashback Regression
+- Pendahuluan 
+    - Penjelasan terkait regresi dan macam-macam regresi yang biasa digunakan dalam membangun model machine learning
+- Praktek
+    - Python Regression
 
 ## **BENTUK PEMBELAJARAN**
 - Metoda contextual instruction
