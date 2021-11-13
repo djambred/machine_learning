@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block content %}
+    <h3 class="title has-text-grey-dark">Dashboard</h3>
+    <div class="card">
+    <br />
+        <p>The dataset used for this project can be found at Kaggle <a href="https://www.kaggle.com/mirichoi0218/insurance">here</a>.</p>
+        <p>We will explore the data to determine which factors correlate with an increased cost.</p>
+        <img alt="Heatmap" src="{{ url_for('static', filename='assets/heatmap.png') }}">
+        <p>A heatmap of the data shows the strongest correlation between smoking and charges.</p>
+        <p>There is also a lesser
+            correlation between BMI and age to charges. We will plot these factors vs. the charges below.</p><br />
+
+        <div>
+            <p>First we will plot a histogram to show the frequency of charges in different price buckets.</p>
+            <p><img alt="Histogram of charges" src="{{ url_for('static', filename='assets/hist_charges.png') }}"><br/>
+                As shown in the histogram, most charges are less than $15,000, with the highest frequency of charges being around
+                ~$5,000 or less.</p>
+        </div>
+
+
+        <div>
+            <p><img alt="Smoker vs. Charges Plot"
+                    src="{{ url_for('static', filename='assets/smoker_v_charges.png') }}"><br/>
+                The scatter plot of smoker vs. charges shows how smokers are always charged greater than $10,000.
+                Whereas we learned in the previous histogram that the highest frequency of charges are actually less than $5,000. This shows
+                a huge cost increase for smokers.</p>
+        </div>
+
+        <div>
+            <p>
+            <img alt="Age vs. Charges Plot" src="{{ url_for('static', filename='assets/age_v_charges.png') }}"><br />
+            Some correlation can also be seen of increased charges with an increase in age.</p>
+        </div>
+
+        <div>
+            <p>
+            <img alt="BMI vs. Charges Plot" src="{{ url_for('static', filename='assets/bmi_v_charges.png') }}"><br />
+            Less of a correlation is apparent between BMI and charges.</p>
+        </div>
+    <br />
+
+    </div>
+{% endblock %}

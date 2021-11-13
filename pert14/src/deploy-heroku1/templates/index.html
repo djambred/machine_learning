@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link
+            href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+            rel="stylesheet"
+        />
+        <title>Cat vs Dog App</title>
+    </head>
+    <body>
+        <section
+            class="
+                flex
+                justify-center
+                items-center
+                w-screen
+                h-screen
+                bg-indigo-500
+            "
+        >
+            <main
+                class="
+                    flex flex-col
+                    justify-center
+                    items-center
+                    p-16
+                    bg-white
+                    rounded-lg
+                "
+            >
+                <h1 class="text-3xl text-bold">Cat vs Dog</h1>
+
+                {% if uploaded_image %}
+                <img
+                    src="{{ url_for('send_uploaded_image', filename=uploaded_image) }}"
+                    class="mt-8 mb-4 h-48 border-8 border-gray-200 rounded-md"
+                />
+                {% else %}
+                <div
+                    class="
+                        flex
+                        justify-center
+                        items-center
+                        my-8
+                        w-48
+                        h-48
+                        border-8 border-gray-200
+                        rounded-md
+                    "
+                >
+                    <p class="text-center">
+                        Masukkan gambar kucing atau anjing
+                    </p>
+                </div>
+                {% endif %} {% if prediction %}
+                <p class="mb-8">Hasil Prediksi: {{prediction}}</p>
+                {% endif %}
+
+                <form
+                    method="post"
+                    enctype="multipart/form-data"
+                    class="flex flex-col"
+                >
+                    <input
+                        type="file"
+                        name="image"
+                        class="
+                            mb-4
+                            p-4
+                            border-8 border-gray-200
+                            rounded-md
+                            bg-gray-100
+                        "
+                    />
+                    <button
+                        type="submit"
+                        class="p-4 bg-indigo-500 text-white rounded-md"
+                    >
+                        Prediksi Gambar
+                    </button>
+                </form>
+            </main>
+        </section>
+    </body>
+</html>
