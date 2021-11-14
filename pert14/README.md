@@ -1,4 +1,4 @@
-# **PERTEMUAN 13**
+# **PERTEMUAN 14**
 LANJUTAN DEPLOYING MODEL and PUBLISHING
 
 ## **KEMAMPUAN AKHIR**
@@ -6,9 +6,9 @@ Mahasiswa dapat mendeploy model dan publish model machine learning dari semua ya
 
 ## **MATERI PEMBELAJARAN**
 - Pengantar
-    - Flashback Classification
+    - Pengantar Heroku
 - Pendahuluan 
-    - How to build model
+    - How to build model and Publish
 - Praktek
     - Python build model, Docker and flask for publish ML model
 
