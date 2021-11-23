@@ -6,8 +6,8 @@ size: 4:3
 ---
 <style>
     :root {
-        --color-background: #101010;
-        --color-foreground: #FFFFFF;
+        --color-background: #FFFFFF;
+        --color-foreground: #101010;
         font-family: MesloLGS NF;
         font-size : 20px;
     }

@@ -6,8 +6,8 @@ size: 4:3
 ---
 <style>
     :root {
-        --color-background: #101010;
-        --color-foreground: #FFFFFF;
+        --color-background: #FFFFFF;
+        --color-foreground: #101010;
         font-family: MesloLGS NF;
         font-size : 20px;
     }
@@ -80,11 +80,11 @@ size: 4:3
 - **E**val (Proses evaluasi code)
 - **P**rint (Proses menampilkan code)
 - **L**oop (Pengulangan Proses R-E-P)
-> contoh codingan 
->> ```python
-> a = 2 + 3
-> print(a)
-> ```
+>CONTOH CODINGAN
+>```python
+>a = 2 + 3
+>print(a)
+>```
 
 ---
 ![bg contain opacity blur](ueu.png)
@@ -117,19 +117,13 @@ modified, staged, committed:
     - Staged berarti Anda telah menandai file yang  dimodifikasi dalam versi terbaru untuk masuk ke  tahap commit
     - Commit berarti bahwa data disimpan dengan aman  di database local Anda
 
->> CONTOH PENGGUNAAN CLI GIT
->>> Inisialisasi: 
->>> git init
->> Commit: 
->>> git commit -m "first commit"  
->>Branch: 
->>> git branch -M main
->> Add Remote: 
-git remote add origin https://github.com/[user]/[repo].git
->> Push: 
->>> git push -u origin main  
->>> Pull: 
->>> git pull origin [branch]
+CONTOH PENGGUNAAN CLI GIT
+Inisialisasi: git init
+Commit: git commit -m "first commit"  
+Branch: git branch -M main
+Add Remote: git remote add origin https://github.com/[user]/[repo].git
+Push: git push -u origin main  
+Pull: git pull origin [branch]
 
 ---
 ![bg contain opacity blur](ueu.png)
