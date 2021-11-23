@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
 theme: uncover
 paginate: false
 size: 4:3
@@ -7,7 +7,7 @@ size: 4:3
 <style>
     :root {
         --color-background: #FFFFFF;
-        --color-foreground: #000000;
+        --color-foreground: #101010;
         font-family: MesloLGS NF;
         font-size : 20px;
     }
