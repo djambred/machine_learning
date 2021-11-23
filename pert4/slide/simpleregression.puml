@@ -1,4 +1,4 @@
-@startuml
+@startuml simpleregression
 :<math>y = b_0 + b_1 * x_1</math>;
 note right
 Dimana

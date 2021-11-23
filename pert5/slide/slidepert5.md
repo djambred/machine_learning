@@ -6,8 +6,8 @@ size: 4:3
 ---
 <style>
     :root {
-        --color-background: #101010;
-        --color-foreground: #FFFFFF;
+        --color-background: #FFFFFF;
+        --color-foreground: #000;
         font-family: MesloLGS NF;
         font-size : 20px;
     }
@@ -46,10 +46,12 @@ Secara matematis classification adalah tugas mendekati fungsi pemetaan (f) dari 
 ---
 ![bg contain opacity blur](ueu.png)
 # Decision Tree Classification
+Secara umum tidak jauh berbeda dengan Decision Tree Regression karena mereka saling terikat dalam penyelesaian, biasanya Classification digunakan untuk menyelesaikan permasalahan Churn Analysis dan Risk Management Sedangkan untuk Regression nya biasa digunakan untuk menyelesaikan permasalahan metode distribusi
 
 ---
 ![bg contain opacity blur](ueu.png)
 # K-Nearest Neighbors
+![image](knn.png)
 
 ---
 ![bg contain opacity blur](ueu.png)
@@ -58,11 +60,12 @@ Secara matematis classification adalah tugas mendekati fungsi pemetaan (f) dari 
 ---
 ![bg contain opacity blur](ueu.png)
 # Naive Bayes
+![image](bayes.png)
 
 ---
 ![bg contain opacity blur](ueu.png)
 # Random Forest
-
+![image](rfd.svg)
 ---
 ![bg contain opacity blur](ueu.png)
 # Support Vector Machine (SVM)
