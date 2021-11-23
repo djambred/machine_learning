@@ -58,7 +58,7 @@ Regresi merupakan suatu metode yang digunakan dalam pengukuran pengaruh variabel
 
 ---
 ![bg contain opacity blur](ueu.png)
-# Decition Tree Regression
+# Decision Tree Regression
 ![width:500px height:15cm](dtr1.png)
 
 ---

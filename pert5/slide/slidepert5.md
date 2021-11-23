@@ -55,10 +55,6 @@ Secara umum tidak jauh berbeda dengan Decision Tree Regression karena mereka sal
 
 ---
 ![bg contain opacity blur](ueu.png)
-# Decision Logistic Regression
-
----
-![bg contain opacity blur](ueu.png)
 # Naive Bayes
 ![image](bayes.png)
 
@@ -66,13 +62,18 @@ Secara umum tidak jauh berbeda dengan Decision Tree Regression karena mereka sal
 ![bg contain opacity blur](ueu.png)
 # Random Forest
 ![image](rfd.svg)
+
 ---
 ![bg contain opacity blur](ueu.png)
 # Support Vector Machine (SVM)
+![image](svm.png)
+secara sederhana svm mencari hyperplane (batas pemisah) terbaik yang berfungsi sebagai pemisah dua buah class pada input space.
+
 
 ---
 ![bg contain opacity blur](ueu.png)
 # Kernel SVM
+![width:500px height:15cm](svmkernel.png)
 
 ---
 ![bg contain opacity blur](ueu.png)
