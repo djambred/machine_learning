@@ -7,7 +7,7 @@ size: 4:3
 <style>
     :root {
         --color-background: #FFFFFF;
-        --color-foreground: #000;
+        --color-foreground: #000000;
         font-family: MesloLGS NF;
         font-size : 20px;
     }
