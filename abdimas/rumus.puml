@@ -1,0 +1,13 @@
+@startuml forecasting
+:<math>F_t = (Y_t + Y_t_2 + Y_t_3 + Y_t_4)/4</math>;
+note right
+Rumus Prediksi 4 Periode
+Dimana : 
+<math>F_t</math> adalah Forecasting
+<math>Y_t</math> adalah Nilai Variabel ke 4
+<math>Y_t_2</math> adalah Nilai Variabel ke 3 
+<math>Y_t_3</math> adalah Nilai Variabel ke 2 
+<math>Y_t_4</math> adalah Nilai Variabel ke 1 
+<math>4</math> adalah lama periode yang dijadikan sample
+end note
+@enduml

@@ -1,0 +1,20 @@
+Data understanding
+
+Tugas 1
+1. Anda diminta untuk melakukan pengambilan data pada kaggle dengan cara menggunakan tahapan-tahapan yang sudah ada di slide. Anda hanya perlu melakukan download 2 dataset bebas menggunakan tahapan-tahapan tersebut. Screenshot terminal (termasuk kaggle.json) dan list isi folder data dimasukkan ke dalam dokumen yang dikumpulkan.
+https://www.kaggle.com/docs/api
+Filename pengumpulan : tugas-6-1-<id-peserta>.docx
+Pastikan filename yang dikumpulkan sesuai dengan format untuk mempermudah admin mengelola jawaban anda. 
+
+Tugas 2
+https://github.com/hackathonBI/CCS
+Buatlah file ipynb untuk dapat melakukan data understanding berikut ini : 
+1. Buatlah table list Top 5 Customers yang memiliki nilai transaksi paling banyak menggunakan dataframe pada python !
+2. Buatlah list Top 5 Gas stations yang memiliki nilai transaksi paling banyak menggunakan dataframe pada python!
+3. Buatlah list Top 5 Jenis produk yang memiliki nilai transaksi paling banyak menggunakan dataframe pada python!
+4. Buatlah deskripsi statistik untuk masing masing hari (23,24,25,26) pada dataset transaction_1k!
+5. Carilah waktu terbaik (hari dan jam) dimana paling banyak user gas station melakukan transaksi !
+6. Dari segi bisnis understanding, tujuan utama dari analisis data customer ini adalah?- Masukkan jawaban anda pada text di ipynb
+
+Filename pengumpulan : tugas-6-2-<id-peserta>.ipynb
+Pastikan filename yang dikumpulkan sesuai dengan format untuk mempermudah admin mengelola jawaban anda.
