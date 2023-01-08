@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Home</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1 style="text-align: center">Prediksi Penerimaan Mahasiswa Baru</h1>
+
+    <div class="form">
+        <form action="/predict" method="POST">
+            <center>
+                <br><br><br>
+                <label for="rapor">Nilai Rata Rata Rapor</label>
+                <input type="number" name="x" id="x" min="1" max="100"><br><br><br><br>
+                <label for="spmb">Nilai Rata Rata SPMB</label>
+                <input type="number" name="y" id="y" min="1" max="10"><br><br><br>    
+            </center>
+<center>
+    <input type="submit" value="Try">
+</center>
+            
+        </form>
+    </div>
+</div>
+{% endblock %}

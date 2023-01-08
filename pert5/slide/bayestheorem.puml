@@ -1,0 +1,4 @@
+@startuml bayes
+:<math>P(A|B)=P(B|A)*(P(A))/(P(B))</math>;
+
+@enduml

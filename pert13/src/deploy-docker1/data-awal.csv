@@ -1,0 +1,1001 @@
+no_pendaftaran,first_name,last_name,email,gender,asal_sekolah,nilai_mtk,nilai_b_indo,nilai_b_ing,nilai_agama,nilai_penjas,nilai_kimia,nilai_biologi,nilai_fisika,nilai_ppkn,nilai_kesenian,nilai_rata_spmb,keterangan
+1,Sanderson,Codrington,scodrington0@tuttocitta.it,Perempuan,SMA 10,8,6.5,9,8,8,6.5,6.5,7.5,9,8,6.5,pertimbangan
+2,Carlos,Naish,cnaish1@adobe.com,Laki-laki,SMA 2,7,8.5,8,6.5,7.5,8,8,7.5,7,7.5,6.5,lulus
+3,Essie,Kerner,ekerner2@123-reg.co.uk,Perempuan,SMA 3,7.5,6.5,8.5,6.5,7.5,9,7.5,8,8.5,9,9,tidak lulus
+4,Mikol,Sinclaire,msinclaire3@samsung.com,Perempuan,SMA 3,9,6.5,9,9,8,9,9,8.5,7,7.5,6.5,tidak lulus
+5,Dyanna,Schimaschke,dschimaschke4@comsenz.com,Laki-laki,SMA 9,8.5,9,6.5,7,6.5,6.5,6.5,7.5,8.5,6.5,8.5,tidak lulus
+6,Hali,Mixture,hmixture5@cdc.gov,Laki-laki,SMA 6,8,9,8.5,7,8.5,8,7.5,8.5,8,7,7,lulus
+7,Marten,Ivimey,mivimey6@google.fr,Laki-laki,SMA 9,7,7.5,8.5,7.5,9,7,8.5,8.5,7.5,6.5,9,pertimbangan
+8,Simon,Paskerful,spaskerful7@mail.ru,Perempuan,SMA 7,7,7,8,8,9,7.5,9,9,6.5,6.5,8,tidak lulus
+9,Reube,Witherbed,rwitherbed8@sfgate.com,Perempuan,SMA 2,7,9,7,7.5,7.5,7,8.5,7,8,8,7,pertimbangan
+10,Kristel,Clausner,kclausner9@unesco.org,Laki-laki,SMA 4,7,7,6.5,8.5,8,8.5,7.5,7,8.5,9,8,pertimbangan
+11,Lusa,Barnhill,lbarnhilla@ucsd.edu,Perempuan,SMA 10,8,9,6.5,6.5,8.5,8,8,7.5,8.5,9,7.5,tidak lulus
+12,Brnaba,Mungane,bmunganeb@1und1.de,Perempuan,SMA 10,9,8,7,8,9,8.5,7.5,8,6.5,6.5,9,lulus
+13,See,Courson,scoursonc@domainmarket.com,Laki-laki,SMA 2,8,9,9,7,7,6.5,8.5,9,8,9,8.5,tidak lulus
+14,Sanford,Shorto,sshortod@nature.com,Perempuan,SMA 10,7,9,7.5,7,6.5,6.5,6.5,7.5,9,8.5,9,lulus
+15,Valle,Bartaloni,vbartalonie@yahoo.co.jp,Laki-laki,SMA 6,9,8,9,8.5,8,9,7.5,7.5,7,6.5,7,lulus
+16,Sallyanne,Inglish,singlishf@vk.com,Perempuan,SMA 7,8,7,8.5,9,7.5,7,9,8.5,6.5,6.5,8,tidak lulus
+17,Binni,Balaam,bbalaamg@sfgate.com,Perempuan,SMA 10,9,8.5,8,7.5,7.5,8.5,7,6.5,7,8,8,lulus
+18,Daniel,Gierok,dgierokh@sbwire.com,Perempuan,SMA 4,6.5,6.5,8,8,8.5,8.5,6.5,9,7,7.5,7.5,pertimbangan
+19,Bond,Creaser,bcreaseri@wikimedia.org,Perempuan,SMA 6,9,6.5,9,8.5,7,8,8.5,9,9,8,7,pertimbangan
+20,Koenraad,Don,kdonj@histats.com,Laki-laki,SMA 9,8.5,6.5,7,8.5,6.5,8,9,6.5,8,6.5,9,lulus
+21,Alard,Morrowe,amorrowek@ebay.co.uk,Perempuan,SMA 7,6.5,6.5,7.5,6.5,7,8,7,8,9,8,9,tidak lulus
+22,Cristie,Wiggans,cwiggansl@baidu.com,Laki-laki,SMA 11,9,9,7.5,6.5,6.5,6.5,7,6.5,6.5,9,8.5,lulus
+23,Maxwell,Appleford,mapplefordm@forbes.com,Laki-laki,SMA 8,7.5,9,7.5,9,6.5,9,7,8.5,7,9,7,lulus
+24,Hanan,Alcock,halcockn@t-online.de,Laki-laki,SMA 6,7.5,8.5,8.5,8,8.5,7.5,9,7,7.5,9,8.5,pertimbangan
+25,Winifield,Waycott,wwaycotto@goodreads.com,Laki-laki,SMA 7,6.5,8.5,8,9,8,8,9,9,8.5,7,7.5,tidak lulus
+26,Chandler,Thurby,cthurbyp@jalbum.net,Perempuan,SMA 8,7.5,7.5,8,7,9,8,9,8,8.5,7.5,6.5,lulus
+27,Broderic,Lassen,blassenq@discovery.com,Perempuan,SMA 11,8.5,8,7.5,8.5,7,8,9,7.5,8.5,6.5,7.5,lulus
+28,Roth,Radband,rradbandr@flavors.me,Perempuan,SMA 8,8.5,7.5,6.5,7.5,7.5,8,7.5,9,8,6.5,8,lulus
+29,Kamila,Danzelman,kdanzelmans@japanpost.jp,Laki-laki,SMA 11,8.5,8,6.5,9,7.5,9,7.5,6.5,9,7,6.5,tidak lulus
+30,Timoteo,Penas,tpenast@a8.net,Laki-laki,SMA 2,7.5,7.5,8,9,8,6.5,8,7.5,9,8,6.5,pertimbangan
+31,Conway,Endon,cendonu@altervista.org,Perempuan,SMA 5,6.5,6.5,6.5,7.5,9,7.5,7.5,6.5,9,8,8.5,tidak lulus
+32,Alana,Agus,aagusv@goo.gl,Laki-laki,SMA 4,7.5,7.5,9,6.5,7.5,9,6.5,7,7,7.5,8,tidak lulus
+33,Minnie,Acaster,macasterw@businessweek.com,Laki-laki,SMA 5,7,7,8,8,9,8,9,7,9,8,8.5,lulus
+34,Dolly,Ezele,dezelex@twitter.com,Laki-laki,SMA 2,8,6.5,9,7,8.5,7,8,9,7,7,7.5,lulus
+35,Doris,Thomesson,dthomessony@aboutads.info,Laki-laki,SMA 2,7.5,9,8.5,8.5,7,7.5,7.5,9,8,9,7.5,lulus
+36,Marijn,Ellams,mellamsz@jimdo.com,Laki-laki,SMA 5,9,9,9,6.5,9,7.5,9,7.5,8,7.5,7,lulus
+37,Dallas,Stirrup,dstirrup10@deliciousdays.com,Laki-laki,SMA 6,8,6.5,9,7.5,8,9,7.5,7.5,9,8,9,lulus
+38,Robinet,Bleby,rbleby11@slashdot.org,Laki-laki,SMA 8,9,8.5,7.5,8,8,8.5,8,8.5,7,7,8,tidak lulus
+39,Ibbie,Vanacci,ivanacci12@microsoft.com,Laki-laki,SMA 1,7,7.5,9,7.5,7.5,8.5,8.5,8,6.5,6.5,9,tidak lulus
+40,Devinne,Lakeman,dlakeman13@zimbio.com,Laki-laki,SMA 7,9,7.5,7,9,9,9,8.5,8,8.5,8.5,7,pertimbangan
+41,Natalie,Ferran,nferran14@unesco.org,Laki-laki,SMA 11,8,8,7.5,8,8,8,9,7.5,9,8,9,tidak lulus
+42,Normand,Feldfisher,nfeldfisher15@ameblo.jp,Laki-laki,SMA 11,6.5,9,9,6.5,7.5,7,8,8,8,6.5,8,pertimbangan
+43,Brianna,Dimmne,bdimmne16@adobe.com,Perempuan,SMA 2,7.5,7.5,7.5,6.5,9,8.5,8.5,8,7.5,8.5,7.5,lulus
+44,Lindi,Yurchishin,lyurchishin17@springer.com,Perempuan,SMA 4,8,8,8.5,6.5,9,8,8,8.5,7.5,6.5,9,lulus
+45,Upton,Hannigan,uhannigan18@bloglines.com,Perempuan,SMA 2,6.5,8.5,9,9,9,7,7.5,7,7.5,7,8,tidak lulus
+46,Amble,Stood,astood19@github.io,Perempuan,SMA 3,6.5,6.5,8.5,8,6.5,6.5,6.5,8,7,6.5,6.5,lulus
+47,Julie,Kibble,jkibble1a@columbia.edu,Perempuan,SMA 6,9,6.5,6.5,8,8.5,7,7.5,7.5,7,6.5,6.5,tidak lulus
+48,Delora,Jansen,djansen1b@stumbleupon.com,Perempuan,SMA 5,7.5,6.5,7.5,6.5,9,7,8.5,6.5,7.5,7.5,9,tidak lulus
+49,Abeu,Aykroyd,aaykroyd1c@foxnews.com,Laki-laki,SMA 4,8.5,6.5,8,9,8,8,8.5,6.5,7,7,6.5,tidak lulus
+50,Andria,Emmot,aemmot1d@telegraph.co.uk,Laki-laki,SMA 2,7,7.5,7,9,8.5,8,7,8.5,7,6.5,8.5,pertimbangan
+51,Sherlock,Tousy,stousy1e@people.com.cn,Laki-laki,SMA 1,9,7,8,7,7.5,6.5,9,6.5,6.5,8,8.5,lulus
+52,Pedro,De la Perrelle,pdelaperrelle1f@jimdo.com,Laki-laki,SMA 8,6.5,6.5,7,7,9,7.5,9,7,6.5,6.5,6.5,pertimbangan
+53,Alexio,Broadbridge,abroadbridge1g@people.com.cn,Perempuan,SMA 7,9,7,8.5,8.5,6.5,6.5,6.5,6.5,9,7,7.5,tidak lulus
+54,Tiphanie,Musso,tmusso1h@mac.com,Perempuan,SMA 5,6.5,6.5,7,7.5,7.5,9,8,6.5,9,8,8.5,tidak lulus
+55,Leanna,Maunton,lmaunton1i@flavors.me,Perempuan,SMA 9,8,7.5,8.5,8.5,7,6.5,7,9,6.5,8,7.5,lulus
+56,Humfrey,Jansky,hjansky1j@ca.gov,Laki-laki,SMA 11,8.5,8,7,6.5,6.5,9,6.5,7.5,8,9,6.5,pertimbangan
+57,Baron,Knudsen,bknudsen1k@senate.gov,Laki-laki,SMA 3,8,7.5,9,9,8,7,7.5,8,9,8,8.5,lulus
+58,Reube,Leverett,rleverett1l@state.gov,Laki-laki,SMA 1,8,7,6.5,6.5,6.5,8,8.5,9,8,7,7.5,lulus
+59,Cally,Maccrea,cmaccrea1m@sphinn.com,Perempuan,SMA 10,9,8,6.5,7.5,8.5,8.5,9,8.5,7,7,7,tidak lulus
+60,Stanley,O'Brogan,sobrogan1n@ow.ly,Laki-laki,SMA 8,6.5,8.5,7,7.5,6.5,6.5,8,8,7.5,7,8,tidak lulus
+61,Robinia,North,rnorth1o@loc.gov,Perempuan,SMA 7,8,8,7.5,8,7.5,7,7.5,6.5,6.5,7.5,9,tidak lulus
+62,Delmer,O'Brollachain,dobrollachain1p@tumblr.com,Laki-laki,SMA 6,9,7,8,6.5,8,8,7.5,6.5,6.5,8.5,6.5,pertimbangan
+63,Gregory,Feenan,gfeenan1q@hhs.gov,Laki-laki,SMA 7,7.5,8,8.5,7.5,7,6.5,6.5,7.5,8.5,8.5,6.5,lulus
+64,Maryl,Fussen,mfussen1r@cam.ac.uk,Perempuan,SMA 11,7.5,8.5,7.5,8.5,7,8.5,7,8.5,7,7.5,6.5,lulus
+65,Sherlocke,Pattie,spattie1s@discovery.com,Perempuan,SMA 3,7.5,6.5,6.5,8,8.5,7.5,6.5,9,8,7,6.5,tidak lulus
+66,Peterus,McPhaden,pmcphaden1t@w3.org,Laki-laki,SMA 8,8.5,7.5,6.5,6.5,8.5,7.5,9,7,7,9,9,lulus
+67,Loutitia,Quarry,lquarry1u@baidu.com,Perempuan,SMA 4,8,7,6.5,9,7,8,8,7,8.5,7.5,8,lulus
+68,Rikki,McLanachan,rmclanachan1v@dailymail.co.uk,Laki-laki,SMA 8,7,7.5,9,7.5,8,7,7.5,9,9,8.5,8.5,lulus
+69,Margo,Strother,mstrother1w@google.cn,Perempuan,SMA 9,7,8,8,9,7,8,8,7,7,7.5,8.5,tidak lulus
+70,Olympie,Paunton,opaunton1x@accuweather.com,Laki-laki,SMA 6,8,8.5,8.5,7,7,7.5,6.5,8.5,7,8.5,8.5,tidak lulus
+71,Brok,Wescott,bwescott1y@google.fr,Laki-laki,SMA 5,9,8,8.5,8,7.5,8,9,6.5,9,8.5,9,lulus
+72,Brennen,Mossop,bmossop1z@amazon.co.uk,Laki-laki,SMA 4,8.5,8.5,8,6.5,9,8.5,7,7.5,8,9,7,tidak lulus
+73,Grange,Breward,gbreward20@fda.gov,Laki-laki,SMA 6,6.5,9,8.5,7,8,7,6.5,7,6.5,8.5,7.5,tidak lulus
+74,Tannie,Mattacks,tmattacks21@virginia.edu,Perempuan,SMA 3,8,6.5,8,9,8.5,8.5,8.5,8,8.5,8.5,7,tidak lulus
+75,Herbie,Gurrado,hgurrado22@jigsy.com,Perempuan,SMA 2,6.5,9,7,8,8,7.5,8,7.5,8.5,8.5,8.5,pertimbangan
+76,Steward,Pindar,spindar23@uiuc.edu,Perempuan,SMA 8,7,8,8.5,8.5,9,9,7.5,7,8.5,7.5,6.5,tidak lulus
+77,Sutherland,Shovlar,sshovlar24@webnode.com,Perempuan,SMA 9,7.5,7,8,8.5,8.5,7.5,9,9,7,8.5,7,tidak lulus
+78,Merilyn,Robak,mrobak25@google.com.hk,Laki-laki,SMA 1,8.5,7,6.5,7,8.5,7.5,9,7,7,8,7.5,pertimbangan
+79,Queenie,Beneix,qbeneix26@xing.com,Perempuan,SMA 4,6.5,8.5,7,6.5,7.5,8,9,8,9,7.5,9,tidak lulus
+80,Cleo,Stitle,cstitle27@dion.ne.jp,Perempuan,SMA 8,8,6.5,9,8.5,6.5,8.5,9,7,6.5,6.5,7,tidak lulus
+81,Prue,Meert,pmeert28@ebay.co.uk,Laki-laki,SMA 9,7,7.5,8.5,7,8,7,9,7.5,8,9,7.5,pertimbangan
+82,Siobhan,Manzell,smanzell29@webnode.com,Laki-laki,SMA 9,9,8.5,8,9,9,8,8,6.5,7.5,9,8,lulus
+83,Kathryn,Penney,kpenney2a@statcounter.com,Laki-laki,SMA 3,7,7,9,7,9,7,8.5,7,8,8,8.5,pertimbangan
+84,Ignaz,Grindell,igrindell2b@sphinn.com,Perempuan,SMA 3,9,6.5,7,7,8.5,7,9,8,8.5,6.5,7,tidak lulus
+85,Neil,McGlashan,nmcglashan2c@ezinearticles.com,Perempuan,SMA 4,6.5,7,9,8,8,7.5,7.5,8.5,8,9,8.5,pertimbangan
+86,Claretta,Shapcote,cshapcote2d@blogs.com,Laki-laki,SMA 4,7.5,7.5,8,9,8,8.5,7.5,8.5,7.5,6.5,6.5,pertimbangan
+87,Palm,Greeveson,pgreeveson2e@apache.org,Perempuan,SMA 6,7,7.5,8,8,6.5,8.5,8,8,8,7,6.5,lulus
+88,Andreana,Melhuish,amelhuish2f@infoseek.co.jp,Laki-laki,SMA 7,9,8,8,7.5,6.5,9,9,8,9,6.5,8,pertimbangan
+89,Ciel,Pinner,cpinner2g@bbb.org,Laki-laki,SMA 1,8.5,7,8.5,7,6.5,8,8,8.5,8,6.5,8.5,tidak lulus
+90,Florrie,Bellord,fbellord2h@arstechnica.com,Perempuan,SMA 8,9,7.5,9,9,7,6.5,6.5,8.5,9,7.5,7.5,tidak lulus
+91,Juanita,Braunle,jbraunle2i@army.mil,Laki-laki,SMA 7,8.5,7,8,8.5,7,6.5,6.5,7.5,7,7.5,6.5,tidak lulus
+92,Elmore,Narup,enarup2j@barnesandnoble.com,Laki-laki,SMA 2,9,8,8.5,8.5,6.5,7,9,8,6.5,7,7.5,tidak lulus
+93,Fergus,Morena,fmorena2k@admin.ch,Laki-laki,SMA 10,6.5,9,8.5,7.5,8.5,8.5,6.5,7.5,8.5,8,8,tidak lulus
+94,Marius,McDiarmid,mmcdiarmid2l@cdbaby.com,Laki-laki,SMA 10,7,7,8.5,7.5,8,8,7.5,7.5,6.5,7,7.5,tidak lulus
+95,Bobbie,Klima,bklima2m@furl.net,Laki-laki,SMA 5,7,8,8,8.5,6.5,8.5,8,8,7,8,8,lulus
+96,Biron,Cartmale,bcartmale2n@slashdot.org,Perempuan,SMA 8,8,6.5,6.5,9,8.5,8.5,7.5,7,6.5,8.5,7.5,tidak lulus
+97,Giffy,Havelin,ghavelin2o@bloglines.com,Perempuan,SMA 2,9,6.5,6.5,9,8,7,7,6.5,9,7.5,9,lulus
+98,Dorene,Condliffe,dcondliffe2p@npr.org,Perempuan,SMA 5,8.5,7,7.5,8,8,8.5,7.5,9,8,7.5,9,tidak lulus
+99,Elena,Martonfi,emartonfi2q@jiathis.com,Laki-laki,SMA 10,7.5,8.5,7.5,9,6.5,7.5,8,6.5,7,6.5,6.5,pertimbangan
+100,Eyde,Velez,evelez2r@etsy.com,Laki-laki,SMA 4,8.5,7.5,9,7,7.5,7.5,7,9,8.5,7.5,7.5,tidak lulus
+101,Rurik,Nasey,rnasey2s@netscape.com,Perempuan,SMA 8,8.5,6.5,7,8,8,7.5,8.5,6.5,8,7.5,7.5,lulus
+102,Laurena,Lymbourne,llymbourne2t@dailymotion.com,Perempuan,SMA 11,7,8.5,7.5,6.5,8.5,9,7.5,7.5,8.5,8,7.5,pertimbangan
+103,Yuma,Baudoux,ybaudoux2u@mail.ru,Laki-laki,SMA 8,8.5,7.5,8,8.5,7,8.5,9,8.5,7,6.5,7,lulus
+104,Kristal,O'Kieran,kokieran2v@uiuc.edu,Perempuan,SMA 3,9,8,7.5,7,6.5,8.5,7.5,8,7,9,6.5,tidak lulus
+105,Cynthea,Robbel,crobbel2w@princeton.edu,Perempuan,SMA 10,6.5,9,9,8.5,7.5,9,8,6.5,6.5,7,9,lulus
+106,Iona,Gass,igass2x@kickstarter.com,Laki-laki,SMA 11,7.5,7,6.5,8.5,7.5,8.5,9,8.5,6.5,7,6.5,pertimbangan
+107,Madeline,Mills,mmills2y@bluehost.com,Perempuan,SMA 8,7,7,7.5,8.5,8.5,9,6.5,6.5,8.5,7,8,lulus
+108,Dodi,Drynan,ddrynan2z@mac.com,Laki-laki,SMA 4,8,8,8.5,6.5,6.5,8,9,8.5,6.5,6.5,6.5,tidak lulus
+109,Annabell,Sloey,asloey30@hugedomains.com,Laki-laki,SMA 10,9,7.5,8,7.5,7,7,6.5,9,8,8.5,8,lulus
+110,Zitella,Thurling,zthurling31@irs.gov,Laki-laki,SMA 3,7,8.5,8.5,6.5,9,7.5,8.5,8,6.5,7,7.5,pertimbangan
+111,Marcelo,Whyler,mwhyler32@icio.us,Perempuan,SMA 8,7.5,8,8,7,9,9,7,8,7,8.5,9,lulus
+112,Griz,Braker,gbraker33@census.gov,Laki-laki,SMA 7,7,7,7.5,8,8,7.5,8,8,6.5,8.5,9,pertimbangan
+113,Felicio,Scotchmore,fscotchmore34@washington.edu,Perempuan,SMA 11,7.5,7,8,7.5,6.5,6.5,6.5,8,8,6.5,9,pertimbangan
+114,Malena,Filippo,mfilippo35@weather.com,Perempuan,SMA 10,7,8,8,7,8.5,7,8.5,8,7,7.5,7.5,pertimbangan
+115,Gilly,Londesborough,glondesborough36@lycos.com,Perempuan,SMA 5,9,6.5,8.5,6.5,7,8.5,9,7.5,7,8.5,8,tidak lulus
+116,Ricoriki,Grealey,rgrealey37@geocities.com,Laki-laki,SMA 4,6.5,7,9,7.5,8.5,8.5,7.5,8,7,6.5,7,tidak lulus
+117,Annissa,Denecamp,adenecamp38@tinyurl.com,Perempuan,SMA 3,9,9,8.5,7,7,8,8,6.5,7.5,6.5,6.5,pertimbangan
+118,Maje,Stickings,mstickings39@independent.co.uk,Perempuan,SMA 1,8,6.5,7.5,8,7.5,7,8.5,8,8.5,8.5,9,tidak lulus
+119,Tabby,Schultze,tschultze3a@google.co.jp,Laki-laki,SMA 7,6.5,9,7,8,8,9,8.5,7.5,7.5,6.5,8.5,pertimbangan
+120,Oates,Tarpey,otarpey3b@ca.gov,Laki-laki,SMA 8,9,7.5,9,7,6.5,9,6.5,7.5,6.5,6.5,9,pertimbangan
+121,Ingrid,Izkovitch,iizkovitch3c@sitemeter.com,Laki-laki,SMA 3,8,6.5,7,7.5,8,7,6.5,9,8,7.5,7.5,tidak lulus
+122,Valry,Abramamov,vabramamov3d@webmd.com,Perempuan,SMA 1,8,8,8.5,6.5,7,7,8,7,7.5,6.5,8.5,pertimbangan
+123,Brendan,Blaver,bblaver3e@tmall.com,Perempuan,SMA 7,7.5,9,9,7,8.5,9,9,9,7,8.5,6.5,lulus
+124,Morry,Mahmood,mmahmood3f@admin.ch,Perempuan,SMA 3,7.5,6.5,7,6.5,8.5,7.5,8.5,9,6.5,8.5,7.5,lulus
+125,Ravid,Crickmore,rcrickmore3g@goo.gl,Perempuan,SMA 6,7,6.5,7.5,7,7,7,8.5,8,6.5,8.5,8.5,pertimbangan
+126,Cyndi,Gilley,cgilley3h@merriam-webster.com,Perempuan,SMA 5,6.5,9,8.5,6.5,6.5,8,9,7,8.5,9,7,pertimbangan
+127,Holt,Ranstead,hranstead3i@msn.com,Perempuan,SMA 7,7.5,8,8,7.5,6.5,6.5,7.5,8,7,8.5,7,tidak lulus
+128,Gaylord,Draxford,gdraxford3j@mozilla.org,Laki-laki,SMA 2,8,7.5,7.5,9,8,9,9,7,7,8.5,8.5,lulus
+129,Hyman,Studdert,hstuddert3k@businesswire.com,Perempuan,SMA 11,7,8.5,6.5,7,6.5,6.5,7,8.5,7.5,7.5,6.5,lulus
+130,Ellerey,Renzini,erenzini3l@redcross.org,Perempuan,SMA 1,6.5,6.5,8.5,8,9,6.5,7.5,8,7.5,8.5,8,pertimbangan
+131,Mada,Saffon,msaffon3m@noaa.gov,Perempuan,SMA 3,8.5,8,6.5,8.5,7,7,8.5,8,8.5,8.5,8,tidak lulus
+132,Nessa,Raffin,nraffin3n@blogtalkradio.com,Laki-laki,SMA 4,7,8.5,8,7,7.5,7,7.5,7,7,8,7.5,pertimbangan
+133,Palmer,Scase,pscase3o@weather.com,Perempuan,SMA 2,6.5,8,9,8,7,6.5,8,8.5,8,8,6.5,lulus
+134,Breena,Anfrey,banfrey3p@hatena.ne.jp,Laki-laki,SMA 7,7,7.5,7.5,9,7.5,9,8,7,7,9,7.5,lulus
+135,Bathsheba,Melin,bmelin3q@vinaora.com,Laki-laki,SMA 8,7.5,7.5,6.5,7,7.5,7,7.5,8.5,8.5,7,8.5,pertimbangan
+136,Shayla,Skelhorn,sskelhorn3r@bbb.org,Laki-laki,SMA 10,6.5,8.5,8.5,8,9,7.5,7,9,8.5,6.5,9,pertimbangan
+137,Stanislas,Shiel,sshiel3s@addtoany.com,Laki-laki,SMA 4,8.5,8.5,6.5,6.5,7,8,7,7,7.5,7.5,8,tidak lulus
+138,Kendra,Flindall,kflindall3t@topsy.com,Laki-laki,SMA 3,9,9,8,8.5,8.5,6.5,7,8,7,9,8.5,pertimbangan
+139,Merlina,Gymlett,mgymlett3u@vimeo.com,Perempuan,SMA 5,8.5,7,8.5,8.5,7.5,7,7,7,7.5,8,9,lulus
+140,Gabriello,Tapp,gtapp3v@geocities.com,Perempuan,SMA 10,8.5,7,6.5,9,6.5,8,6.5,7.5,8,7,7,tidak lulus
+141,Sunny,Bofield,sbofield3w@smugmug.com,Laki-laki,SMA 8,7.5,8.5,7.5,8.5,7,8,9,8.5,6.5,9,8.5,lulus
+142,Gloriana,Siley,gsiley3x@gov.uk,Perempuan,SMA 2,9,6.5,8,6.5,6.5,6.5,7.5,8.5,9,6.5,7.5,lulus
+143,Karlotta,Sherel,ksherel3y@ustream.tv,Laki-laki,SMA 1,9,7.5,7,8,9,8.5,6.5,7.5,8,8,9,pertimbangan
+144,Raeann,Huntress,rhuntress3z@rambler.ru,Perempuan,SMA 5,9,8.5,6.5,9,7,8,7,7.5,9,6.5,7.5,pertimbangan
+145,Herold,Kneal,hkneal40@zimbio.com,Laki-laki,SMA 11,7.5,8,6.5,8.5,6.5,8,7.5,9,8,9,8.5,pertimbangan
+146,D'arcy,Thalmann,dthalmann41@gov.uk,Perempuan,SMA 11,7.5,6.5,7,9,7.5,8,6.5,6.5,8.5,9,8,tidak lulus
+147,Bobine,Abrahamsohn,babrahamsohn42@mtv.com,Laki-laki,SMA 3,7.5,6.5,6.5,8,8,7.5,7,7,7,9,9,tidak lulus
+148,Corenda,Greenwood,cgreenwood43@fastcompany.com,Laki-laki,SMA 10,9,6.5,8.5,7.5,7,6.5,7,7,8,6.5,8,lulus
+149,Ned,Drowsfield,ndrowsfield44@purevolume.com,Perempuan,SMA 4,9,9,7.5,6.5,6.5,6.5,6.5,8,7,6.5,8.5,pertimbangan
+150,Helenelizabeth,Dunstan,hdunstan45@businessinsider.com,Perempuan,SMA 9,8,7,7,7.5,8,9,7,9,6.5,8.5,7,lulus
+151,Gaby,Breese,gbreese46@hao123.com,Laki-laki,SMA 1,6.5,8,9,7,8.5,9,7.5,9,9,9,8,tidak lulus
+152,Agosto,Skippings,askippings47@163.com,Perempuan,SMA 1,8.5,7.5,7.5,6.5,7.5,7,7.5,8,7,6.5,6.5,lulus
+153,Ari,Dovinson,adovinson48@blogs.com,Laki-laki,SMA 9,8,9,8.5,6.5,8.5,8.5,7,6.5,7.5,7.5,7,lulus
+154,Hedy,Ceeley,hceeley49@quantcast.com,Perempuan,SMA 10,9,7,7,8.5,7.5,8.5,7,8.5,6.5,7.5,8.5,lulus
+155,Peirce,Finders,pfinders4a@desdev.cn,Laki-laki,SMA 3,7.5,6.5,7,8,6.5,9,7,8.5,7,7.5,8,tidak lulus
+156,Ugo,Bramsen,ubramsen4b@reference.com,Perempuan,SMA 5,9,6.5,7,9,7,7.5,7,8,7.5,8.5,7.5,pertimbangan
+157,Garry,Loughman,gloughman4c@nymag.com,Perempuan,SMA 1,8,9,8,7,8,7.5,7.5,9,8,8.5,8.5,lulus
+158,Eva,Gioani,egioani4d@google.ca,Perempuan,SMA 5,9,7.5,7.5,9,9,6.5,6.5,8.5,8.5,6.5,8,lulus
+159,Loise,Jobbins,ljobbins4e@weibo.com,Laki-laki,SMA 1,7,9,9,7,9,8.5,7,8,6.5,7,8.5,tidak lulus
+160,Cory,Ringwood,cringwood4f@smugmug.com,Perempuan,SMA 6,9,9,8.5,9,7.5,9,9,9,7,7,8.5,lulus
+161,Adina,Bilbrooke,abilbrooke4g@booking.com,Perempuan,SMA 1,7,8.5,8.5,7.5,7,7.5,9,7.5,7,8,8.5,lulus
+162,Julee,Saben,jsaben4h@unc.edu,Perempuan,SMA 7,8,7.5,7,6.5,7.5,7.5,7.5,8.5,6.5,6.5,6.5,lulus
+163,Baillie,Hendrich,bhendrich4i@nyu.edu,Perempuan,SMA 3,7,7.5,6.5,8,8,7,8,8,9,8.5,7.5,lulus
+164,Robbyn,Hucquart,rhucquart4j@themeforest.net,Perempuan,SMA 5,8,8.5,6.5,9,6.5,9,8,6.5,7.5,8.5,6.5,lulus
+165,Giles,Able,gable4k@reddit.com,Laki-laki,SMA 8,6.5,8,8.5,6.5,7.5,8.5,7,6.5,8,8.5,9,pertimbangan
+166,Cleveland,Artiss,cartiss4l@ifeng.com,Perempuan,SMA 7,6.5,6.5,7,6.5,6.5,9,7,8,6.5,6.5,9,pertimbangan
+167,Wilton,Hyrons,whyrons4m@eventbrite.com,Perempuan,SMA 2,6.5,8.5,6.5,8,8.5,9,7,6.5,8.5,8,9,pertimbangan
+168,Melva,de Villier,mdevillier4n@usnews.com,Laki-laki,SMA 8,8,6.5,7.5,9,8.5,6.5,6.5,8,9,8,8.5,pertimbangan
+169,Crissie,Tremlett,ctremlett4o@adobe.com,Laki-laki,SMA 8,7.5,6.5,6.5,7.5,8.5,8.5,7,7,8,8,7,lulus
+170,Krystyna,Joynson,kjoynson4p@amazon.co.jp,Laki-laki,SMA 5,9,6.5,6.5,9,6.5,7.5,6.5,7.5,7,8,8,pertimbangan
+171,Ulla,Brecknock,ubrecknock4q@plala.or.jp,Perempuan,SMA 1,7.5,7,7.5,9,7.5,8.5,8.5,8.5,6.5,7.5,9,lulus
+172,Myrna,Crighton,mcrighton4r@oracle.com,Laki-laki,SMA 9,7.5,6.5,8,7.5,6.5,6.5,7.5,6.5,7,7,7,tidak lulus
+173,Bron,Bearcock,bbearcock4s@techcrunch.com,Perempuan,SMA 5,7.5,8.5,8.5,8,8,8.5,9,9,8,7,8,pertimbangan
+174,Wells,Kunzelmann,wkunzelmann4t@prlog.org,Perempuan,SMA 9,6.5,7,8,7,9,7.5,7.5,7.5,8.5,8.5,6.5,pertimbangan
+175,Hollyanne,Calfe,hcalfe4u@hao123.com,Perempuan,SMA 11,8.5,9,7.5,6.5,6.5,8,6.5,7.5,9,8.5,9,pertimbangan
+176,Milt,Bonnar,mbonnar4v@berkeley.edu,Perempuan,SMA 9,7,7,8.5,7.5,8.5,9,7,9,6.5,7,9,tidak lulus
+177,Warner,Josselson,wjosselson4w@phoca.cz,Perempuan,SMA 3,7.5,6.5,8,7.5,7,6.5,9,9,8.5,9,7,pertimbangan
+178,Scotti,Macer,smacer4x@woothemes.com,Laki-laki,SMA 4,7.5,8.5,9,7.5,7.5,6.5,7.5,8,8,9,8.5,tidak lulus
+179,Haley,Ligerton,hligerton4y@webeden.co.uk,Perempuan,SMA 3,6.5,7,8,9,6.5,8.5,7.5,7.5,8,8,7.5,pertimbangan
+180,Hershel,Durdy,hdurdy4z@nyu.edu,Perempuan,SMA 9,7.5,6.5,8,7,8,8,6.5,6.5,7,6.5,7.5,pertimbangan
+181,Lanae,Gligori,lgligori50@ebay.co.uk,Perempuan,SMA 5,7,7.5,7.5,8,6.5,8,9,9,7,8.5,9,lulus
+182,Davidson,Godsafe,dgodsafe51@wikimedia.org,Laki-laki,SMA 2,8.5,8.5,9,8,9,6.5,6.5,6.5,6.5,8.5,7.5,lulus
+183,Stanfield,MacLese,smaclese52@yandex.ru,Perempuan,SMA 3,9,9,6.5,6.5,6.5,9,7,7,7.5,9,7.5,lulus
+184,Tami,Sunshine,tsunshine53@yolasite.com,Laki-laki,SMA 8,8.5,7.5,6.5,7.5,7,6.5,7.5,7.5,7,7,7,lulus
+185,Matti,Andrivot,mandrivot54@paginegialle.it,Perempuan,SMA 9,7,7,8,7.5,8,6.5,9,7,6.5,7.5,7.5,pertimbangan
+186,Jo ann,Knewstubb,jknewstubb55@sphinn.com,Perempuan,SMA 6,8,8.5,7.5,7,6.5,6.5,7,7,9,9,8,tidak lulus
+187,Laryssa,Jirzik,ljirzik56@is.gd,Laki-laki,SMA 5,7.5,9,6.5,6.5,8.5,7.5,7,6.5,8.5,7,6.5,lulus
+188,Israel,Gouldeby,igouldeby57@jugem.jp,Laki-laki,SMA 3,8.5,6.5,7.5,9,9,8,9,6.5,8.5,8,7,lulus
+189,Haleigh,Thecham,hthecham58@surveymonkey.com,Laki-laki,SMA 4,8.5,8,6.5,8,8.5,6.5,8.5,7,7,8,6.5,lulus
+190,Cristian,Farnes,cfarnes59@woothemes.com,Laki-laki,SMA 9,8.5,9,8.5,8,8.5,7,8,7,7,9,9,pertimbangan
+191,Diane,Ling,dling5a@yolasite.com,Laki-laki,SMA 10,9,6.5,7.5,8.5,7.5,8.5,6.5,8.5,8,8,7.5,lulus
+192,Eveline,Iacovo,eiacovo5b@skype.com,Laki-laki,SMA 1,8,7.5,8.5,8.5,8,8.5,6.5,6.5,7,7.5,7.5,lulus
+193,Gerhard,Josilevich,gjosilevich5c@arizona.edu,Perempuan,SMA 7,7,9,6.5,8,8.5,7.5,9,9,9,7.5,6.5,pertimbangan
+194,Harriet,Claybourn,hclaybourn5d@t-online.de,Laki-laki,SMA 2,7,7,7,9,7.5,8.5,7,9,9,8,6.5,tidak lulus
+195,Evelin,Tomas,etomas5e@dyndns.org,Laki-laki,SMA 6,7,9,7,7.5,9,8.5,9,7.5,7,7.5,8,pertimbangan
+196,Maurie,Yansons,myansons5f@taobao.com,Perempuan,SMA 11,8,7.5,9,7,7,8.5,8,9,9,6.5,8.5,lulus
+197,Lavinie,Undrell,lundrell5g@qq.com,Laki-laki,SMA 11,9,7.5,7.5,8,7.5,8.5,8.5,8,7,7,8.5,pertimbangan
+198,Keri,Tidbury,ktidbury5h@amazonaws.com,Laki-laki,SMA 6,7,6.5,8,9,8.5,8,8,8.5,9,9,7,tidak lulus
+199,Ellary,Marfe,emarfe5i@utexas.edu,Laki-laki,SMA 2,8,7.5,7,8,8.5,8,8.5,8,9,6.5,8.5,tidak lulus
+200,Cordie,Popple,cpopple5j@si.edu,Perempuan,SMA 1,8.5,8.5,7.5,6.5,6.5,9,8,7.5,7.5,7,7.5,tidak lulus
+201,Fredek,Seedull,fseedull5k@skyrock.com,Perempuan,SMA 11,8.5,7.5,9,8.5,8,9,7,8.5,8,9,7.5,pertimbangan
+202,Elena,Fewster,efewster5l@furl.net,Laki-laki,SMA 8,9,8,8,8.5,8.5,9,8,7,7,8,9,pertimbangan
+203,Orly,Bratch,obratch5m@bbc.co.uk,Laki-laki,SMA 3,7,9,8,7,6.5,7.5,8.5,8,9,7.5,7.5,tidak lulus
+204,Noam,Hadgraft,nhadgraft5n@huffingtonpost.com,Laki-laki,SMA 5,6.5,8.5,8.5,9,7,7,9,7,8.5,7,8.5,tidak lulus
+205,Marijn,L'oiseau,mloiseau5o@typepad.com,Perempuan,SMA 2,7,7.5,7.5,7,9,8.5,8.5,7,8,9,7.5,tidak lulus
+206,Vilma,Kenyon,vkenyon5p@japanpost.jp,Perempuan,SMA 1,6.5,6.5,8,7,7,7,7,7,7,7,6.5,tidak lulus
+207,Agathe,Bartzen,abartzen5q@example.com,Perempuan,SMA 9,9,8,9,9,8.5,6.5,8,9,8.5,8,8.5,tidak lulus
+208,Emilia,Bolt,ebolt5r@facebook.com,Laki-laki,SMA 9,6.5,7.5,6.5,7,8.5,8,7.5,8,8.5,7.5,7,lulus
+209,Herby,Nealand,hnealand5s@nature.com,Perempuan,SMA 8,7,9,7,9,7,9,8,8,8.5,8,9,pertimbangan
+210,Joseito,Chatres,jchatres5t@economist.com,Perempuan,SMA 4,7.5,6.5,8.5,7,9,6.5,6.5,9,9,9,6.5,pertimbangan
+211,Evelin,Blackall,eblackall5u@ocn.ne.jp,Perempuan,SMA 1,7.5,8.5,8,7,7.5,8,7,9,7,7.5,8.5,lulus
+212,Ettie,Stonhewer,estonhewer5v@guardian.co.uk,Perempuan,SMA 10,8.5,9,8.5,9,7,8.5,7.5,8,7.5,7,8,tidak lulus
+213,Lazar,Bewsy,lbewsy5w@google.cn,Perempuan,SMA 11,8,6.5,7,8,8,9,8,8.5,8.5,8.5,7,lulus
+214,Timmy,Copp,tcopp5x@sakura.ne.jp,Laki-laki,SMA 2,8,7.5,9,8.5,6.5,8,8.5,8.5,6.5,9,8,lulus
+215,Madelaine,Newbegin,mnewbegin5y@bandcamp.com,Perempuan,SMA 9,8,6.5,7.5,6.5,7.5,9,8,8,7,9,9,lulus
+216,Evonne,Bosenworth,ebosenworth5z@unc.edu,Perempuan,SMA 1,7,7.5,6.5,8,7,7.5,7.5,8.5,8,8,7,tidak lulus
+217,Taite,Plascott,tplascott60@alibaba.com,Perempuan,SMA 5,7,7,7.5,9,7.5,7.5,9,6.5,7.5,8.5,9,lulus
+218,Haslett,Gemson,hgemson61@hugedomains.com,Laki-laki,SMA 6,6.5,8,8.5,8,7.5,8.5,6.5,9,8.5,7.5,8,pertimbangan
+219,Katha,Brooke,kbrooke62@fda.gov,Laki-laki,SMA 5,7.5,9,7,7.5,8,9,6.5,9,6.5,6.5,7,pertimbangan
+220,Donall,Chippindale,dchippindale63@ft.com,Laki-laki,SMA 7,7,7,7.5,7,8,6.5,8,8,9,8,8,tidak lulus
+221,Sarajane,Marin,smarin64@gravatar.com,Perempuan,SMA 11,8.5,7,7,6.5,6.5,8.5,9,8,9,7,8.5,pertimbangan
+222,Virginia,Westhead,vwesthead65@about.me,Perempuan,SMA 8,8,9,9,6.5,7,7.5,9,7,7,6.5,8.5,pertimbangan
+223,Patric,Rait,prait66@elpais.com,Perempuan,SMA 4,6.5,7,6.5,9,7.5,8,7,7.5,9,8,6.5,tidak lulus
+224,Kristen,Gay,kgay67@exblog.jp,Perempuan,SMA 9,6.5,7.5,7.5,7.5,9,7,7.5,7,9,9,7.5,pertimbangan
+225,Chlo,Schneidar,cschneidar68@nytimes.com,Laki-laki,SMA 7,8,6.5,7,6.5,8,6.5,8,8,8,8.5,8,pertimbangan
+226,Adham,Harback,aharback69@craigslist.org,Laki-laki,SMA 5,7.5,9,7,7.5,8.5,7.5,8,8,8,8,8.5,pertimbangan
+227,Gena,Marzele,gmarzele6a@stumbleupon.com,Perempuan,SMA 10,7.5,8,7,7.5,7.5,7,9,7,8.5,7.5,9,tidak lulus
+228,Horace,Napoli,hnapoli6b@icio.us,Laki-laki,SMA 6,7,7.5,7,7.5,8.5,8,7,7.5,9,8.5,7.5,lulus
+229,Juditha,Taphouse,jtaphouse6c@wordpress.com,Laki-laki,SMA 5,8,7.5,8,7,9,8,8.5,7,8.5,8.5,7.5,pertimbangan
+230,Jerry,Itshak,jitshak6d@cargocollective.com,Perempuan,SMA 11,8.5,7.5,8.5,9,6.5,7.5,8.5,7,8.5,7.5,6.5,tidak lulus
+231,Tilda,Dudeney,tdudeney6e@wsj.com,Laki-laki,SMA 3,7.5,6.5,8.5,7,8.5,7.5,8,8,7.5,7,8,lulus
+232,Maridel,Knibbs,mknibbs6f@pbs.org,Laki-laki,SMA 10,6.5,7.5,8.5,9,7,6.5,6.5,8,9,8.5,6.5,tidak lulus
+233,Brnaba,Nicholas,bnicholas6g@paypal.com,Laki-laki,SMA 4,8.5,8,9,9,7.5,9,6.5,9,7,8,7.5,lulus
+234,Tandie,Rogers,trogers6h@myspace.com,Perempuan,SMA 1,9,8,8.5,7,7.5,7.5,9,7.5,8,8.5,7.5,pertimbangan
+235,Creigh,Piddletown,cpiddletown6i@mediafire.com,Laki-laki,SMA 9,7.5,9,6.5,8.5,8.5,6.5,8.5,7,8,8,7.5,pertimbangan
+236,Thomasin,Matieu,tmatieu6j@hubpages.com,Perempuan,SMA 2,6.5,7.5,7.5,9,8.5,6.5,7,8,8,8,8,pertimbangan
+237,Chadwick,Bottoms,cbottoms6k@pinterest.com,Perempuan,SMA 2,7,7,7.5,7,7.5,8.5,6.5,9,9,8,6.5,lulus
+238,Hildegaard,Salman,hsalman6l@cornell.edu,Laki-laki,SMA 6,9,7,8,8.5,7,7,8.5,7,8,6.5,7,lulus
+239,Christin,Echelle,cechelle6m@umn.edu,Perempuan,SMA 2,6.5,8.5,9,8,8,9,8.5,9,9,7.5,6.5,tidak lulus
+240,Jessee,Francillo,jfrancillo6n@geocities.jp,Perempuan,SMA 11,9,7.5,9,7,6.5,8.5,7.5,7.5,9,8.5,7.5,pertimbangan
+241,Lou,Scallan,lscallan6o@springer.com,Perempuan,SMA 4,7,8,7.5,6.5,8.5,6.5,8,6.5,7,7.5,8.5,tidak lulus
+242,Corabel,Schulter,cschulter6p@google.ru,Laki-laki,SMA 9,6.5,7.5,9,8.5,7.5,6.5,8.5,9,7.5,8,9,pertimbangan
+243,Claudina,Mattosoff,cmattosoff6q@webeden.co.uk,Perempuan,SMA 11,6.5,7.5,6.5,8,7.5,9,9,6.5,6.5,8,6.5,lulus
+244,Elnore,Lappin,elappin6r@cbc.ca,Perempuan,SMA 5,9,6.5,7.5,8,6.5,7,7,6.5,6.5,8.5,6.5,tidak lulus
+245,Wendel,Betchley,wbetchley6s@bing.com,Perempuan,SMA 7,6.5,7.5,8,8,8,8,7,8,6.5,7,8.5,lulus
+246,Emili,Toms,etoms6t@microsoft.com,Laki-laki,SMA 2,8,7.5,6.5,7,9,7.5,8,7.5,8,8.5,6.5,pertimbangan
+247,Esmaria,Garret,egarret6u@sbwire.com,Perempuan,SMA 7,7,8.5,7.5,8.5,8,8,6.5,6.5,8,6.5,8,pertimbangan
+248,Kaila,Brand-Hardy,kbrandhardy6v@google.co.uk,Laki-laki,SMA 2,9,6.5,8.5,6.5,8.5,6.5,7,6.5,8.5,7,7,tidak lulus
+249,Keary,Peperell,kpeperell6w@biglobe.ne.jp,Perempuan,SMA 5,8.5,8,9,8,7.5,7,7,6.5,7.5,6.5,8.5,tidak lulus
+250,Giffard,Mileham,gmileham6x@issuu.com,Laki-laki,SMA 10,6.5,9,6.5,9,7,7.5,8.5,6.5,7.5,7.5,9,tidak lulus
+251,Hersh,McAmish,hmcamish6y@lycos.com,Perempuan,SMA 4,8,7.5,8,7,6.5,6.5,9,9,7,8.5,9,pertimbangan
+252,Conrade,Shuttleworth,cshuttleworth6z@virginia.edu,Perempuan,SMA 1,8,7.5,8,7.5,9,9,6.5,7.5,7.5,7,8.5,lulus
+253,Kerianne,Wellen,kwellen70@economist.com,Perempuan,SMA 9,6.5,7.5,7.5,8,7.5,7.5,7,9,7.5,6.5,8.5,tidak lulus
+254,Harmonie,Dionis,hdionis71@google.ca,Laki-laki,SMA 1,8.5,6.5,8,6.5,8.5,8.5,8.5,6.5,9,8.5,6.5,lulus
+255,Gaylene,Vickery,gvickery72@fotki.com,Laki-laki,SMA 7,8,8,8,7.5,7,8,7.5,7,8.5,7.5,8.5,pertimbangan
+256,Amery,Tombling,atombling73@prlog.org,Laki-laki,SMA 9,8.5,7.5,8,9,7.5,8,8,7,9,7,8,pertimbangan
+257,Taber,Rockingham,trockingham74@reference.com,Perempuan,SMA 8,7.5,7,9,7,7,7.5,9,9,8,8,6.5,tidak lulus
+258,Marissa,Woodrow,mwoodrow75@google.cn,Perempuan,SMA 10,9,7.5,7.5,6.5,9,7,8,7,7,9,6.5,tidak lulus
+259,Perren,Bruce,pbruce76@miibeian.gov.cn,Laki-laki,SMA 4,6.5,8.5,7.5,9,9,9,6.5,8,6.5,7,7.5,tidak lulus
+260,Hermione,Segrave,hsegrave77@home.pl,Perempuan,SMA 7,9,7,6.5,9,7,8.5,7,9,6.5,8,9,lulus
+261,Jacobo,Hawtry,jhawtry78@chicagotribune.com,Perempuan,SMA 11,9,8.5,8,7.5,7.5,8,7,9,8,7.5,8,lulus
+262,Betti,Brolly,bbrolly79@nationalgeographic.com,Perempuan,SMA 11,9,8.5,6.5,9,8,8.5,7.5,7.5,7.5,8,7.5,lulus
+263,Tallie,Lathee,tlathee7a@csmonitor.com,Perempuan,SMA 7,7,8.5,8,7,9,7,7.5,7,8,8,8,pertimbangan
+264,Ruthann,Bortolussi,rbortolussi7b@studiopress.com,Laki-laki,SMA 3,9,7.5,6.5,7.5,8.5,6.5,8,7.5,7,7,8.5,lulus
+265,Bradley,Haslewood,bhaslewood7c@surveymonkey.com,Laki-laki,SMA 2,6.5,7.5,6.5,9,9,6.5,7,8.5,6.5,8,7.5,lulus
+266,Charyl,Gutowska,cgutowska7d@nih.gov,Perempuan,SMA 5,7,6.5,8.5,7,8,7,9,7,8.5,8.5,8.5,pertimbangan
+267,Adel,Priver,apriver7e@buzzfeed.com,Perempuan,SMA 8,8.5,8.5,7.5,7,8.5,8,7,8,8.5,7,6.5,pertimbangan
+268,Orelia,Szepe,oszepe7f@tinyurl.com,Laki-laki,SMA 2,8.5,9,6.5,6.5,6.5,7,9,8.5,7,8.5,8.5,lulus
+269,Leyla,Hazleton,lhazleton7g@time.com,Laki-laki,SMA 6,8.5,7,7,8.5,9,8,8.5,6.5,8,6.5,7,tidak lulus
+270,Hardy,Creedland,hcreedland7h@alibaba.com,Perempuan,SMA 11,6.5,8.5,7,7,8,9,6.5,8,8.5,7.5,8,lulus
+271,Sherrie,Depka,sdepka7i@goo.ne.jp,Perempuan,SMA 6,7.5,8.5,6.5,6.5,8,7,9,7.5,9,7,8.5,lulus
+272,Denyse,Zannini,dzannini7j@4shared.com,Laki-laki,SMA 3,9,7,6.5,8,7.5,6.5,7,8,8,9,7,pertimbangan
+273,Marybelle,Sellars,msellars7k@cdbaby.com,Perempuan,SMA 11,6.5,9,7,8.5,8,9,6.5,7.5,8,8.5,7,tidak lulus
+274,Kelci,Farndale,kfarndale7l@youtu.be,Laki-laki,SMA 11,9,7.5,8.5,6.5,8,6.5,6.5,8,8.5,9,9,tidak lulus
+275,Kinny,Standfield,kstandfield7m@kickstarter.com,Perempuan,SMA 4,7,7.5,7.5,8,7.5,7,8,8,8,8.5,8.5,tidak lulus
+276,Tann,Schade,tschade7n@berkeley.edu,Perempuan,SMA 8,8.5,6.5,7,8,8.5,6.5,6.5,7.5,7,7,8,pertimbangan
+277,Nelli,Kienl,nkienl7o@accuweather.com,Laki-laki,SMA 2,6.5,8.5,8,7.5,9,7.5,8,7.5,9,9,9,lulus
+278,Dietrich,Clynter,dclynter7p@over-blog.com,Perempuan,SMA 3,8.5,7.5,9,9,9,7,8.5,8,8.5,7,6.5,tidak lulus
+279,Ford,Walcar,fwalcar7q@scientificamerican.com,Perempuan,SMA 3,9,7,6.5,9,8,7.5,7.5,8,9,7,9,lulus
+280,Gregory,Gosney,ggosney7r@arizona.edu,Laki-laki,SMA 4,8,8.5,7.5,9,7.5,7,7,9,7,7,8.5,pertimbangan
+281,Mureil,Le Marquis,mlemarquis7s@weebly.com,Laki-laki,SMA 2,6.5,9,8,8.5,9,7,6.5,9,8,8,8,lulus
+282,Steven,Cicutto,scicutto7t@walmart.com,Perempuan,SMA 11,9,7.5,7,7.5,8.5,8.5,6.5,8,8.5,6.5,7,pertimbangan
+283,Dion,Squires,dsquires7u@last.fm,Laki-laki,SMA 1,8,7,8,7,8.5,9,7,7,9,7,8.5,pertimbangan
+284,Rafaela,Kowal,rkowal7v@blog.com,Laki-laki,SMA 4,9,6.5,6.5,7,8,7,7.5,7,6.5,9,9,tidak lulus
+285,Corbett,Brazener,cbrazener7w@google.pl,Perempuan,SMA 4,7,6.5,8.5,8.5,6.5,8.5,8,8.5,9,7,6.5,pertimbangan
+286,Damaris,Nutton,dnutton7x@washington.edu,Perempuan,SMA 9,8.5,7.5,9,8.5,8,7,7,8.5,7.5,7,8.5,tidak lulus
+287,Michel,Fairhall,mfairhall7y@hostgator.com,Perempuan,SMA 1,6.5,7.5,9,7,9,9,7,6.5,7.5,6.5,7.5,tidak lulus
+288,Thatcher,Tiley,ttiley7z@unblog.fr,Laki-laki,SMA 8,7.5,7,6.5,8.5,8.5,8,7.5,7.5,7.5,7,8.5,tidak lulus
+289,Lissi,Smardon,lsmardon80@fema.gov,Laki-laki,SMA 2,7.5,7.5,8,9,6.5,7.5,7.5,8,6.5,8.5,8.5,lulus
+290,Gilbertina,Armfield,garmfield81@topsy.com,Perempuan,SMA 6,7,7,8,7.5,9,7,6.5,8.5,6.5,7.5,7,pertimbangan
+291,Darla,Ossulton,dossulton82@mediafire.com,Perempuan,SMA 4,9,9,8,7.5,6.5,9,6.5,8.5,7.5,8,8.5,tidak lulus
+292,Vincent,Tollmache,vtollmache83@japanpost.jp,Perempuan,SMA 9,9,7.5,8,8,7,7,7,7,6.5,8.5,8.5,lulus
+293,Antonina,Woloschin,awoloschin84@slideshare.net,Laki-laki,SMA 7,8.5,8,6.5,6.5,7,9,6.5,7.5,8,9,6.5,pertimbangan
+294,Leola,Hynard,lhynard85@blogspot.com,Laki-laki,SMA 11,7.5,8,8.5,7.5,9,8,9,7.5,7,6.5,6.5,lulus
+295,Nixie,Teresse,nteresse86@miitbeian.gov.cn,Perempuan,SMA 10,8,8,8,9,7,6.5,7.5,9,8.5,6.5,9,tidak lulus
+296,Kalina,Petrusch,kpetrusch87@go.com,Perempuan,SMA 5,6.5,8.5,7,7.5,7.5,7.5,6.5,7.5,8.5,9,6.5,lulus
+297,Melinda,Lober,mlober88@statcounter.com,Perempuan,SMA 3,8.5,8.5,8,7.5,9,7,6.5,7,7,7.5,7.5,tidak lulus
+298,Alvy,Tomasi,atomasi89@nyu.edu,Perempuan,SMA 10,8.5,6.5,9,7.5,8,8,8.5,8.5,8.5,8,7,tidak lulus
+299,Royall,Gostridge,rgostridge8a@ameblo.jp,Perempuan,SMA 5,8.5,6.5,7.5,7,7,9,8.5,8.5,7,7,7,tidak lulus
+300,Nowell,Dunn,ndunn8b@alibaba.com,Perempuan,SMA 7,8.5,8.5,7.5,7,8.5,7.5,9,8.5,9,9,7.5,pertimbangan
+301,Caresse,Igo,cigo8c@oaic.gov.au,Perempuan,SMA 2,7,6.5,9,9,8,8,7.5,8.5,8.5,9,8,lulus
+302,Darelle,Holleran,dholleran8d@icio.us,Perempuan,SMA 7,6.5,6.5,9,8.5,6.5,7,9,7.5,8.5,6.5,6.5,pertimbangan
+303,Rudiger,Adan,radan8e@canalblog.com,Laki-laki,SMA 11,6.5,8.5,7.5,9,8,8,9,8,8.5,6.5,8.5,tidak lulus
+304,Hobey,Lamond,hlamond8f@shinystat.com,Laki-laki,SMA 5,8.5,7.5,7,7,7.5,8.5,8.5,7,8,7.5,6.5,pertimbangan
+305,Walther,Dummett,wdummett8g@simplemachines.org,Laki-laki,SMA 11,7.5,8.5,7,7.5,7,8.5,9,7.5,6.5,8,8,tidak lulus
+306,Zara,Asey,zasey8h@ycombinator.com,Perempuan,SMA 3,6.5,6.5,9,6.5,7,7.5,9,9,9,6.5,7.5,lulus
+307,Tanner,MacDermott,tmacdermott8i@purevolume.com,Laki-laki,SMA 7,7.5,8,7.5,9,6.5,8,6.5,8,7,7,9,pertimbangan
+308,Chelsey,Steinhammer,csteinhammer8j@webnode.com,Perempuan,SMA 2,9,8,9,7.5,8.5,6.5,8,8,7.5,7.5,6.5,lulus
+309,Sibby,Capell,scapell8k@washingtonpost.com,Laki-laki,SMA 9,9,6.5,6.5,8.5,9,8,6.5,7,7,8,8,pertimbangan
+310,Joni,Mead,jmead8l@hexun.com,Perempuan,SMA 10,8,7.5,8,7.5,7.5,7.5,8,9,8.5,7.5,9,lulus
+311,Flo,Breach,fbreach8m@businessweek.com,Perempuan,SMA 10,6.5,6.5,8,9,9,9,9,7,8,9,8,lulus
+312,Dalila,Symones,dsymones8n@bluehost.com,Laki-laki,SMA 1,8.5,7,9,9,8,8.5,8.5,8.5,6.5,9,8.5,lulus
+313,Sharai,Dukes,sdukes8o@yellowpages.com,Laki-laki,SMA 10,7.5,7.5,6.5,8.5,8.5,7,7.5,7,6.5,7.5,7.5,pertimbangan
+314,Rory,Spedding,rspedding8p@hugedomains.com,Perempuan,SMA 2,7,9,9,7.5,8,7.5,8,8,7.5,8,7.5,lulus
+315,Wit,O'Doogan,wodoogan8q@smh.com.au,Perempuan,SMA 10,7.5,9,7.5,8,7.5,6.5,9,9,9,8,9,tidak lulus
+316,Hubert,Cohen,hcohen8r@state.gov,Laki-laki,SMA 8,8.5,9,6.5,7.5,8.5,7.5,7.5,7,8,7.5,8,pertimbangan
+317,Auguste,Udden,audden8s@chron.com,Laki-laki,SMA 11,7.5,8.5,7.5,9,8,6.5,9,9,9,8.5,7.5,tidak lulus
+318,Casandra,Rae,crae8t@oakley.com,Laki-laki,SMA 8,9,7,8,8,7.5,8.5,6.5,7.5,7.5,7,8,tidak lulus
+319,Dianemarie,Markwick,dmarkwick8u@dyndns.org,Perempuan,SMA 9,8.5,9,8,7.5,7,8.5,7,7.5,6.5,9,6.5,pertimbangan
+320,Cathrine,Spino,cspino8v@zimbio.com,Laki-laki,SMA 5,8.5,7,7,8,7,8.5,6.5,7,6.5,6.5,7,pertimbangan
+321,Hymie,Thurber,hthurber8w@ca.gov,Perempuan,SMA 9,6.5,7.5,9,8,8.5,7.5,6.5,9,6.5,7,6.5,tidak lulus
+322,Cordi,Luto,cluto8x@army.mil,Perempuan,SMA 9,8,8.5,9,7,7,7,8.5,9,6.5,7.5,9,pertimbangan
+323,Oralie,O' Molan,oomolan8y@instagram.com,Laki-laki,SMA 9,8.5,8.5,6.5,6.5,8,7.5,6.5,9,7.5,8,7.5,pertimbangan
+324,Nanni,Saunier,nsaunier8z@storify.com,Laki-laki,SMA 8,9,9,7,8,6.5,8,8,7.5,9,8,8.5,tidak lulus
+325,Suzy,Puttrell,sputtrell90@pen.io,Perempuan,SMA 4,9,7.5,9,9,7,9,8.5,7,7,7,6.5,pertimbangan
+326,Kamilah,Cars,kcars91@mysql.com,Perempuan,SMA 3,8.5,8,7.5,8,7,7,6.5,7,9,7,9,tidak lulus
+327,Dulcie,Deas,ddeas92@howstuffworks.com,Laki-laki,SMA 9,8,6.5,7.5,9,6.5,6.5,7,7,9,9,9,tidak lulus
+328,Lynn,Buxam,lbuxam93@seattletimes.com,Perempuan,SMA 1,7.5,8.5,6.5,8.5,7,9,7.5,8.5,7,7,8.5,pertimbangan
+329,Merrill,Anthill,manthill94@sfgate.com,Laki-laki,SMA 11,9,7.5,8.5,9,6.5,7,8,8.5,7,7.5,7.5,lulus
+330,Brewer,Janusz,bjanusz95@google.it,Perempuan,SMA 6,9,7.5,7.5,6.5,7.5,7,8,7,8.5,8,7.5,lulus
+331,Evelina,Bantock,ebantock96@usgs.gov,Laki-laki,SMA 9,7.5,8.5,7.5,6.5,6.5,8,7,9,7.5,6.5,8.5,tidak lulus
+332,Donny,Grimolbie,dgrimolbie97@youtube.com,Perempuan,SMA 1,8.5,8,6.5,9,7,7,7,8.5,7,9,6.5,pertimbangan
+333,Tan,Wrack,twrack98@kickstarter.com,Laki-laki,SMA 4,8.5,9,7,7.5,8.5,6.5,7.5,9,7.5,7.5,7.5,tidak lulus
+334,Ashley,Huxham,ahuxham99@google.co.jp,Perempuan,SMA 6,6.5,6.5,8,6.5,7.5,8.5,8,9,9,9,7,lulus
+335,Yoshi,Plaskitt,yplaskitt9a@kickstarter.com,Perempuan,SMA 2,7,7.5,9,8,7,7.5,8.5,6.5,8,9,7.5,tidak lulus
+336,Eugine,Disman,edisman9b@drupal.org,Laki-laki,SMA 10,7.5,7,6.5,7.5,7,8,7.5,7,8,8,7.5,tidak lulus
+337,Tyson,Meech,tmeech9c@geocities.com,Perempuan,SMA 10,7,8,8,9,7,7.5,6.5,8.5,8,8.5,7,lulus
+338,Glynn,Gillison,ggillison9d@123-reg.co.uk,Perempuan,SMA 7,9,6.5,8,8.5,7.5,7.5,9,7,7,8,7.5,pertimbangan
+339,Perice,Dyet,pdyet9e@princeton.edu,Perempuan,SMA 5,7,8.5,7.5,7.5,7,8.5,7,7.5,9,7.5,6.5,tidak lulus
+340,Carce,Newiss,cnewiss9f@spiegel.de,Perempuan,SMA 4,6.5,6.5,8,9,8.5,8.5,6.5,6.5,6.5,7,9,lulus
+341,Joelle,Haspineall,jhaspineall9g@home.pl,Laki-laki,SMA 3,7,6.5,8.5,7.5,9,6.5,7.5,8.5,7,6.5,7.5,tidak lulus
+342,Gipsy,Aisbett,gaisbett9h@list-manage.com,Perempuan,SMA 9,7.5,9,6.5,6.5,7.5,7.5,7.5,8,8.5,7.5,9,tidak lulus
+343,Clarey,Margeram,cmargeram9i@tinyurl.com,Laki-laki,SMA 2,7.5,7,7,7,8,9,9,6.5,9,9,9,pertimbangan
+344,Kasper,MacNelly,kmacnelly9j@weibo.com,Laki-laki,SMA 10,7,7,7.5,6.5,7,7,8.5,7.5,8,8.5,8,pertimbangan
+345,Brandise,Evetts,bevetts9k@trellian.com,Laki-laki,SMA 1,8.5,7,7.5,6.5,7,7,9,7.5,8,8,7,pertimbangan
+346,Lyn,Graffin,lgraffin9l@japanpost.jp,Perempuan,SMA 1,8,8,6.5,8.5,9,7,6.5,9,7.5,7.5,6.5,pertimbangan
+347,Izak,Po,ipo9m@ameblo.jp,Laki-laki,SMA 10,8,7,8.5,8,9,6.5,6.5,7.5,7.5,9,7.5,pertimbangan
+348,Tally,Shimon,tshimon9n@wordpress.org,Perempuan,SMA 2,6.5,8,6.5,7.5,6.5,8,8,6.5,9,8,7,pertimbangan
+349,Analise,Barwack,abarwack9o@google.cn,Laki-laki,SMA 3,6.5,6.5,9,7,7,7.5,8,6.5,6.5,7,6.5,pertimbangan
+350,Annalee,Justis,ajustis9p@bizjournals.com,Laki-laki,SMA 9,6.5,7.5,9,9,6.5,7,7.5,7,8,7.5,7.5,lulus
+351,Gerik,Lethcoe,glethcoe9q@skyrock.com,Perempuan,SMA 4,7.5,7,8.5,7,7.5,6.5,8,8.5,9,8,7.5,pertimbangan
+352,Anestassia,Hinsch,ahinsch9r@ftc.gov,Perempuan,SMA 5,7.5,8,6.5,8.5,8.5,8.5,7.5,7,8.5,8,7.5,tidak lulus
+353,Trenton,Treagust,ttreagust9s@so-net.ne.jp,Laki-laki,SMA 3,7,8,8,7.5,7,7.5,8,9,6.5,6.5,7,pertimbangan
+354,Alie,Sellstrom,asellstrom9t@parallels.com,Perempuan,SMA 3,9,9,7.5,9,7.5,8,8.5,6.5,8.5,6.5,9,tidak lulus
+355,Garrek,Gaynsford,ggaynsford9u@mapy.cz,Laki-laki,SMA 6,9,8.5,6.5,6.5,7.5,8.5,7,8.5,8.5,9,9,pertimbangan
+356,Tresa,Scorthorne,tscorthorne9v@posterous.com,Perempuan,SMA 3,7.5,6.5,8,7.5,7.5,7,9,9,8,7,7,tidak lulus
+357,Flory,Raynard,fraynard9w@google.ru,Perempuan,SMA 8,8,6.5,6.5,7.5,8,7.5,6.5,9,7,9,6.5,pertimbangan
+358,Feliza,Pendock,fpendock9x@canalblog.com,Perempuan,SMA 8,8.5,8.5,9,6.5,7,7.5,8.5,9,7,6.5,7,pertimbangan
+359,Bari,Lucia,blucia9y@epa.gov,Perempuan,SMA 4,8,6.5,7,7.5,6.5,7,7,9,7.5,8.5,8.5,lulus
+360,Culver,Dadge,cdadge9z@about.me,Perempuan,SMA 3,9,8.5,7,7,7.5,7,7,8.5,7,7,7.5,pertimbangan
+361,Jeanelle,Turbill,jturbilla0@china.com.cn,Laki-laki,SMA 8,7.5,8.5,7,7,8,9,7.5,7.5,8.5,6.5,7.5,lulus
+362,Elias,Izakoff,eizakoffa1@vkontakte.ru,Perempuan,SMA 4,7.5,8.5,7.5,7,7.5,9,6.5,7,9,7.5,7,pertimbangan
+363,Andrei,Greenleaf,agreenleafa2@mayoclinic.com,Laki-laki,SMA 1,7,9,9,7.5,9,9,8.5,7.5,8.5,8,8.5,tidak lulus
+364,Ursola,Caroll,ucarolla3@pagesperso-orange.fr,Perempuan,SMA 5,9,7.5,6.5,7,8,7,8,9,9,8,8,pertimbangan
+365,Christiano,Skirvane,cskirvanea4@wp.com,Laki-laki,SMA 7,6.5,9,8.5,9,7.5,7.5,7,6.5,7.5,9,6.5,tidak lulus
+366,Engelbert,Nenci,enencia5@usa.gov,Perempuan,SMA 9,9,7,7,7.5,8.5,6.5,8,6.5,8,8,8.5,pertimbangan
+367,Minerva,Ciobutaro,mciobutaroa6@etsy.com,Laki-laki,SMA 1,8.5,7,8,7,6.5,8,9,7.5,7,7.5,9,tidak lulus
+368,Ham,Cornforth,hcornfortha7@skyrock.com,Perempuan,SMA 11,9,9,8.5,7,9,7,9,8,9,8.5,8,tidak lulus
+369,Gael,Beresfore,gberesforea8@unicef.org,Perempuan,SMA 10,7,7.5,9,6.5,8.5,9,9,8,7.5,8,9,lulus
+370,Lynea,Skoughman,lskoughmana9@biblegateway.com,Laki-laki,SMA 7,9,6.5,7.5,7.5,8.5,7,9,8,8.5,9,8,tidak lulus
+371,Hunter,Nowakowski,hnowakowskiaa@about.me,Laki-laki,SMA 6,7,7.5,8,8,8.5,6.5,7.5,9,7.5,8,7,lulus
+372,Pammy,O' Brian,pobrianab@shareasale.com,Perempuan,SMA 11,8,7.5,7.5,9,7.5,9,8.5,9,7,6.5,6.5,pertimbangan
+373,Jennine,Zecchetti,jzecchettiac@gmpg.org,Perempuan,SMA 11,7.5,8.5,9,9,8,7,6.5,9,7.5,8.5,8.5,lulus
+374,Willi,Sowrey,wsowreyad@ning.com,Perempuan,SMA 11,9,7.5,9,7,6.5,7,8.5,8,8,8.5,9,tidak lulus
+375,Cari,Tinson,ctinsonae@oaic.gov.au,Laki-laki,SMA 5,9,7.5,6.5,7,8.5,8.5,7.5,8,8,8.5,8,pertimbangan
+376,Dionisio,Burnhams,dburnhamsaf@liveinternet.ru,Laki-laki,SMA 10,8,7.5,6.5,7,8,9,8,7,6.5,8.5,7,lulus
+377,Gavin,Mion,gmionag@nymag.com,Laki-laki,SMA 2,7,7,9,8,8.5,8,6.5,8,9,8,7,pertimbangan
+378,Rickie,Parfitt,rparfittah@miitbeian.gov.cn,Laki-laki,SMA 8,9,8,7,6.5,8,8,6.5,8.5,8,7.5,7,pertimbangan
+379,Sancho,Deners,sdenersai@ycombinator.com,Laki-laki,SMA 10,8,7,8.5,9,6.5,9,7.5,9,6.5,9,7.5,pertimbangan
+380,Mathian,Iveagh,miveaghaj@smugmug.com,Perempuan,SMA 8,9,9,6.5,9,7.5,8,9,7.5,8.5,7,6.5,lulus
+381,Brennen,Raubenheimers,braubenheimersak@multiply.com,Laki-laki,SMA 3,9,6.5,7.5,6.5,9,8,8.5,7,8.5,9,8.5,pertimbangan
+382,Abbey,Philcock,aphilcockal@google.cn,Perempuan,SMA 4,8,8,8,7.5,6.5,7,8.5,8,9,6.5,8.5,pertimbangan
+383,Alexis,Eglaise,aeglaiseam@amazon.de,Perempuan,SMA 1,8.5,7,7,8,7.5,6.5,9,6.5,7,6.5,7,lulus
+384,Darcey,Bouda,dboudaan@rediff.com,Laki-laki,SMA 2,8,8.5,8.5,6.5,8,6.5,8.5,7.5,8,7.5,8,tidak lulus
+385,Derril,Patty,dpattyao@blogger.com,Laki-laki,SMA 1,8,6.5,8.5,6.5,7,8,8,8,7.5,6.5,7,tidak lulus
+386,Lura,Nanuccioi,lnanuccioiap@icq.com,Laki-laki,SMA 11,9,6.5,6.5,7.5,9,7.5,8.5,7,6.5,8,7,pertimbangan
+387,Pansie,Sandbatch,psandbatchaq@ycombinator.com,Laki-laki,SMA 9,9,9,7,9,6.5,9,7.5,8.5,7,7.5,8,lulus
+388,Olivie,Gosalvez,ogosalvezar@alibaba.com,Perempuan,SMA 8,7.5,7,6.5,9,7.5,9,9,6.5,8,7,9,pertimbangan
+389,Colet,Farady,cfaradyas@digg.com,Laki-laki,SMA 8,7.5,7.5,8,9,7,7,7.5,8.5,7,7,8,pertimbangan
+390,Anna-diane,Pilipets,apilipetsat@seattletimes.com,Perempuan,SMA 3,7.5,7.5,8.5,8.5,8.5,7.5,6.5,7,7,7,9,tidak lulus
+391,Tandy,Death,tdeathau@zimbio.com,Laki-laki,SMA 1,6.5,8.5,9,6.5,7.5,6.5,8,7,8.5,9,7,tidak lulus
+392,Golda,Wimbury,gwimburyav@fc2.com,Laki-laki,SMA 2,8.5,7,7.5,7.5,9,7,9,6.5,6.5,9,9,tidak lulus
+393,Sigismund,Waller,swalleraw@rambler.ru,Laki-laki,SMA 8,7,8,6.5,6.5,8,7.5,9,6.5,8,8.5,6.5,lulus
+394,Padriac,Lougheed,plougheedax@ycombinator.com,Perempuan,SMA 3,6.5,9,7.5,7.5,8,8,6.5,8,6.5,7,8,tidak lulus
+395,Althea,Chapelhow,achapelhoway@businessinsider.com,Laki-laki,SMA 4,6.5,6.5,9,7.5,7.5,8.5,8.5,7.5,9,9,6.5,pertimbangan
+396,Kalvin,Dupoy,kdupoyaz@toplist.cz,Perempuan,SMA 11,7,7.5,8,6.5,6.5,8,7.5,9,7.5,8.5,7.5,lulus
+397,Fleming,Tuckwood,ftuckwoodb0@blinklist.com,Perempuan,SMA 6,8,9,7.5,8,7,6.5,7.5,8,8.5,7,9,lulus
+398,Fairleigh,Radoux,fradouxb1@chronoengine.com,Perempuan,SMA 3,8.5,7.5,8.5,8,7,9,9,7.5,9,8,6.5,lulus
+399,Claudius,Forsdicke,cforsdickeb2@trellian.com,Laki-laki,SMA 3,7.5,6.5,8.5,6.5,6.5,6.5,8,8.5,7,7,8,pertimbangan
+400,Layne,Krochmann,lkrochmannb3@hhs.gov,Laki-laki,SMA 5,8,6.5,8.5,9,8,8,8,8,8,8.5,8.5,lulus
+401,Annabelle,Gandrich,agandrichb4@npr.org,Perempuan,SMA 9,7,8,8.5,8.5,7,7.5,8.5,6.5,8,9,9,tidak lulus
+402,Bianka,Scoffham,bscoffhamb5@blogspot.com,Perempuan,SMA 2,8.5,9,6.5,8,6.5,9,8.5,9,8.5,9,9,lulus
+403,Alberta,Shilton,ashiltonb6@typepad.com,Laki-laki,SMA 2,8.5,8.5,7.5,8,7.5,6.5,6.5,7,8.5,8,9,tidak lulus
+404,Curry,Bolles,cbollesb7@skype.com,Laki-laki,SMA 7,8,9,8.5,9,8,6.5,6.5,8,9,7,9,tidak lulus
+405,Tommie,Ruben,trubenb8@wsj.com,Perempuan,SMA 5,9,8.5,7,8.5,7.5,6.5,8.5,7,9,8.5,7.5,lulus
+406,Jacquenette,Broggio,jbroggiob9@vimeo.com,Laki-laki,SMA 9,7.5,8,7,8.5,8,7.5,7.5,6.5,8.5,8.5,7,pertimbangan
+407,Lenette,Devereu,ldevereuba@360.cn,Laki-laki,SMA 11,8.5,7.5,6.5,7.5,8.5,8.5,7.5,7.5,7,7.5,7.5,pertimbangan
+408,Dalt,Maslin,dmaslinbb@1688.com,Perempuan,SMA 5,6.5,8,8,9,9,7.5,6.5,9,8,7,9,lulus
+409,Linnell,Stain,lstainbc@cornell.edu,Perempuan,SMA 2,6.5,9,9,7,6.5,7.5,7,7,9,9,7.5,pertimbangan
+410,Conway,Gallant,cgallantbd@cornell.edu,Perempuan,SMA 1,9,8.5,8.5,7.5,7.5,7,8,8,8,6.5,6.5,lulus
+411,Maxy,Tarbox,mtarboxbe@biglobe.ne.jp,Laki-laki,SMA 5,7.5,8.5,9,8.5,9,6.5,7.5,8,7,8.5,8,tidak lulus
+412,Mellisent,Brastead,mbrasteadbf@craigslist.org,Laki-laki,SMA 9,9,7.5,8,8,6.5,7.5,7.5,7,6.5,8.5,7,lulus
+413,Sigismundo,Prangnell,sprangnellbg@mlb.com,Laki-laki,SMA 10,9,7.5,8.5,9,7,9,7,9,7,9,6.5,lulus
+414,Keir,Darwent,kdarwentbh@digg.com,Perempuan,SMA 4,6.5,6.5,8,7.5,6.5,7.5,6.5,8.5,8,8.5,7.5,pertimbangan
+415,Ham,Manthroppe,hmanthroppebi@jiathis.com,Laki-laki,SMA 6,7,9,8.5,7,7.5,7,8,9,7,6.5,9,pertimbangan
+416,Jeana,Rubinfajn,jrubinfajnbj@squarespace.com,Laki-laki,SMA 3,8,9,7,8.5,7,7.5,6.5,9,9,8.5,8,tidak lulus
+417,Vin,Dorgan,vdorganbk@answers.com,Laki-laki,SMA 7,8,7,6.5,8.5,6.5,7.5,7.5,8.5,8.5,7.5,7.5,lulus
+418,Moselle,Trayte,mtraytebl@unesco.org,Laki-laki,SMA 2,7,6.5,8,7.5,8,6.5,8,8.5,6.5,7.5,8.5,tidak lulus
+419,Calida,Kaines,ckainesbm@merriam-webster.com,Laki-laki,SMA 8,9,6.5,8.5,8,6.5,8.5,7,6.5,8,8.5,6.5,lulus
+420,Grannie,Wintringham,gwintringhambn@google.com.br,Perempuan,SMA 2,8.5,7.5,9,7,7.5,8.5,8,7,8.5,6.5,8,tidak lulus
+421,Ladonna,Beachamp,lbeachampbo@senate.gov,Perempuan,SMA 5,9,9,6.5,8,8,7,7,8,6.5,7,8,pertimbangan
+422,Moll,Becaris,mbecarisbp@hostgator.com,Perempuan,SMA 2,7,9,8,8.5,9,9,8.5,7.5,8.5,8,8,tidak lulus
+423,Jenni,Hancke,jhanckebq@ebay.co.uk,Laki-laki,SMA 2,7.5,9,9,8,8,7,7.5,8.5,8.5,8.5,9,pertimbangan
+424,Odie,Leheude,oleheudebr@netvibes.com,Perempuan,SMA 10,9,8,8,7.5,8,8.5,7,7.5,8.5,7.5,6.5,lulus
+425,Roch,Hambridge,rhambridgebs@aboutads.info,Laki-laki,SMA 2,7.5,6.5,8.5,9,7,7.5,7,7,8,7.5,7,lulus
+426,Sallyanne,Epine,sepinebt@globo.com,Laki-laki,SMA 8,8,7,7.5,8,7.5,8,9,8.5,6.5,7,8.5,pertimbangan
+427,Hollie,Youd,hyoudbu@psu.edu,Perempuan,SMA 10,7.5,9,7,8,9,6.5,9,9,7.5,9,9,tidak lulus
+428,Mischa,Wattins,mwattinsbv@mayoclinic.com,Perempuan,SMA 5,7.5,9,8,7,8.5,6.5,7,7,8,8,8.5,lulus
+429,Denver,Realph,drealphbw@wikimedia.org,Perempuan,SMA 4,8,8.5,7,6.5,9,9,9,8,7.5,8,7.5,lulus
+430,Chilton,Izakoff,cizakoffbx@ox.ac.uk,Perempuan,SMA 1,7.5,7.5,7,8,7.5,8,9,7.5,9,8,6.5,pertimbangan
+431,Roarke,Merrisson,rmerrissonby@fema.gov,Laki-laki,SMA 3,9,9,7,7,9,7.5,8.5,7.5,7.5,7.5,7.5,pertimbangan
+432,Ricki,Purshouse,rpurshousebz@twitpic.com,Perempuan,SMA 9,7,9,8.5,7,7,8.5,9,8,8.5,6.5,7.5,pertimbangan
+433,Marline,Quarrington,mquarringtonc0@arstechnica.com,Laki-laki,SMA 1,7.5,8,6.5,6.5,8.5,8,6.5,7.5,7.5,7,8.5,tidak lulus
+434,Allen,Pluvier,apluvierc1@photobucket.com,Laki-laki,SMA 8,6.5,7,7,8.5,9,7,9,7.5,6.5,8.5,7,tidak lulus
+435,Cahra,Wathell,cwathellc2@parallels.com,Laki-laki,SMA 10,9,8.5,9,7.5,6.5,9,6.5,6.5,9,8.5,6.5,tidak lulus
+436,Hewet,Di Dello,hdidelloc3@live.com,Perempuan,SMA 2,6.5,7,6.5,7,7.5,7,8,8.5,8,7.5,8.5,lulus
+437,Sophronia,Simoens,ssimoensc4@xrea.com,Laki-laki,SMA 1,9,8.5,7.5,7.5,8,8.5,7,8.5,8.5,7,8.5,tidak lulus
+438,Tatum,Bath,tbathc5@statcounter.com,Perempuan,SMA 6,8.5,8.5,8,7,7.5,8.5,8,8.5,7.5,8,8,tidak lulus
+439,Ninon,Ould,nouldc6@clickbank.net,Perempuan,SMA 5,7,6.5,8.5,6.5,7,8,7,9,9,9,8.5,tidak lulus
+440,Corabella,Yearnsley,cyearnsleyc7@theatlantic.com,Perempuan,SMA 3,7,9,6.5,8.5,8,7,8.5,9,7.5,8,7.5,pertimbangan
+441,Laurella,Bedwell,lbedwellc8@plala.or.jp,Laki-laki,SMA 7,8.5,9,7.5,8,8.5,8.5,8.5,8,7,7.5,7.5,lulus
+442,Thornton,Bernasek,tbernasekc9@salon.com,Laki-laki,SMA 1,9,9,8,9,7,6.5,8.5,8,7.5,6.5,6.5,pertimbangan
+443,Trudie,Marte,tmarteca@linkedin.com,Perempuan,SMA 11,7,6.5,8,8,9,8.5,7.5,9,8,9,9,tidak lulus
+444,Adah,Hatry,ahatrycb@europa.eu,Perempuan,SMA 2,6.5,7,6.5,6.5,7.5,7.5,6.5,6.5,7.5,7,7.5,tidak lulus
+445,Clareta,Wingeatt,cwingeattcc@ustream.tv,Laki-laki,SMA 5,8,6.5,7.5,8,9,9,8,7.5,9,8.5,7.5,lulus
+446,Zulema,Singh,zsinghcd@jiathis.com,Laki-laki,SMA 8,7,7,9,6.5,9,6.5,7.5,6.5,6.5,8.5,8,tidak lulus
+447,Rickie,Bunney,rbunneyce@craigslist.org,Laki-laki,SMA 2,7.5,6.5,6.5,6.5,8.5,8.5,8.5,7.5,8.5,8,6.5,tidak lulus
+448,Skyler,Sacase,ssacasecf@dagondesign.com,Laki-laki,SMA 1,6.5,7.5,7.5,6.5,9,8.5,6.5,7,7,6.5,9,tidak lulus
+449,Adelaide,De Clairmont,adeclairmontcg@pinterest.com,Laki-laki,SMA 3,8.5,6.5,8.5,8.5,8.5,7.5,8.5,8.5,9,7.5,6.5,lulus
+450,Claiborn,Elves,celvesch@prlog.org,Laki-laki,SMA 3,8.5,9,6.5,7.5,7.5,6.5,7,6.5,7.5,7,9,lulus
+451,Paolo,Tuckey,ptuckeyci@abc.net.au,Perempuan,SMA 6,8,8.5,6.5,6.5,8,7.5,8.5,8.5,7.5,9,6.5,pertimbangan
+452,Aeriell,Rosenstein,arosensteincj@gnu.org,Perempuan,SMA 3,8.5,7,7,8,8,7,8,8,6.5,8.5,8.5,tidak lulus
+453,Kaylyn,Duckfield,kduckfieldck@dion.ne.jp,Laki-laki,SMA 4,7,6.5,7,9,8,9,8,9,8,6.5,8.5,pertimbangan
+454,Bernadene,Mariault,bmariaultcl@alexa.com,Perempuan,SMA 8,7,7,8,6.5,7,6.5,7,7.5,6.5,8,8,pertimbangan
+455,Rozalin,Storkes,rstorkescm@bloglovin.com,Perempuan,SMA 3,7,7,7.5,9,6.5,7,8,8,8,6.5,7.5,tidak lulus
+456,Sashenka,Lindsey,slindseycn@istockphoto.com,Perempuan,SMA 8,8,8.5,7.5,7,8.5,7,6.5,6.5,8.5,7,6.5,pertimbangan
+457,Neda,Drinkale,ndrinkaleco@hud.gov,Laki-laki,SMA 5,8.5,7,6.5,7.5,8.5,6.5,8.5,9,8,7,8.5,pertimbangan
+458,Zebedee,Ducroe,zducroecp@fotki.com,Perempuan,SMA 10,6.5,7.5,9,7.5,6.5,9,8.5,6.5,7.5,9,7.5,pertimbangan
+459,Jo-anne,Maybery,jmayberycq@chron.com,Perempuan,SMA 5,7,7,7.5,7.5,8,6.5,6.5,8.5,6.5,8.5,9,tidak lulus
+460,Duffy,Rhead,drheadcr@dedecms.com,Perempuan,SMA 8,8,8.5,8,7.5,7.5,9,9,7.5,9,9,8.5,lulus
+461,Adelina,Sherreard,asherreardcs@wikipedia.org,Laki-laki,SMA 3,8.5,7,8.5,8.5,6.5,8.5,6.5,9,8,6.5,7.5,pertimbangan
+462,Karlyn,Derisley,kderisleyct@unc.edu,Perempuan,SMA 10,7,9,8,7,7.5,8,8.5,8.5,9,7.5,7.5,pertimbangan
+463,Kort,Pechell,kpechellcu@bandcamp.com,Perempuan,SMA 2,9,9,8,7,8.5,7,7,7,9,6.5,8,pertimbangan
+464,Shay,McCord,smccordcv@shareasale.com,Perempuan,SMA 3,9,8.5,7,6.5,7,8,9,7,8,7,6.5,tidak lulus
+465,Letta,Clapp,lclappcw@chicagotribune.com,Laki-laki,SMA 5,6.5,8.5,7,8,8.5,9,8.5,6.5,8,8.5,8,tidak lulus
+466,Lonnie,Birden,lbirdencx@homestead.com,Laki-laki,SMA 7,8,8,7,6.5,8,9,6.5,7,6.5,9,6.5,lulus
+467,Der,Commings,dcommingscy@tripadvisor.com,Perempuan,SMA 1,7,8,6.5,8,8,8.5,6.5,7,9,8.5,7.5,lulus
+468,Elvyn,Benedicte,ebenedictecz@gov.uk,Laki-laki,SMA 7,8.5,8.5,9,7,7.5,6.5,7.5,8,7.5,7,7.5,tidak lulus
+469,Iris,Lamartine,ilamartined0@spotify.com,Perempuan,SMA 6,8.5,6.5,9,7.5,7,8.5,8.5,7,7.5,8.5,6.5,lulus
+470,Perl,Macallam,pmacallamd1@blogtalkradio.com,Perempuan,SMA 6,7,7,6.5,8.5,9,9,8,7.5,6.5,9,9,lulus
+471,Tobias,O' Ronan,toronand2@amazon.com,Laki-laki,SMA 2,9,7.5,9,9,9,7.5,7,9,9,7,8.5,pertimbangan
+472,Lionel,Winchurst,lwinchurstd3@usgs.gov,Perempuan,SMA 5,8.5,8.5,7,8.5,7,8.5,7,7.5,9,9,8.5,pertimbangan
+473,Lian,Philpot,lphilpotd4@mozilla.com,Perempuan,SMA 6,9,9,8.5,9,7,9,7.5,7,6.5,8.5,8.5,pertimbangan
+474,Ronda,Bartels-Ellis,rbartelsellisd5@newsvine.com,Perempuan,SMA 7,8.5,8,7,8,7.5,8,9,6.5,7,8,7.5,lulus
+475,Maybelle,Fenemore,mfenemored6@wired.com,Laki-laki,SMA 5,8.5,7,8,8.5,8.5,8.5,8,7,8.5,8,7,pertimbangan
+476,Claus,Jentle,cjentled7@dagondesign.com,Laki-laki,SMA 6,9,8,8.5,7.5,6.5,6.5,7,8,9,7,8,tidak lulus
+477,Marris,Davidovici,mdavidovicid8@nps.gov,Perempuan,SMA 7,9,9,8,6.5,7.5,8.5,7,6.5,6.5,8.5,9,lulus
+478,Marya,Vasilchikov,mvasilchikovd9@myspace.com,Perempuan,SMA 9,7,8,7,8.5,9,9,8.5,7,8,8,7.5,pertimbangan
+479,Jone,Bispham,jbisphamda@tripod.com,Perempuan,SMA 1,6.5,8.5,8,7.5,9,7.5,8.5,7,6.5,8,7.5,pertimbangan
+480,Katinka,Kyd,kkyddb@fc2.com,Laki-laki,SMA 2,8,7,8.5,8,7,7,9,8,6.5,8,8.5,lulus
+481,Jaclin,Cawdery,jcawderydc@sbwire.com,Laki-laki,SMA 10,9,8,7.5,6.5,7.5,9,8,8,7.5,7,7,lulus
+482,Maddie,Jacklings,mjacklingsdd@ehow.com,Laki-laki,SMA 1,8.5,6.5,8,7,8,6.5,9,7,7.5,6.5,8,lulus
+483,Ber,Wasmuth,bwasmuthde@comcast.net,Laki-laki,SMA 1,7.5,7,8.5,8.5,8.5,9,6.5,7,7,8.5,7,lulus
+484,Bertie,Woolpert,bwoolpertdf@thetimes.co.uk,Perempuan,SMA 1,7.5,7,7.5,6.5,6.5,7.5,8.5,8.5,7.5,7,8.5,pertimbangan
+485,Adore,Killik,akillikdg@archive.org,Laki-laki,SMA 7,6.5,8,9,8,8.5,7.5,8,9,7,9,8,pertimbangan
+486,Sherie,Winwood,swinwooddh@amazonaws.com,Perempuan,SMA 9,8,6.5,6.5,9,9,6.5,7,9,8,7.5,7.5,lulus
+487,Quinlan,Parman,qparmandi@loc.gov,Laki-laki,SMA 6,7.5,7,6.5,8,7.5,8,7,7.5,8.5,8,9,tidak lulus
+488,Sileas,Shevlin,sshevlindj@wix.com,Laki-laki,SMA 9,6.5,7,9,6.5,8.5,7,8.5,7,7.5,6.5,8.5,lulus
+489,Berke,Mutimer,bmutimerdk@narod.ru,Perempuan,SMA 6,9,8.5,7,9,7,6.5,7.5,7,7,7.5,7.5,lulus
+490,Harris,McUre,hmcuredl@4shared.com,Laki-laki,SMA 8,7.5,6.5,7,8.5,7.5,8,8.5,7,6.5,7.5,7,tidak lulus
+491,Esther,Kaaskooper,ekaaskooperdm@alexa.com,Laki-laki,SMA 2,9,9,7,9,9,7.5,9,7,8.5,8.5,8.5,pertimbangan
+492,Giulietta,Pavlitschek,gpavlitschekdn@earthlink.net,Perempuan,SMA 1,7,9,7,8.5,9,8,8,7,8.5,9,8,tidak lulus
+493,Mignonne,Bauld,mbaulddo@360.cn,Laki-laki,SMA 11,8.5,7,7,7.5,8,6.5,7.5,8,7,7.5,9,lulus
+494,Arin,Pawlett,apawlettdp@yale.edu,Perempuan,SMA 4,7,6.5,7.5,8.5,6.5,7.5,8.5,8,7,9,9,tidak lulus
+495,Aurthur,Gallatly,agallatlydq@discovery.com,Perempuan,SMA 2,9,8,8.5,7.5,6.5,8.5,9,7.5,8.5,7,6.5,tidak lulus
+496,Davine,Fanshaw,dfanshawdr@yandex.ru,Perempuan,SMA 10,7,7.5,8,8,8,6.5,6.5,7.5,7.5,7,8.5,lulus
+497,Josy,Tembey,jtembeyds@barnesandnoble.com,Laki-laki,SMA 8,9,7,8.5,8.5,7.5,7.5,8.5,8,8,8,7,lulus
+498,Pamelina,Moyler,pmoylerdt@nhs.uk,Laki-laki,SMA 11,7,7.5,7,7,7.5,6.5,8,8.5,8,8,9,tidak lulus
+499,Trudi,Sirett,tsirettdu@sfgate.com,Perempuan,SMA 11,9,7,7,8.5,8,6.5,7,6.5,6.5,8.5,7,lulus
+500,Kingsley,Bassill,kbassilldv@wikia.com,Laki-laki,SMA 11,7.5,6.5,8,8.5,8.5,7,8.5,6.5,8,7.5,8,pertimbangan
+501,Drusi,Hatliffe,dhatliffedw@illinois.edu,Perempuan,SMA 8,6.5,7,7,7,8.5,6.5,7,6.5,9,9,9,tidak lulus
+502,Andeee,Dripps,adrippsdx@geocities.jp,Perempuan,SMA 4,6.5,9,6.5,6.5,8.5,9,8.5,7.5,6.5,8,7.5,tidak lulus
+503,Kari,Bellenie,kbelleniedy@weibo.com,Laki-laki,SMA 3,7.5,7,6.5,8.5,9,9,6.5,6.5,8.5,6.5,7.5,tidak lulus
+504,Andriana,Roj,arojdz@yellowpages.com,Perempuan,SMA 10,6.5,8.5,9,7,7.5,9,7.5,8,7.5,8.5,8.5,lulus
+505,Lethia,Farr,lfarre0@gmpg.org,Perempuan,SMA 8,8,9,8,8.5,8.5,6.5,6.5,8.5,7.5,8.5,8,pertimbangan
+506,Cristen,Cansdill,ccansdille1@google.com.hk,Perempuan,SMA 5,7.5,7,8,7.5,8,7.5,9,6.5,8,8,9,pertimbangan
+507,Hart,Buckett,hbuckette2@deviantart.com,Perempuan,SMA 3,6.5,6.5,8,9,8.5,7.5,9,8,8,7.5,8.5,pertimbangan
+508,Mavra,Friel,mfriele3@nsw.gov.au,Perempuan,SMA 8,8,8.5,8,9,6.5,8,7,8.5,8.5,6.5,8,pertimbangan
+509,Terrye,Papps,tpappse4@unblog.fr,Laki-laki,SMA 3,9,7.5,7,6.5,8.5,9,9,7.5,7,9,8,pertimbangan
+510,Tiphani,Fredson,tfredsone5@over-blog.com,Laki-laki,SMA 3,9,8.5,9,9,9,7,8.5,9,6.5,8.5,6.5,lulus
+511,Gianina,Halfhead,ghalfheade6@4shared.com,Laki-laki,SMA 3,7.5,6.5,7,8.5,9,8.5,6.5,6.5,9,7,6.5,lulus
+512,Sandro,Bisp,sbispe7@cam.ac.uk,Perempuan,SMA 5,7.5,7,6.5,7.5,8.5,8.5,8,6.5,7.5,7.5,9,tidak lulus
+513,Kingston,Crosher,kcroshere8@smh.com.au,Laki-laki,SMA 4,8,7,7,7.5,9,7,8,7,7.5,6.5,6.5,pertimbangan
+514,Bastien,de Broke,bdebrokee9@pinterest.com,Perempuan,SMA 11,8,8.5,7.5,7.5,6.5,6.5,8.5,9,8.5,7,7,lulus
+515,Thea,Cristofanini,tcristofaniniea@bloglovin.com,Perempuan,SMA 6,8,8,8,9,9,8,8,6.5,8,8.5,9,tidak lulus
+516,Jarrett,Balmann,jbalmanneb@weebly.com,Laki-laki,SMA 3,9,7,9,7.5,8.5,8.5,7.5,7,6.5,8,8.5,pertimbangan
+517,Valry,Redford,vredfordec@joomla.org,Perempuan,SMA 10,8.5,9,7,8,6.5,9,8.5,6.5,8,8,8,tidak lulus
+518,Iggie,Townes,itownesed@spiegel.de,Laki-laki,SMA 2,9,6.5,6.5,7.5,8.5,8.5,8,8,6.5,9,6.5,tidak lulus
+519,Lanita,Polon,lpolonee@cyberchimps.com,Perempuan,SMA 4,7,9,8.5,8.5,8,7.5,9,6.5,8.5,7.5,7.5,pertimbangan
+520,Meg,Morrice,mmorriceef@slate.com,Laki-laki,SMA 2,9,7,9,8,7,9,8.5,9,6.5,8.5,9,tidak lulus
+521,Lea,Brandli,lbrandlieg@google.co.uk,Laki-laki,SMA 5,7.5,6.5,6.5,7.5,7.5,7.5,8.5,7,8,7,7.5,tidak lulus
+522,Spenser,Panketh,spanketheh@merriam-webster.com,Perempuan,SMA 6,8,9,7,7,7.5,7,7,8.5,8,8,9,lulus
+523,Libbey,Laverty,llavertyei@clickbank.net,Laki-laki,SMA 4,7,7.5,7,7,6.5,7,7.5,9,7,9,7.5,pertimbangan
+524,Lily,Hryskiewicz,lhryskiewiczej@tripadvisor.com,Perempuan,SMA 1,8.5,7,7,6.5,7,9,7,9,7.5,8.5,8,pertimbangan
+525,Brendis,Workman,bworkmanek@feedburner.com,Perempuan,SMA 4,7.5,8,7,9,8.5,8,9,8.5,8.5,6.5,7.5,pertimbangan
+526,Sol,Geraldi,sgeraldiel@blogspot.com,Laki-laki,SMA 5,8.5,8.5,8,7.5,7.5,8,6.5,8.5,7.5,8,9,pertimbangan
+527,Cristobal,Pirrey,cpirreyem@businessweek.com,Laki-laki,SMA 1,9,7.5,7,7.5,6.5,8.5,8.5,7,6.5,7.5,8,lulus
+528,Bridgette,Jamison,bjamisonen@mail.ru,Laki-laki,SMA 7,8.5,8.5,8.5,8,9,7,7.5,8.5,7.5,7.5,9,pertimbangan
+529,Neddie,Dufaire,ndufaireeo@slashdot.org,Laki-laki,SMA 11,8,7.5,6.5,8,8,7,6.5,7.5,6.5,7,6.5,tidak lulus
+530,Dion,Madre,dmadreep@blogger.com,Laki-laki,SMA 9,6.5,9,8,8.5,7,7.5,8,6.5,7,8.5,7,lulus
+531,Rora,Ridhole,rridholeeq@jimdo.com,Perempuan,SMA 10,9,7,8.5,6.5,9,9,8.5,8.5,8.5,6.5,6.5,tidak lulus
+532,Gunar,Capelin,gcapeliner@senate.gov,Perempuan,SMA 3,8,9,6.5,7.5,8,7,9,8,6.5,7,7.5,pertimbangan
+533,Armand,Sloy,asloyes@house.gov,Perempuan,SMA 11,8,6.5,9,9,7,7.5,6.5,6.5,8.5,8.5,8.5,lulus
+534,Floyd,Coffelt,fcoffeltet@geocities.jp,Perempuan,SMA 1,9,7,7,7.5,6.5,7,8,7.5,6.5,7.5,7,tidak lulus
+535,Ardis,Frankiewicz,afrankiewiczeu@sogou.com,Laki-laki,SMA 8,8.5,8.5,7.5,8.5,8.5,8.5,8,9,8.5,9,8,tidak lulus
+536,Heidi,Gregorio,hgregorioev@amazon.com,Perempuan,SMA 9,7.5,6.5,8,7,8.5,8.5,8,8.5,7.5,7.5,7.5,pertimbangan
+537,Errick,Milksop,emilksopew@theguardian.com,Perempuan,SMA 10,8.5,8.5,7.5,8,6.5,8,8.5,8.5,8,7.5,7.5,tidak lulus
+538,Jerry,Malatalant,jmalatalantex@opera.com,Laki-laki,SMA 4,7.5,8.5,8,6.5,8.5,9,7.5,7,9,8,6.5,lulus
+539,Beatrix,Estick,bestickey@mit.edu,Laki-laki,SMA 9,8,9,8.5,6.5,9,6.5,8.5,9,7.5,7,8.5,tidak lulus
+540,Linnea,Belchambers,lbelchambersez@economist.com,Laki-laki,SMA 8,9,7,9,7.5,8,6.5,8,6.5,7.5,9,7.5,lulus
+541,Clint,Blurton,cblurtonf0@cbc.ca,Laki-laki,SMA 1,7,7,7.5,7,9,7.5,8,8.5,7,8.5,9,pertimbangan
+542,Adena,Sheber,asheberf1@hubpages.com,Perempuan,SMA 9,7.5,7,7,6.5,8,8,8.5,8.5,7.5,7,7,tidak lulus
+543,Jillene,Boulding,jbouldingf2@discuz.net,Laki-laki,SMA 5,6.5,8.5,7.5,8.5,6.5,6.5,9,9,8,9,8,pertimbangan
+544,Tate,Plascott,tplascottf3@google.pl,Laki-laki,SMA 10,7,7,9,8.5,7,8.5,6.5,8,9,7.5,8,lulus
+545,Alli,Race,aracef4@house.gov,Perempuan,SMA 4,6.5,9,9,7,6.5,7,9,9,8,8.5,8.5,lulus
+546,Ario,Cicchinelli,acicchinellif5@woothemes.com,Perempuan,SMA 4,7,9,9,9,8,8.5,8.5,8,7,8,9,lulus
+547,Leontine,Boatright,lboatrightf6@wikimedia.org,Perempuan,SMA 3,7,8.5,9,6.5,7,8.5,7.5,7.5,6.5,7,7,tidak lulus
+548,John,Mattes,jmattesf7@parallels.com,Laki-laki,SMA 6,9,6.5,8,7.5,7,8,9,8.5,6.5,7.5,6.5,pertimbangan
+549,Tisha,Batterham,tbatterhamf8@meetup.com,Laki-laki,SMA 10,8.5,8.5,8.5,6.5,7.5,7.5,8,9,9,8,8,pertimbangan
+550,Marion,Kelston,mkelstonf9@xinhuanet.com,Perempuan,SMA 3,9,7,8.5,8,8.5,6.5,6.5,8.5,7.5,7,9,pertimbangan
+551,Nicoli,McDunlevy,nmcdunlevyfa@constantcontact.com,Laki-laki,SMA 11,7.5,7.5,6.5,8.5,8,6.5,8.5,7,8.5,8.5,9,pertimbangan
+552,Zared,Scambler,zscamblerfb@weibo.com,Laki-laki,SMA 9,7,7.5,8.5,9,7.5,8,9,8.5,7.5,8,7.5,tidak lulus
+553,Nelli,Kerfut,nkerfutfc@devhub.com,Laki-laki,SMA 4,8.5,7.5,8,7,7.5,7.5,8,6.5,6.5,9,7.5,lulus
+554,Merridie,Maydway,mmaydwayfd@feedburner.com,Perempuan,SMA 2,7,9,8,9,7.5,9,8,7,8,8,9,tidak lulus
+555,Joanie,Lodwick,jlodwickfe@sciencedaily.com,Perempuan,SMA 10,7,6.5,8.5,8.5,8.5,8,7,8,8.5,8.5,9,lulus
+556,Garrik,Perett,gperettff@technorati.com,Perempuan,SMA 9,8.5,7,7.5,8,7.5,8,9,9,8,8,6.5,tidak lulus
+557,Diahann,Ardley,dardleyfg@so-net.ne.jp,Laki-laki,SMA 3,9,9,7.5,9,7,7.5,6.5,8.5,8.5,7,7.5,lulus
+558,Kamilah,Willavize,kwillavizefh@so-net.ne.jp,Perempuan,SMA 6,9,7,7,7,8.5,9,9,7,6.5,6.5,8,tidak lulus
+559,Christiano,Wakelam,cwakelamfi@nsw.gov.au,Perempuan,SMA 3,7.5,8,7.5,7,6.5,9,6.5,8.5,7.5,9,8,lulus
+560,Creight,Hulatt,chulattfj@blog.com,Perempuan,SMA 11,9,7.5,6.5,9,7,8.5,8.5,7.5,7,8,6.5,tidak lulus
+561,Keslie,Gaither,kgaitherfk@over-blog.com,Perempuan,SMA 11,8,9,7,7,7.5,7,7,8.5,8.5,7,9,tidak lulus
+562,Vasily,Lawfull,vlawfullfl@vinaora.com,Perempuan,SMA 10,9,7,8,8.5,7.5,6.5,8,8,6.5,7,9,lulus
+563,Maura,Scarisbrick,mscarisbrickfm@zdnet.com,Laki-laki,SMA 1,8,9,6.5,8.5,8,9,8,6.5,8,6.5,7,pertimbangan
+564,Allis,Kibel,akibelfn@howstuffworks.com,Perempuan,SMA 11,7.5,9,8.5,7,9,9,8,7,7.5,7,9,pertimbangan
+565,Vivian,Williamson,vwilliamsonfo@nifty.com,Perempuan,SMA 8,9,8.5,6.5,7,8.5,6.5,7.5,6.5,7,8,6.5,pertimbangan
+566,Arel,Gebbie,agebbiefp@flavors.me,Laki-laki,SMA 5,7.5,7.5,8.5,7.5,9,8,8.5,6.5,7.5,8.5,6.5,lulus
+567,Cristy,Balog,cbalogfq@fastcompany.com,Laki-laki,SMA 3,8,9,7,8.5,8.5,7.5,7.5,6.5,7,7,7.5,pertimbangan
+568,Simone,Portingale,sportingalefr@vinaora.com,Laki-laki,SMA 2,7,9,9,7,7.5,8.5,8,7.5,7,8,7,lulus
+569,Olly,Allright,oallrightfs@npr.org,Perempuan,SMA 9,9,7,7,8.5,9,9,7.5,9,6.5,8,9,pertimbangan
+570,Willette,Gilliam,wgilliamft@cocolog-nifty.com,Laki-laki,SMA 2,7,7,8.5,7,9,8,7,9,8,8,7,tidak lulus
+571,Mireille,Hall,mhallfu@vk.com,Perempuan,SMA 6,8,6.5,8.5,8.5,8,7.5,9,7,8.5,8.5,7,pertimbangan
+572,Lorita,Carradice,lcarradicefv@yandex.ru,Perempuan,SMA 10,6.5,7.5,7.5,8.5,7.5,6.5,8,8.5,8,8,7,tidak lulus
+573,Dirk,Tregian,dtregianfw@wix.com,Laki-laki,SMA 6,7,8.5,7,8,7,7.5,6.5,6.5,7.5,9,8,lulus
+574,Royall,Barley,rbarleyfx@ow.ly,Laki-laki,SMA 11,9,6.5,7.5,8,8.5,9,8.5,6.5,8,7,8.5,lulus
+575,Kristina,Primrose,kprimrosefy@noaa.gov,Perempuan,SMA 6,6.5,9,6.5,8,7.5,8,9,7.5,7.5,7,8.5,lulus
+576,Holt,Fawthrop,hfawthropfz@umich.edu,Perempuan,SMA 2,6.5,8,8,8,6.5,8.5,7.5,9,8.5,6.5,7.5,lulus
+577,Maxi,Fulloway,mfullowayg0@blog.com,Laki-laki,SMA 2,9,9,8,8,7,7.5,6.5,8,8.5,8.5,9,tidak lulus
+578,Spike,Sherr,ssherrg1@accuweather.com,Laki-laki,SMA 7,7,8.5,6.5,9,7,7.5,9,6.5,9,8.5,8.5,pertimbangan
+579,Mile,Kinastan,mkinastang2@ebay.com,Laki-laki,SMA 6,7.5,6.5,7.5,9,8,7,7,7.5,8,8.5,8.5,lulus
+580,Davine,Warne,dwarneg3@woothemes.com,Laki-laki,SMA 4,8,6.5,8.5,6.5,6.5,9,8,8,7.5,6.5,9,lulus
+581,Orella,McVane,omcvaneg4@bloglines.com,Perempuan,SMA 4,7.5,7.5,7,6.5,8.5,9,9,6.5,7,6.5,6.5,tidak lulus
+582,Hanan,Corrado,hcorradog5@who.int,Perempuan,SMA 2,6.5,7.5,9,8,8,8,8,8,8,7.5,9,pertimbangan
+583,Lennie,Duchant,lduchantg6@sina.com.cn,Laki-laki,SMA 5,8,6.5,8,9,8.5,7,7,9,6.5,8,7.5,pertimbangan
+584,Lewiss,Tuke,ltukeg7@networkadvertising.org,Perempuan,SMA 1,8.5,7,9,9,9,8,9,6.5,7,7.5,7.5,tidak lulus
+585,Hermy,Brymham,hbrymhamg8@google.pl,Laki-laki,SMA 11,8,8,8,7.5,9,7.5,8,7.5,7.5,9,8.5,lulus
+586,Raynard,Pavis,rpavisg9@mysql.com,Laki-laki,SMA 7,8.5,6.5,7,7.5,7.5,8,7.5,8.5,8,9,6.5,pertimbangan
+587,Shantee,Arne,sarnega@globo.com,Perempuan,SMA 9,7,8,9,7,9,6.5,7,7,7.5,7,8,lulus
+588,Thatcher,Leyes,tleyesgb@reverbnation.com,Laki-laki,SMA 5,8,8,8,7,8,7.5,6.5,9,9,8,9,tidak lulus
+589,Cara,Sparshott,csparshottgc@google.pl,Laki-laki,SMA 5,7.5,7,8.5,7.5,7,6.5,6.5,8.5,8,8.5,6.5,tidak lulus
+590,Drucill,McTrustram,dmctrustramgd@huffingtonpost.com,Perempuan,SMA 11,8.5,7.5,7.5,6.5,8,9,9,8.5,7,8,6.5,lulus
+591,Marsiella,Planks,mplanksge@trellian.com,Laki-laki,SMA 9,9,7.5,8.5,7.5,7,7,9,8,8,9,7,pertimbangan
+592,Constantine,Kermeen,ckermeengf@ask.com,Perempuan,SMA 6,8,8,9,7.5,7.5,7.5,8.5,8,9,7,6.5,lulus
+593,Gelya,Vernazza,gvernazzagg@zdnet.com,Perempuan,SMA 8,8.5,8,9,7,8.5,8,8.5,7.5,8,6.5,6.5,lulus
+594,Katherina,Glison,kglisongh@cmu.edu,Laki-laki,SMA 6,9,8.5,9,6.5,7.5,7.5,7,8,6.5,6.5,8,pertimbangan
+595,Miriam,Clyant,mclyantgi@reuters.com,Laki-laki,SMA 11,7,9,6.5,8,7.5,6.5,8,9,9,7,8,pertimbangan
+596,Kevan,Lesaunier,klesauniergj@arstechnica.com,Perempuan,SMA 1,7.5,7.5,7,8,7,7,9,8.5,6.5,7,8.5,pertimbangan
+597,Edee,Bartosiak,ebartosiakgk@youku.com,Perempuan,SMA 8,6.5,7,7,8.5,6.5,6.5,7,7.5,7.5,7,8.5,pertimbangan
+598,Gerri,Brodley,gbrodleygl@who.int,Perempuan,SMA 9,6.5,9,7,8,6.5,7,7.5,9,8,8.5,7,lulus
+599,Eadith,Bassham,ebasshamgm@newsvine.com,Perempuan,SMA 4,8.5,6.5,8.5,7.5,8.5,9,9,7.5,7.5,7,6.5,lulus
+600,Lezley,Sallinger,lsallingergn@plala.or.jp,Perempuan,SMA 5,6.5,9,7.5,7,8.5,9,6.5,7.5,6.5,8.5,6.5,lulus
+601,Pia,Landell,plandellgo@ovh.net,Laki-laki,SMA 9,8,8,8.5,8,7,6.5,6.5,8.5,7.5,8.5,8.5,lulus
+602,Leigha,Lathaye,llathayegp@tinypic.com,Perempuan,SMA 7,6.5,8,8.5,7.5,7.5,7,6.5,7.5,9,7,7,pertimbangan
+603,Nomi,Winkle,nwinklegq@shutterfly.com,Laki-laki,SMA 9,7,7,8,8,7.5,7.5,7.5,7,8.5,7.5,7.5,pertimbangan
+604,Gardie,Beeswing,gbeeswinggr@cbslocal.com,Perempuan,SMA 2,7,7,9,7,6.5,9,7.5,8.5,7,7.5,9,tidak lulus
+605,Hobard,Chezier,hcheziergs@wordpress.org,Laki-laki,SMA 1,8,9,7.5,8,9,8,9,8,8.5,7.5,8,tidak lulus
+606,Felecia,Overstall,foverstallgt@rambler.ru,Perempuan,SMA 11,8.5,7,8.5,8,7.5,9,9,9,7.5,6.5,7,pertimbangan
+607,Rora,McGarrell,rmcgarrellgu@deliciousdays.com,Perempuan,SMA 5,9,7,8,8.5,8,9,8,8,6.5,8.5,7.5,lulus
+608,Eberhard,McKim,emckimgv@freewebs.com,Perempuan,SMA 7,7,8.5,7,7.5,8.5,7,8.5,8.5,8,7,7,lulus
+609,Olva,Davys,odavysgw@arizona.edu,Laki-laki,SMA 1,8,9,8,9,7.5,9,8,9,6.5,7,7,pertimbangan
+610,Madeleine,Matson,mmatsongx@archive.org,Laki-laki,SMA 9,6.5,7,6.5,7,9,8.5,7,6.5,9,9,6.5,lulus
+611,Prudy,Easman,peasmangy@surveymonkey.com,Perempuan,SMA 11,8,9,8.5,7,8,9,9,8.5,8.5,6.5,8.5,tidak lulus
+612,Wilmette,Ortler,wortlergz@yahoo.co.jp,Perempuan,SMA 5,9,8,8,8,7.5,8,7.5,6.5,7,9,6.5,tidak lulus
+613,Costanza,Mac Geaney,cmacgeaneyh0@google.de,Laki-laki,SMA 7,8,9,6.5,7.5,8,9,7,7.5,7.5,7.5,6.5,tidak lulus
+614,Currey,Stovold,cstovoldh1@guardian.co.uk,Perempuan,SMA 7,8.5,7.5,9,8,9,6.5,9,7.5,8,6.5,8.5,lulus
+615,Ferdinande,Chellingworth,fchellingworthh2@drupal.org,Perempuan,SMA 9,7.5,8.5,8.5,9,6.5,8,7,9,8,9,7,tidak lulus
+616,Filberte,Batchelder,fbatchelderh3@ycombinator.com,Perempuan,SMA 8,8.5,9,8,8.5,7,8,6.5,9,6.5,7.5,7,tidak lulus
+617,Rriocard,Wiltshire,rwiltshireh4@woothemes.com,Laki-laki,SMA 2,8.5,7.5,7.5,8.5,7,7,8.5,8,8.5,7,6.5,pertimbangan
+618,Carce,Exter,cexterh5@businesswire.com,Laki-laki,SMA 4,7.5,8,8.5,9,8,9,8,8,8.5,8.5,8.5,tidak lulus
+619,Beatrisa,Glacken,bglackenh6@youku.com,Perempuan,SMA 5,7.5,7,6.5,8.5,7,6.5,9,8.5,7.5,8,8,lulus
+620,Delaney,McAlpin,dmcalpinh7@google.co.uk,Laki-laki,SMA 10,9,6.5,7,7,9,7.5,9,8.5,7,7,6.5,tidak lulus
+621,Rog,Merrien,rmerrienh8@patch.com,Perempuan,SMA 10,6.5,9,9,7,8,9,9,6.5,7.5,9,9,lulus
+622,Albina,Lawful,alawfulh9@google.cn,Perempuan,SMA 2,7.5,7,7.5,6.5,7,8.5,7,8.5,7.5,6.5,8.5,lulus
+623,Gweneth,Bull,gbullha@mapquest.com,Laki-laki,SMA 1,9,7,6.5,7,8.5,8,7,7.5,7.5,7,8,tidak lulus
+624,Jeddy,Woolager,jwoolagerhb@engadget.com,Laki-laki,SMA 5,9,9,6.5,9,7,8,8.5,7.5,7.5,9,8.5,tidak lulus
+625,Beverlie,Pinck,bpinckhc@about.me,Perempuan,SMA 9,6.5,7,6.5,9,6.5,7,6.5,8.5,7,7,7,pertimbangan
+626,Cary,Greguol,cgreguolhd@cbsnews.com,Perempuan,SMA 7,7.5,6.5,7.5,7.5,8,9,6.5,8,7.5,6.5,9,tidak lulus
+627,Hebert,Bulfit,hbulfithe@cpanel.net,Laki-laki,SMA 3,7.5,6.5,8.5,8,6.5,9,9,7.5,8.5,7.5,8.5,tidak lulus
+628,Franz,Harmon,fharmonhf@washington.edu,Laki-laki,SMA 1,7,7,8.5,8,8,7,7,9,8.5,8,6.5,lulus
+629,Vernor,Pau,vpauhg@odnoklassniki.ru,Laki-laki,SMA 8,8.5,7,8.5,6.5,7.5,7,7.5,8,8,9,7,lulus
+630,Sherwood,Di Biasio,sdibiasiohh@netscape.com,Laki-laki,SMA 8,9,6.5,8.5,6.5,7.5,7,8,7.5,9,9,8.5,tidak lulus
+631,Augusto,Petrol,apetrolhi@mlb.com,Laki-laki,SMA 1,8,7.5,7.5,8.5,7.5,7,8,6.5,8.5,8,7,pertimbangan
+632,Phillip,Bottrill,pbottrillhj@gov.uk,Perempuan,SMA 7,7,7,6.5,6.5,6.5,7.5,8.5,6.5,7,9,8,lulus
+633,Salli,Vannet,svannethk@smh.com.au,Perempuan,SMA 10,7.5,7.5,7.5,7.5,7,8.5,7,8,9,7,7.5,lulus
+634,Marys,Jay,mjayhl@smh.com.au,Laki-laki,SMA 3,7,8,6.5,6.5,8.5,9,9,8.5,8.5,7.5,6.5,pertimbangan
+635,Olivie,Kelwick,okelwickhm@yale.edu,Laki-laki,SMA 7,9,8,7,7,7,7,6.5,6.5,6.5,9,8.5,lulus
+636,Natala,Strutton,nstruttonhn@mediafire.com,Perempuan,SMA 7,8.5,8.5,8,6.5,7.5,7.5,7.5,8.5,9,7.5,8,lulus
+637,Charo,Emmott,cemmottho@cafepress.com,Laki-laki,SMA 1,8,8,7,7.5,6.5,6.5,7.5,7.5,6.5,6.5,9,lulus
+638,Buddie,Ackrill,backrillhp@phpbb.com,Laki-laki,SMA 9,7,9,9,8.5,7,8.5,8,6.5,8,7.5,9,lulus
+639,Bryce,Hearn,bhearnhq@state.gov,Laki-laki,SMA 5,8.5,7,8.5,8,8,9,6.5,8.5,9,7,7,lulus
+640,Ruperta,Kettlesting,rkettlestinghr@usgs.gov,Laki-laki,SMA 1,8.5,8.5,9,8.5,6.5,8.5,8,8.5,8.5,8.5,6.5,lulus
+641,Horatius,Travis,htravishs@techcrunch.com,Perempuan,SMA 6,8,7,6.5,9,9,8.5,7,7,8,6.5,7.5,tidak lulus
+642,Reid,Hallede,rhalledeht@seattletimes.com,Perempuan,SMA 3,9,7,8,8,9,9,8.5,9,8,7.5,8.5,pertimbangan
+643,Danice,McKibbin,dmckibbinhu@nymag.com,Perempuan,SMA 1,9,8.5,7,8.5,9,6.5,6.5,7.5,8,7,6.5,tidak lulus
+644,Hanan,McWhannel,hmcwhannelhv@macromedia.com,Laki-laki,SMA 11,6.5,7,8,8.5,9,9,8.5,8.5,8,7,8,pertimbangan
+645,Lyn,Nowland,lnowlandhw@newyorker.com,Laki-laki,SMA 3,6.5,9,9,9,8.5,8,6.5,9,9,6.5,7,tidak lulus
+646,Suki,Bendel,sbendelhx@mac.com,Laki-laki,SMA 8,7,7.5,8,6.5,6.5,8,7,7,9,8.5,8,lulus
+647,Yul,Pinkerton,ypinkertonhy@cafepress.com,Perempuan,SMA 2,7,8,9,8,7.5,7,7,8,8.5,7.5,8,tidak lulus
+648,Emmanuel,Klemz,eklemzhz@wikia.com,Perempuan,SMA 2,6.5,9,8.5,7,6.5,7.5,8.5,8.5,7,9,8.5,tidak lulus
+649,Lelah,Lafay,llafayi0@networksolutions.com,Laki-laki,SMA 1,9,6.5,9,8,6.5,9,8,7,7.5,7.5,8,lulus
+650,Federica,Parris,fparrisi1@typepad.com,Laki-laki,SMA 9,7,9,7,7,7,7.5,8.5,8,7.5,7,7,tidak lulus
+651,Tomasine,Moberley,tmoberleyi2@soup.io,Laki-laki,SMA 1,9,8,8.5,8.5,8,8.5,8.5,7.5,8.5,8,9,lulus
+652,Adeline,Vondracek,avondraceki3@parallels.com,Perempuan,SMA 2,8.5,6.5,8.5,9,7.5,8,8.5,8.5,7,9,6.5,pertimbangan
+653,Genna,Poolman,gpoolmani4@blogs.com,Laki-laki,SMA 6,7,7.5,8.5,8,7,8,8,6.5,7,8.5,7,pertimbangan
+654,Monte,Zorer,mzoreri5@twitpic.com,Perempuan,SMA 8,7,9,7,8.5,8,9,6.5,8,7.5,7.5,7,tidak lulus
+655,Kaylil,Screase,kscreasei6@ebay.com,Perempuan,SMA 4,7,9,8.5,7.5,8.5,9,8,8,8,6.5,8.5,lulus
+656,Charil,Titmuss,ctitmussi7@illinois.edu,Perempuan,SMA 9,9,8.5,9,8,6.5,7.5,8,7,8,8.5,8.5,tidak lulus
+657,Ethelda,Meddings,emeddingsi8@senate.gov,Laki-laki,SMA 3,7,8.5,8,7.5,8.5,9,8,6.5,6.5,8.5,6.5,tidak lulus
+658,Delainey,Laguerre,dlaguerrei9@lulu.com,Laki-laki,SMA 11,7.5,7,7.5,7.5,8.5,8,7.5,7,9,8,8,lulus
+659,Nonnah,O'Geneay,nogeneayia@odnoklassniki.ru,Perempuan,SMA 5,7,8,8,7.5,9,8,8.5,6.5,7.5,6.5,6.5,tidak lulus
+660,Rosetta,Mapam,rmapamib@parallels.com,Perempuan,SMA 11,8,7,7.5,7,6.5,8,8.5,6.5,6.5,9,9,tidak lulus
+661,Flo,Kondratenya,fkondratenyaic@sun.com,Perempuan,SMA 10,8,7,9,7,9,7.5,8,7,7.5,7.5,8.5,pertimbangan
+662,Rozele,Dozdill,rdozdillid@netscape.com,Perempuan,SMA 1,6.5,8,7.5,6.5,7.5,7,7.5,6.5,6.5,9,8,pertimbangan
+663,Carolann,Edmondson,cedmondsonie@va.gov,Perempuan,SMA 11,7.5,7,8.5,7.5,8,8,8.5,7.5,6.5,9,6.5,tidak lulus
+664,Jorie,Need,jneedif@jigsy.com,Perempuan,SMA 2,7.5,7,8.5,9,6.5,9,8,7,8,7,9,pertimbangan
+665,Abagael,McCrackan,amccrackanig@yahoo.com,Laki-laki,SMA 9,8.5,6.5,8.5,6.5,7.5,9,7,7.5,8.5,8.5,6.5,pertimbangan
+666,Karleen,Lefever,klefeverih@usda.gov,Perempuan,SMA 4,7.5,6.5,8.5,9,6.5,6.5,7,7,7.5,6.5,6.5,lulus
+667,Albert,Lambert-Ciorwyn,alambertciorwynii@opera.com,Laki-laki,SMA 5,8,7,9,7.5,9,8.5,8,7.5,7.5,8.5,6.5,tidak lulus
+668,Cati,Featherbie,cfeatherbieij@4shared.com,Laki-laki,SMA 9,6.5,9,9,8.5,7.5,9,7,8,8,8,8.5,lulus
+669,Benjamin,Stirman,bstirmanik@acquirethisname.com,Perempuan,SMA 4,7.5,6.5,7,8,8.5,6.5,7.5,8,8.5,8.5,6.5,lulus
+670,Milty,Muxworthy,mmuxworthyil@jugem.jp,Perempuan,SMA 3,6.5,7.5,6.5,7.5,9,7.5,6.5,7,7,7,7,tidak lulus
+671,Shawn,Felix,sfelixim@simplemachines.org,Laki-laki,SMA 8,7,7,8,7.5,8,9,7.5,6.5,7.5,7.5,6.5,lulus
+672,Bette-ann,Beningfield,bbeningfieldin@linkedin.com,Perempuan,SMA 2,7,6.5,6.5,8.5,6.5,9,6.5,8.5,7,8,9,tidak lulus
+673,Klaus,Stapylton,kstapyltonio@usda.gov,Perempuan,SMA 6,6.5,8.5,8.5,6.5,6.5,7.5,6.5,7,7.5,8,6.5,pertimbangan
+674,Zak,Hallock,zhallockip@census.gov,Perempuan,SMA 7,7,8.5,8.5,8.5,7,9,7,9,6.5,9,8.5,lulus
+675,Addie,Baccas,abaccasiq@wisc.edu,Perempuan,SMA 3,8.5,8,9,7,6.5,6.5,7,7,7.5,9,8.5,tidak lulus
+676,Mariellen,Mereweather,mmereweatherir@123-reg.co.uk,Laki-laki,SMA 8,6.5,8,8,7,7.5,7.5,8,8.5,9,7,6.5,tidak lulus
+677,Butch,Danielut,bdanielutis@theguardian.com,Perempuan,SMA 1,6.5,7.5,6.5,7.5,7,9,7,8,8,8.5,7.5,tidak lulus
+678,Saidee,Jaspar,sjasparit@washington.edu,Laki-laki,SMA 5,7,6.5,8.5,7.5,8,8.5,7.5,7,6.5,6.5,7,lulus
+679,Gabey,McGonnell,gmcgonnelliu@addtoany.com,Laki-laki,SMA 8,8.5,8.5,8,9,9,8,8,6.5,6.5,8,8.5,lulus
+680,Hans,Whitters,hwhittersiv@instagram.com,Perempuan,SMA 10,6.5,8.5,9,7.5,6.5,7.5,7,8.5,8.5,8,9,tidak lulus
+681,Etan,Zanicchelli,ezanicchelliiw@imdb.com,Laki-laki,SMA 6,7,6.5,8.5,9,9,9,7,6.5,9,7,8.5,lulus
+682,Haywood,Coughlan,hcoughlanix@unicef.org,Laki-laki,SMA 6,8.5,8,9,6.5,6.5,8,6.5,7.5,7,8,6.5,lulus
+683,Binnie,Kroch,bkrochiy@nasa.gov,Perempuan,SMA 6,7,7.5,6.5,8.5,7.5,7,7,7.5,8,6.5,8,pertimbangan
+684,Norrie,Heddon,nheddoniz@wix.com,Perempuan,SMA 3,8,6.5,7.5,7,9,7,6.5,6.5,9,9,9,pertimbangan
+685,Malissa,McBain,mmcbainj0@soup.io,Laki-laki,SMA 5,9,6.5,8.5,7.5,6.5,7.5,9,7.5,6.5,8.5,6.5,pertimbangan
+686,Abdel,Smith,asmithj1@mapy.cz,Perempuan,SMA 11,9,9,9,8,7.5,7,8.5,6.5,7.5,8,7,pertimbangan
+687,Felicio,Wooder,fwooderj2@sun.com,Laki-laki,SMA 1,9,6.5,7,8.5,8,7,8,9,9,7,8,tidak lulus
+688,Darrelle,Minchenton,dminchentonj3@joomla.org,Laki-laki,SMA 2,9,7,8,7.5,6.5,6.5,9,7,6.5,8.5,8,lulus
+689,Flori,Beste,fbestej4@163.com,Perempuan,SMA 4,8.5,8.5,7.5,8.5,7.5,8,6.5,7.5,7.5,8.5,7,tidak lulus
+690,Sonny,Weatherley,sweatherleyj5@eepurl.com,Laki-laki,SMA 5,9,6.5,9,8,8.5,6.5,8,9,7,8,7.5,pertimbangan
+691,Gottfried,Giamuzzo,ggiamuzzoj6@indiatimes.com,Perempuan,SMA 7,9,7.5,8.5,7.5,7.5,7,7,7.5,7,6.5,8,lulus
+692,Dene,Coppledike,dcoppledikej7@studiopress.com,Perempuan,SMA 5,7.5,7,7.5,8,6.5,6.5,7.5,8.5,8,7.5,7,pertimbangan
+693,Francoise,Hubbucks,fhubbucksj8@wunderground.com,Laki-laki,SMA 5,9,8.5,9,7.5,9,8,7,8.5,6.5,7,7,lulus
+694,Luigi,Murrey,lmurreyj9@sbwire.com,Perempuan,SMA 7,6.5,6.5,7.5,6.5,8.5,7,7,7,7.5,8,8.5,pertimbangan
+695,Kaiser,Forten,kfortenja@people.com.cn,Perempuan,SMA 3,6.5,6.5,8.5,7,6.5,6.5,6.5,7.5,7.5,9,8.5,pertimbangan
+696,Dolores,MacConnell,dmacconnelljb@newsvine.com,Perempuan,SMA 4,9,8,7,8.5,7,9,7.5,9,7.5,7.5,6.5,pertimbangan
+697,Duffie,Prandoni,dprandonijc@blinklist.com,Laki-laki,SMA 8,6.5,8.5,7.5,6.5,8,8,7.5,7.5,8.5,9,6.5,tidak lulus
+698,Corri,Cashley,ccashleyjd@usa.gov,Laki-laki,SMA 10,6.5,8,9,6.5,8,8.5,7.5,8,8,6.5,8,lulus
+699,Orv,Wigelsworth,owigelsworthje@wikimedia.org,Laki-laki,SMA 11,9,7.5,7.5,8.5,8.5,7,8.5,8,7,7.5,8,pertimbangan
+700,Nels,Stiven,nstivenjf@goodreads.com,Perempuan,SMA 1,7.5,8.5,7.5,8.5,9,7,7.5,9,8,9,6.5,tidak lulus
+701,Etti,Dugald,edugaldjg@buzzfeed.com,Perempuan,SMA 2,9,7,7,6.5,9,8.5,8,6.5,8,7,8.5,tidak lulus
+702,Alvina,Mallison,amallisonjh@japanpost.jp,Laki-laki,SMA 7,7.5,6.5,8,9,9,7,6.5,7,6.5,7.5,7.5,tidak lulus
+703,Dena,Winters,dwintersji@ustream.tv,Perempuan,SMA 2,9,8,8.5,8.5,9,7.5,7,9,9,7,7,lulus
+704,Hope,Killich,hkillichjj@google.fr,Perempuan,SMA 4,7,9,8,9,8,8,8,7,8,7,7,tidak lulus
+705,Harley,Paske,hpaskejk@chicagotribune.com,Laki-laki,SMA 5,8.5,6.5,9,7,6.5,8.5,8,7,8,8.5,8.5,pertimbangan
+706,Alfreda,Gonsalo,agonsalojl@bbb.org,Laki-laki,SMA 2,8,9,8.5,7.5,9,8.5,7.5,9,7,7,8.5,pertimbangan
+707,Bernie,Walisiak,bwalisiakjm@foxnews.com,Laki-laki,SMA 1,9,8,6.5,7,7.5,8,7,9,8.5,8.5,7,tidak lulus
+708,Ware,Enderlein,wenderleinjn@microsoft.com,Perempuan,SMA 7,9,6.5,8.5,9,7,7,9,7.5,9,6.5,8.5,pertimbangan
+709,Patrick,Elsley,pelsleyjo@blogspot.com,Perempuan,SMA 10,6.5,8.5,7,7.5,8,6.5,6.5,6.5,9,7.5,8,pertimbangan
+710,Janaye,Abbitt,jabbittjp@sakura.ne.jp,Perempuan,SMA 11,9,6.5,7,7,9,6.5,8,8.5,7,8,7,lulus
+711,Paloma,Rodgier,prodgierjq@mtv.com,Laki-laki,SMA 7,7,8.5,8.5,9,9,7,8,8.5,8,9,9,tidak lulus
+712,May,Tybalt,mtybaltjr@live.com,Laki-laki,SMA 1,7.5,9,9,7,8,8,8.5,9,9,7,8.5,lulus
+713,Urbano,Tidbold,utidboldjs@usa.gov,Perempuan,SMA 9,9,8.5,6.5,7,6.5,8,8,6.5,7.5,8.5,8,lulus
+714,Babbette,Corner,bcornerjt@nyu.edu,Laki-laki,SMA 11,7,7,6.5,7,7.5,7,7,9,8.5,7,8.5,tidak lulus
+715,Mordy,Buchett,mbuchettju@mail.ru,Laki-laki,SMA 8,7,6.5,8.5,6.5,7,6.5,7,8.5,8,6.5,8.5,pertimbangan
+716,Sinclair,Di Meo,sdimeojv@clickbank.net,Perempuan,SMA 7,8,7,7,8,9,7,6.5,8.5,7,6.5,8.5,pertimbangan
+717,Gavin,Cowope,gcowopejw@spiegel.de,Laki-laki,SMA 10,9,8,6.5,7,9,8,7.5,8.5,9,6.5,7,tidak lulus
+718,Miles,Roman,mromanjx@intel.com,Perempuan,SMA 10,7.5,6.5,6.5,7.5,7.5,8.5,7.5,7,8.5,6.5,7,lulus
+719,Blondelle,Beesley,bbeesleyjy@rakuten.co.jp,Perempuan,SMA 9,9,8,6.5,7.5,8,6.5,6.5,9,8,7,8.5,lulus
+720,Agace,Searl,asearljz@sciencedaily.com,Laki-laki,SMA 4,8,8.5,9,9,7,8,8,8.5,6.5,7.5,6.5,tidak lulus
+721,Melany,Laverock,mlaverockk0@naver.com,Laki-laki,SMA 10,8,8.5,8,9,9,8,6.5,7,6.5,8,6.5,lulus
+722,Herby,Grinvalds,hgrinvaldsk1@icq.com,Perempuan,SMA 3,7,7,6.5,7,9,8.5,6.5,7,7,7.5,7.5,pertimbangan
+723,Brandice,Cohan,bcohank2@hhs.gov,Laki-laki,SMA 8,8.5,9,9,9,9,7,9,8.5,7.5,7.5,8,lulus
+724,Valentine,Bernardotti,vbernardottik3@baidu.com,Perempuan,SMA 11,8.5,7.5,9,6.5,6.5,7,9,7,7,9,6.5,tidak lulus
+725,Worthington,Capponer,wcapponerk4@springer.com,Laki-laki,SMA 5,7,7.5,7.5,8.5,9,7.5,6.5,8.5,7,8.5,7.5,pertimbangan
+726,Claiborn,Yackiminie,cyackiminiek5@prlog.org,Laki-laki,SMA 10,8,7.5,8.5,7,7,7.5,7.5,7,9,8.5,7.5,tidak lulus
+727,Lenard,Benedicto,lbenedictok6@indiegogo.com,Perempuan,SMA 4,7,8,7.5,7.5,6.5,8,7,7.5,9,6.5,8,pertimbangan
+728,Constantino,Appleford,capplefordk7@t-online.de,Laki-laki,SMA 5,9,7,6.5,8,9,8.5,7.5,8.5,8.5,6.5,7.5,lulus
+729,Bennett,Beneteau,bbeneteauk8@istockphoto.com,Laki-laki,SMA 5,7,7,7,7,7,7,9,9,6.5,7.5,6.5,pertimbangan
+730,Ed,McCard,emccardk9@jalbum.net,Laki-laki,SMA 9,8,6.5,6.5,8,9,7.5,7.5,8.5,9,8.5,9,tidak lulus
+731,Thane,Yacobsohn,tyacobsohnka@dmoz.org,Laki-laki,SMA 4,7,9,8.5,7.5,8.5,7,8,8,7,6.5,7,tidak lulus
+732,Nev,Penwarden,npenwardenkb@noaa.gov,Perempuan,SMA 3,7.5,7.5,8.5,7.5,7.5,8,8,8.5,8.5,7,9,pertimbangan
+733,Patton,Shilladay,pshilladaykc@ovh.net,Perempuan,SMA 9,8.5,7,8.5,7,7,7,9,8.5,8,8.5,7.5,lulus
+734,Bonnibelle,Dumberell,bdumberellkd@pcworld.com,Perempuan,SMA 4,9,9,7,9,7.5,7,7,6.5,7.5,8,8,tidak lulus
+735,Kerr,Estcourt,kestcourtke@yolasite.com,Laki-laki,SMA 4,8.5,6.5,8,7.5,7,6.5,9,8,9,6.5,7.5,pertimbangan
+736,Gordan,Denny,gdennykf@ocn.ne.jp,Perempuan,SMA 2,7.5,7.5,9,8.5,7,8,7,8.5,7.5,9,8.5,lulus
+737,Brendin,Parmer,bparmerkg@guardian.co.uk,Laki-laki,SMA 7,8.5,8.5,9,8.5,7,8.5,7,8,8,7.5,8,tidak lulus
+738,Kahaleel,Abrahm,kabrahmkh@mayoclinic.com,Perempuan,SMA 2,7,6.5,8,7.5,7.5,8.5,8,8,8.5,8.5,9,lulus
+739,Onida,Bleythin,obleythinki@jiathis.com,Perempuan,SMA 4,9,8.5,9,9,9,9,9,7.5,8.5,7,8,lulus
+740,Dione,Cudde,dcuddekj@skyrock.com,Perempuan,SMA 4,8,8,8.5,9,9,7.5,6.5,7,8,7,7,tidak lulus
+741,Amalle,Perse,apersekk@dailymotion.com,Perempuan,SMA 10,8.5,8.5,9,9,8.5,7.5,9,8.5,7,6.5,7.5,lulus
+742,Ferne,Congreve,fcongrevekl@miitbeian.gov.cn,Laki-laki,SMA 5,8.5,7.5,6.5,8,8,6.5,9,6.5,9,7.5,7.5,pertimbangan
+743,Adrienne,MacAree,amacareekm@google.com.br,Laki-laki,SMA 4,7,8.5,8,8.5,7,9,6.5,7,9,9,7.5,lulus
+744,Kristo,Pannett,kpannettkn@ustream.tv,Perempuan,SMA 7,6.5,9,6.5,9,8.5,7,6.5,7,7,8,7,tidak lulus
+745,Teddi,Toombes,ttoombesko@hubpages.com,Perempuan,SMA 7,6.5,7.5,8.5,7,7.5,9,7,9,8.5,9,8.5,pertimbangan
+746,Maggie,Grimolbie,mgrimolbiekp@vimeo.com,Perempuan,SMA 10,8.5,8.5,6.5,8.5,7,8,7,8.5,9,7,8.5,lulus
+747,Sofie,Lavalle,slavallekq@godaddy.com,Laki-laki,SMA 5,8,8,6.5,7,6.5,9,8.5,6.5,7.5,7.5,7,pertimbangan
+748,Lalo,Been,lbeenkr@taobao.com,Laki-laki,SMA 3,7,8,7,7,9,8,8.5,6.5,8.5,9,7.5,pertimbangan
+749,Dilan,Grimsdell,dgrimsdellks@ovh.net,Perempuan,SMA 6,6.5,9,8.5,9,8.5,8.5,8,8,7.5,6.5,9,pertimbangan
+750,Daffi,Works,dworkskt@w3.org,Laki-laki,SMA 2,8,7.5,8,6.5,8.5,8.5,7.5,9,7.5,7.5,8.5,lulus
+751,Alyse,Perryn,aperrynku@wordpress.com,Perempuan,SMA 2,9,7.5,7,6.5,8,6.5,6.5,7.5,9,7.5,8.5,pertimbangan
+752,Sergei,Radke,sradkekv@addthis.com,Laki-laki,SMA 7,9,7,8.5,8,6.5,6.5,8.5,8.5,8.5,9,9,pertimbangan
+753,Nora,Buche,nbuchekw@uiuc.edu,Laki-laki,SMA 4,8.5,8,7,9,9,8,8,8,6.5,6.5,7.5,lulus
+754,Lucia,Ghirardi,lghirardikx@forbes.com,Perempuan,SMA 6,8,6.5,6.5,6.5,7,8,9,7,7.5,7.5,8.5,pertimbangan
+755,Kerri,Edinburgh,kedinburghky@whitehouse.gov,Perempuan,SMA 4,7,7.5,8,9,7.5,6.5,6.5,8.5,6.5,8.5,8,pertimbangan
+756,Hanny,Cathersides,hcathersideskz@usa.gov,Perempuan,SMA 7,7,7.5,9,9,9,8,7,8.5,9,8.5,8,lulus
+757,Emma,Rozec,erozecl0@themeforest.net,Perempuan,SMA 9,7,9,9,8.5,8.5,8,7,9,7,6.5,8,tidak lulus
+758,Chen,Sarra,csarral1@canalblog.com,Perempuan,SMA 6,7,9,8.5,6.5,7.5,6.5,8,8,8,9,8,pertimbangan
+759,Artemis,Ticehurst,aticehurstl2@arizona.edu,Perempuan,SMA 4,8.5,8,8,7.5,9,8,8.5,9,7.5,8,8,lulus
+760,Stafani,Arnaudot,sarnaudotl3@dmoz.org,Laki-laki,SMA 3,7.5,6.5,8.5,8.5,8,9,8,6.5,7,9,9,pertimbangan
+761,Chariot,Dearan,cdearanl4@slate.com,Perempuan,SMA 6,8.5,8,6.5,6.5,7,8,9,7.5,7,7.5,7.5,tidak lulus
+762,Heall,De Ruggero,hderuggerol5@dedecms.com,Laki-laki,SMA 8,8,6.5,9,7,7.5,6.5,9,8,7,7.5,9,lulus
+763,Petra,Habble,phabblel6@seesaa.net,Laki-laki,SMA 9,7,6.5,7.5,6.5,6.5,9,8.5,9,7.5,6.5,9,lulus
+764,Menard,Hannaby,mhannabyl7@youku.com,Perempuan,SMA 2,6.5,6.5,6.5,8,6.5,8.5,9,9,9,6.5,9,tidak lulus
+765,Colin,Farman,cfarmanl8@columbia.edu,Perempuan,SMA 5,7,6.5,6.5,6.5,8.5,8.5,8,7,9,8,8,lulus
+766,Corbett,Cummungs,ccummungsl9@indiatimes.com,Laki-laki,SMA 8,6.5,7,6.5,9,6.5,6.5,8.5,7.5,7,7,8.5,lulus
+767,Tybi,Flatman,tflatmanla@thetimes.co.uk,Laki-laki,SMA 9,9,8,9,9,7.5,7.5,8,8.5,7.5,7.5,9,tidak lulus
+768,Alanson,Woodvine,awoodvinelb@com.com,Perempuan,SMA 7,7,8.5,9,9,8,9,6.5,7.5,7,9,8.5,tidak lulus
+769,Miles,McCloughlin,mmccloughlinlc@mail.ru,Laki-laki,SMA 4,6.5,7.5,7.5,9,6.5,8,9,7,6.5,7,8,pertimbangan
+770,Euell,Speedy,espeedyld@g.co,Laki-laki,SMA 6,9,7.5,6.5,7,7.5,9,7,6.5,6.5,6.5,7.5,pertimbangan
+771,Hansiain,Cartwight,hcartwightle@imageshack.us,Laki-laki,SMA 9,6.5,7.5,7.5,8,8.5,8.5,6.5,6.5,7.5,7,8.5,tidak lulus
+772,Minor,Godard,mgodardlf@psu.edu,Laki-laki,SMA 7,8,9,8,7,8.5,6.5,8,7.5,8.5,6.5,8.5,tidak lulus
+773,Freeland,Wethey,fwetheylg@rediff.com,Perempuan,SMA 7,6.5,7.5,6.5,9,7.5,8.5,9,7,6.5,8,7,tidak lulus
+774,Boonie,Spicer,bspicerlh@sakura.ne.jp,Perempuan,SMA 3,8.5,8,7,8.5,7.5,9,7.5,7,7.5,6.5,9,lulus
+775,Baxter,Mousley,bmousleyli@dell.com,Perempuan,SMA 5,7,8,7,9,6.5,8,8,6.5,9,7,8,tidak lulus
+776,Madeleine,Hawes,mhaweslj@wikispaces.com,Laki-laki,SMA 7,9,8,8,8.5,7,7,8,9,9,6.5,7,tidak lulus
+777,Abba,Bushby,abushbylk@webs.com,Laki-laki,SMA 4,9,8.5,9,9,8.5,8.5,8,9,7.5,7,6.5,lulus
+778,Dianemarie,Burgon,dburgonll@mlb.com,Perempuan,SMA 6,8,9,7.5,7,9,7,8,6.5,7,6.5,7.5,tidak lulus
+779,Derick,McMyler,dmcmylerlm@mlb.com,Perempuan,SMA 5,7.5,7,7.5,7,6.5,6.5,8,8,8,7.5,8.5,tidak lulus
+780,Chip,Souttar,csouttarln@linkedin.com,Perempuan,SMA 1,9,7.5,9,7.5,8.5,8.5,6.5,9,8.5,9,9,tidak lulus
+781,Shalom,Harsent,sharsentlo@diigo.com,Perempuan,SMA 9,9,6.5,7.5,6.5,7.5,8,9,8.5,7,8.5,8.5,tidak lulus
+782,Zondra,Scupham,zscuphamlp@51.la,Laki-laki,SMA 7,6.5,7,6.5,8,8.5,9,8,7.5,7.5,6.5,7.5,pertimbangan
+783,Ariadne,Rodders,arodderslq@hao123.com,Perempuan,SMA 3,9,8,8.5,8,9,7.5,9,8.5,9,6.5,7.5,pertimbangan
+784,Devan,Munn,dmunnlr@spotify.com,Laki-laki,SMA 9,7.5,8.5,8,6.5,6.5,6.5,9,7,9,8,6.5,tidak lulus
+785,Goran,Coste,gcostels@istockphoto.com,Perempuan,SMA 10,7,8.5,7,8.5,8.5,9,8.5,7.5,7,7,8,tidak lulus
+786,Lesley,Pail,lpaillt@tripadvisor.com,Perempuan,SMA 5,8,7.5,8,8.5,8,7.5,6.5,7,9,7.5,7.5,lulus
+787,Ingemar,Bashford,ibashfordlu@cnet.com,Laki-laki,SMA 10,7,7,8.5,6.5,6.5,9,8,7.5,9,8,9,lulus
+788,Maribeth,Haymes,mhaymeslv@bigcartel.com,Perempuan,SMA 6,9,7.5,7.5,8.5,7,8,8,8,6.5,8.5,6.5,tidak lulus
+789,Marcelo,Gavahan,mgavahanlw@ezinearticles.com,Laki-laki,SMA 8,9,6.5,7,7,9,8.5,6.5,7,7.5,7,7,tidak lulus
+790,Katha,Juett,kjuettlx@ed.gov,Perempuan,SMA 5,8.5,7.5,7,8.5,7,9,8.5,7,8.5,8,6.5,tidak lulus
+791,Costanza,Biagini,cbiaginily@epa.gov,Perempuan,SMA 4,9,8,9,8,8.5,6.5,6.5,8.5,9,7.5,9,tidak lulus
+792,Irving,Meineken,imeinekenlz@dell.com,Perempuan,SMA 4,8,6.5,8,7.5,7,7.5,8.5,7.5,9,7.5,8.5,lulus
+793,Kermit,Gillio,kgilliom0@ning.com,Perempuan,SMA 5,8.5,9,8.5,8.5,8.5,7.5,7.5,7,9,7.5,8,pertimbangan
+794,Karla,Hullett,khullettm1@weebly.com,Laki-laki,SMA 1,6.5,8.5,7.5,8.5,8,7.5,8.5,9,6.5,7.5,8.5,pertimbangan
+795,Celine,Ollerhad,collerhadm2@vimeo.com,Perempuan,SMA 6,8,7,7,8,6.5,7,7.5,7,8.5,7.5,6.5,lulus
+796,Benton,Crain,bcrainm3@spotify.com,Laki-laki,SMA 1,7.5,9,9,7.5,7.5,9,7,8,7,6.5,8,tidak lulus
+797,Jobi,Szwarc,jszwarcm4@cpanel.net,Perempuan,SMA 6,8,9,6.5,8.5,8.5,6.5,8.5,8,7,8,8.5,tidak lulus
+798,Estele,Blasgen,eblasgenm5@friendfeed.com,Laki-laki,SMA 9,9,6.5,8,9,8,6.5,8,8,7,9,7.5,pertimbangan
+799,Rosalie,Settle,rsettlem6@mashable.com,Perempuan,SMA 7,7.5,8.5,6.5,7,7,6.5,9,6.5,7,6.5,6.5,lulus
+800,Germaine,Hovey,ghoveym7@google.co.jp,Laki-laki,SMA 11,9,7,9,8,7.5,7.5,8.5,8.5,8.5,7,8.5,pertimbangan
+801,Fraser,Bastin,fbastinm8@dropbox.com,Laki-laki,SMA 9,8,7.5,8,7,8.5,7.5,8.5,8,8.5,7,8.5,lulus
+802,Lanni,Chiommienti,lchiommientim9@fda.gov,Perempuan,SMA 2,6.5,6.5,8,8.5,8,7,8,7,7,6.5,7.5,lulus
+803,Chicky,Heinonen,cheinonenma@jimdo.com,Laki-laki,SMA 9,7.5,8.5,8,8.5,8.5,8.5,7,7.5,7.5,9,7,pertimbangan
+804,Lara,Lammers,llammersmb@domainmarket.com,Perempuan,SMA 11,8,8,7,9,7.5,9,8.5,7,7.5,7.5,7,tidak lulus
+805,Ronica,Whear,rwhearmc@hud.gov,Laki-laki,SMA 7,9,6.5,6.5,7.5,7.5,7.5,7,6.5,8,7.5,8.5,pertimbangan
+806,Morse,Volkes,mvolkesmd@sciencedirect.com,Laki-laki,SMA 9,9,6.5,8.5,8.5,8.5,7.5,7,7,8,8,8.5,lulus
+807,Tucky,Wilsee,twilseeme@nhs.uk,Perempuan,SMA 9,9,9,8,7,9,9,8.5,7,7,9,7,lulus
+808,Guy,Rust,grustmf@weebly.com,Laki-laki,SMA 5,6.5,8,8.5,7.5,7,9,7.5,7,8,7.5,7.5,pertimbangan
+809,Aila,Andriveaux,aandriveauxmg@bigcartel.com,Laki-laki,SMA 4,6.5,8.5,7.5,7.5,7,6.5,6.5,7.5,7,8,9,pertimbangan
+810,Ettie,Schapiro,eschapiromh@ucoz.ru,Perempuan,SMA 2,8,8,7,8,8.5,8.5,9,8.5,7.5,8,8.5,lulus
+811,Caitlin,Meade,cmeademi@instagram.com,Perempuan,SMA 10,7.5,9,7,6.5,6.5,9,9,6.5,9,8.5,8.5,lulus
+812,Griswold,Alu,galumj@addtoany.com,Laki-laki,SMA 2,7.5,8.5,8.5,9,7,6.5,9,6.5,8,9,9,tidak lulus
+813,Hedda,Parriss,hparrissmk@nba.com,Perempuan,SMA 5,8,7,8,8,7.5,8,8.5,6.5,7,9,8,lulus
+814,Nonnah,McKune,nmckuneml@pcworld.com,Laki-laki,SMA 9,7.5,6.5,6.5,8,8,8,8,9,8.5,8.5,8,lulus
+815,Herminia,Wharf,hwharfmm@blogspot.com,Laki-laki,SMA 8,9,9,8.5,8.5,8,7,6.5,8.5,6.5,8.5,7.5,tidak lulus
+816,Neall,Sykora,nsykoramn@plala.or.jp,Laki-laki,SMA 4,8,7,7.5,8,6.5,7.5,6.5,6.5,8.5,9,9,tidak lulus
+817,Lavina,Gowers,lgowersmo@ucsd.edu,Perempuan,SMA 5,8,8.5,9,7,8.5,7,6.5,8.5,7,8,9,lulus
+818,Almeta,Davidzon,adavidzonmp@cnbc.com,Laki-laki,SMA 9,9,7,9,6.5,7.5,9,7,8.5,8.5,9,9,pertimbangan
+819,Claudia,Klimov,cklimovmq@kickstarter.com,Perempuan,SMA 2,8,8.5,8,6.5,6.5,8,9,7.5,7,7.5,7.5,lulus
+820,Calv,Niesegen,cniesegenmr@tinypic.com,Perempuan,SMA 5,9,7,8,7,8,7,6.5,7,8,7.5,6.5,lulus
+821,Nanete,Limon,nlimonms@flavors.me,Laki-laki,SMA 6,7,8.5,9,6.5,7,6.5,8,9,7,9,8.5,lulus
+822,Brena,Kornyakov,bkornyakovmt@harvard.edu,Perempuan,SMA 4,7.5,6.5,7,8,9,7.5,8,7,8.5,8,8.5,pertimbangan
+823,Melli,Simoncelli,msimoncellimu@drupal.org,Laki-laki,SMA 9,6.5,7,7.5,6.5,9,9,9,7.5,9,7.5,9,tidak lulus
+824,Phedra,Schukraft,pschukraftmv@wsj.com,Laki-laki,SMA 6,9,6.5,7.5,9,6.5,8.5,7.5,8.5,7,6.5,8.5,lulus
+825,Harris,Edon,hedonmw@theglobeandmail.com,Laki-laki,SMA 2,9,8.5,9,9,8,7,9,8.5,7,9,6.5,lulus
+826,Sydney,Backsal,sbacksalmx@tripod.com,Laki-laki,SMA 4,6.5,8,8.5,7,8,9,8.5,9,6.5,9,9,pertimbangan
+827,Puff,Emberson,pembersonmy@mysql.com,Laki-laki,SMA 3,7.5,7,7.5,8.5,9,8,6.5,6.5,8,9,7,tidak lulus
+828,Gabi,Alldre,galldremz@bloglines.com,Laki-laki,SMA 4,8.5,9,8.5,7.5,9,6.5,7,9,8,6.5,6.5,pertimbangan
+829,Ekaterina,Neumann,eneumannn0@usda.gov,Laki-laki,SMA 3,8.5,7.5,8.5,9,8.5,6.5,8.5,7.5,8.5,8.5,6.5,tidak lulus
+830,Valentina,Petz,vpetzn1@skype.com,Laki-laki,SMA 7,8,8,8,9,7,9,7,8.5,8.5,7,8.5,tidak lulus
+831,Anya,Petters,apettersn2@nih.gov,Laki-laki,SMA 11,7,7,8,7,9,8,8,7.5,6.5,6.5,6.5,lulus
+832,Avrom,Stockney,astockneyn3@spotify.com,Laki-laki,SMA 2,7,7.5,6.5,7,6.5,7,7.5,8.5,7.5,7.5,9,tidak lulus
+833,Elsey,Joutapavicius,ejoutapaviciusn4@quantcast.com,Perempuan,SMA 2,9,9,7.5,7.5,8.5,6.5,6.5,7.5,8.5,9,6.5,pertimbangan
+834,Fremont,Mansell,fmanselln5@google.pl,Perempuan,SMA 9,7.5,7.5,7.5,6.5,7.5,8,8.5,8,7,6.5,6.5,tidak lulus
+835,Gifford,Gosswell,ggosswelln6@hhs.gov,Perempuan,SMA 2,7,7.5,8.5,8,7,7,9,8.5,9,8,7.5,pertimbangan
+836,Deane,Carayol,dcarayoln7@trellian.com,Perempuan,SMA 8,8,7,9,6.5,9,8.5,8.5,7.5,7,7.5,6.5,lulus
+837,Annelise,Leyrroyd,aleyrroydn8@washington.edu,Laki-laki,SMA 4,9,6.5,6.5,7.5,7.5,7,8.5,9,7,9,7.5,tidak lulus
+838,Durand,Davidovich,ddavidovichn9@usatoday.com,Laki-laki,SMA 6,8.5,8.5,8,6.5,6.5,8,7.5,8,8.5,6.5,9,pertimbangan
+839,Adam,Bettlestone,abettlestonena@cnet.com,Laki-laki,SMA 1,8,6.5,8.5,7.5,9,7.5,7.5,8,7,8.5,7,lulus
+840,Arabella,Barge,abargenb@wikipedia.org,Laki-laki,SMA 8,8.5,6.5,8.5,9,7.5,6.5,8,7,9,8,6.5,lulus
+841,Hedda,Dahlberg,hdahlbergnc@ow.ly,Laki-laki,SMA 9,7,9,7.5,8,9,6.5,6.5,7.5,8.5,7.5,9,lulus
+842,Editha,Lewton,elewtonnd@fda.gov,Perempuan,SMA 9,8.5,9,7.5,9,8,8,7.5,6.5,7.5,6.5,8,tidak lulus
+843,Rena,Spadeck,rspadeckne@google.nl,Perempuan,SMA 3,8,7,6.5,9,6.5,8.5,8,6.5,7.5,7,7,pertimbangan
+844,Fred,Burdell,fburdellnf@umich.edu,Perempuan,SMA 10,8,7,8.5,9,7,6.5,8,7.5,7,7.5,8.5,tidak lulus
+845,Shirline,Iley,sileyng@cocolog-nifty.com,Perempuan,SMA 10,7,7.5,7.5,9,9,8.5,8,8,9,7,9,lulus
+846,Dania,Taborre,dtaborrenh@prlog.org,Laki-laki,SMA 6,7,8,9,6.5,7.5,8,6.5,7,6.5,8,6.5,tidak lulus
+847,Tymon,Willmetts,twillmettsni@netvibes.com,Laki-laki,SMA 4,6.5,8.5,8,7.5,9,6.5,7.5,7.5,7,7,8,pertimbangan
+848,Jock,Woodison,jwoodisonnj@ifeng.com,Laki-laki,SMA 11,8.5,8,8,7.5,9,8.5,7.5,8.5,6.5,7.5,8,tidak lulus
+849,Rowena,Atkinson,ratkinsonnk@cornell.edu,Laki-laki,SMA 7,8.5,6.5,6.5,8.5,9,7.5,8,9,7,7.5,8.5,pertimbangan
+850,Lonnie,Strothers,lstrothersnl@mtv.com,Perempuan,SMA 1,6.5,6.5,8.5,7.5,8.5,6.5,8.5,6.5,7,6.5,9,pertimbangan
+851,Aaren,Stodart,astodartnm@opera.com,Perempuan,SMA 6,7.5,7,7,8.5,8.5,7,9,7.5,8,7,6.5,pertimbangan
+852,Andria,Farres,afarresnn@about.com,Perempuan,SMA 3,8.5,8,8,7,9,9,9,9,8,6.5,7.5,pertimbangan
+853,Viviana,Vakhonin,vvakhoninno@time.com,Laki-laki,SMA 6,6.5,8,7.5,8,9,6.5,7.5,8,8.5,9,9,lulus
+854,Carr,Dombrell,cdombrellnp@amazon.co.uk,Laki-laki,SMA 2,7.5,7,6.5,8,7.5,9,7.5,6.5,9,9,9,lulus
+855,Udale,Benbough,ubenboughnq@shinystat.com,Perempuan,SMA 6,6.5,6.5,8.5,9,7,7,7,8,7,9,7.5,tidak lulus
+856,Minerva,Doram,mdoramnr@msu.edu,Laki-laki,SMA 10,6.5,6.5,6.5,7,6.5,6.5,6.5,7.5,7,7.5,6.5,lulus
+857,Lanae,Olman,lolmanns@ted.com,Laki-laki,SMA 9,7,7.5,6.5,8,9,7.5,8,7,7,7.5,7.5,tidak lulus
+858,Wylma,Fegan,wfegannt@wired.com,Perempuan,SMA 9,8.5,8,6.5,8.5,9,7.5,8.5,7,9,8,8,tidak lulus
+859,Penelopa,Gueinn,pgueinnnu@google.es,Perempuan,SMA 1,8.5,8,7,8,8,8,7,8.5,7,8,7,pertimbangan
+860,Zechariah,Shrubsall,zshrubsallnv@huffingtonpost.com,Perempuan,SMA 4,8,6.5,8.5,9,6.5,8.5,6.5,9,6.5,9,6.5,pertimbangan
+861,Jolene,Heberden,jheberdennw@huffingtonpost.com,Laki-laki,SMA 1,6.5,8,7.5,8,9,9,8,6.5,7.5,8.5,6.5,lulus
+862,Rolland,Earle,rearlenx@google.nl,Perempuan,SMA 11,8.5,8,8.5,8.5,7,9,7,6.5,8,8.5,6.5,tidak lulus
+863,Clemente,Holworth,cholworthny@i2i.jp,Perempuan,SMA 7,8,6.5,9,8.5,6.5,7,7,8.5,8,9,9,lulus
+864,Wally,Deinhard,wdeinhardnz@google.nl,Laki-laki,SMA 4,7.5,7.5,9,9,7.5,8,6.5,7,6.5,9,7,tidak lulus
+865,Eugen,Habbershon,ehabbershono0@skype.com,Perempuan,SMA 8,8,8.5,9,8.5,8,7,7,8.5,8,7.5,6.5,lulus
+866,Hattie,Hailes,hhaileso1@howstuffworks.com,Laki-laki,SMA 1,7.5,6.5,8,7.5,9,7.5,7.5,8.5,6.5,7.5,6.5,pertimbangan
+867,Robyn,Bellinger,rbellingero2@chron.com,Laki-laki,SMA 3,6.5,8,6.5,9,7,9,6.5,7,6.5,8.5,9,lulus
+868,Deidre,Jephson,djephsono3@boston.com,Perempuan,SMA 8,7,9,6.5,9,6.5,7.5,7.5,7,8.5,6.5,9,pertimbangan
+869,Frannie,Scarasbrick,fscarasbricko4@jiathis.com,Perempuan,SMA 10,6.5,8,7.5,7.5,8,7.5,6.5,8.5,9,9,8.5,pertimbangan
+870,Cathie,Sherwen,csherweno5@wisc.edu,Perempuan,SMA 10,7,7,7,7,9,8,9,8.5,6.5,7,6.5,pertimbangan
+871,Monte,Tirrell,mtirrello6@ox.ac.uk,Laki-laki,SMA 11,7,8,9,7,7,8,7,6.5,6.5,7.5,8,pertimbangan
+872,Brigitta,Beggan,bbeggano7@deviantart.com,Laki-laki,SMA 7,7.5,6.5,7.5,6.5,6.5,8.5,7.5,8,9,6.5,7.5,lulus
+873,Klarrisa,Hearfield,khearfieldo8@google.ca,Laki-laki,SMA 10,9,8.5,8.5,8.5,6.5,8.5,6.5,7.5,7,7,6.5,tidak lulus
+874,Merell,Rainsden,mrainsdeno9@ebay.co.uk,Perempuan,SMA 8,6.5,7,6.5,6.5,6.5,7.5,7.5,8,7,7,6.5,pertimbangan
+875,Arda,Swan,aswanoa@deliciousdays.com,Perempuan,SMA 3,8,6.5,7,9,7.5,7,7,9,8.5,8,8,lulus
+876,Dode,Danis,ddanisob@hao123.com,Perempuan,SMA 3,8.5,6.5,9,8.5,7.5,9,8.5,7,7,9,6.5,tidak lulus
+877,Orelia,Strangwood,ostrangwoodoc@yahoo.co.jp,Perempuan,SMA 3,7,8,8.5,6.5,7.5,8,8.5,8.5,7.5,7,8.5,lulus
+878,Heall,Bowditch,hbowditchod@fda.gov,Perempuan,SMA 7,8.5,8.5,6.5,7.5,8.5,7.5,7.5,7.5,6.5,8.5,7.5,tidak lulus
+879,Patsy,Fordham,pfordhamoe@vinaora.com,Laki-laki,SMA 6,8,6.5,7.5,8,8.5,9,7.5,8.5,8,7,6.5,tidak lulus
+880,Robinette,Blofeld,rblofeldof@list-manage.com,Laki-laki,SMA 6,7,7,8,8.5,8.5,7,7,9,7.5,6.5,7,tidak lulus
+881,Zuzana,Wilde,zwildeog@fema.gov,Laki-laki,SMA 4,7.5,9,7,7,7,7.5,7.5,8,7,7,8,pertimbangan
+882,Abey,Stonhewer,astonheweroh@admin.ch,Perempuan,SMA 4,7,7.5,9,9,8,8,8,6.5,6.5,8,8.5,tidak lulus
+883,Elia,Pylkynyton,epylkynytonoi@microsoft.com,Laki-laki,SMA 4,7.5,9,9,6.5,7.5,7.5,8.5,9,8,9,8,lulus
+884,Thekla,Bridgestock,tbridgestockoj@purevolume.com,Perempuan,SMA 7,8.5,8,8,7,6.5,8.5,6.5,6.5,7,8.5,7.5,pertimbangan
+885,Bent,Stitfall,bstitfallok@creativecommons.org,Laki-laki,SMA 5,8.5,8,8.5,8,8,6.5,7,7,8.5,7.5,7.5,pertimbangan
+886,Ruthie,Huet,rhuetol@wp.com,Perempuan,SMA 2,9,7,8,7,8,6.5,6.5,6.5,8.5,6.5,8.5,pertimbangan
+887,Benoite,Pickthorn,bpickthornom@storify.com,Perempuan,SMA 7,9,7,9,7.5,6.5,6.5,7,9,6.5,8.5,8,lulus
+888,Elana,Cadogan,ecadoganon@google.co.jp,Laki-laki,SMA 4,6.5,7.5,9,9,9,9,8,9,7.5,8,6.5,lulus
+889,Bronny,Brokenshaw,bbrokenshawoo@oaic.gov.au,Perempuan,SMA 2,8.5,7,6.5,9,8,7.5,8.5,7,9,9,8,tidak lulus
+890,Lucine,Horry,lhorryop@wisc.edu,Perempuan,SMA 7,8.5,6.5,8.5,7,9,8,6.5,8.5,8,8.5,6.5,pertimbangan
+891,Minda,Doudny,mdoudnyoq@miibeian.gov.cn,Perempuan,SMA 6,8,8.5,9,8,9,7.5,8,7.5,9,7,7,tidak lulus
+892,Jerrome,Buckler,jbuckleror@digg.com,Perempuan,SMA 2,8,6.5,8,7.5,6.5,8,6.5,7,7.5,7.5,9,tidak lulus
+893,Marshall,Carvilla,mcarvillaos@wiley.com,Perempuan,SMA 11,9,8.5,8,6.5,7,7.5,6.5,9,8.5,9,9,pertimbangan
+894,Silvie,Labeuil,slabeuilot@bigcartel.com,Laki-laki,SMA 5,8,8,7,8,7.5,8.5,9,7.5,7,7,8.5,pertimbangan
+895,Caddric,Clemits,cclemitsou@cpanel.net,Perempuan,SMA 3,8,7.5,8,7.5,6.5,9,7.5,8,6.5,8,8,tidak lulus
+896,Obadiah,McGonagle,omcgonagleov@myspace.com,Perempuan,SMA 1,7,9,7,7,7.5,7.5,9,8,9,8.5,9,pertimbangan
+897,Sidonia,Yarn,syarnow@booking.com,Perempuan,SMA 3,6.5,7.5,8.5,8,7.5,7.5,9,8,9,7.5,9,tidak lulus
+898,Romonda,Irwin,rirwinox@ezinearticles.com,Perempuan,SMA 2,8.5,8,8,6.5,7,6.5,8,8.5,7.5,8,7,pertimbangan
+899,Glynnis,Shuter,gshuteroy@vimeo.com,Perempuan,SMA 6,8,7.5,6.5,7.5,9,7.5,6.5,7.5,8.5,8,7.5,lulus
+900,Bev,MacClinton,bmacclintonoz@istockphoto.com,Perempuan,SMA 1,7.5,7,7.5,7,8,7.5,9,8.5,7,9,8,lulus
+901,Verna,McBryde,vmcbrydep0@odnoklassniki.ru,Laki-laki,SMA 3,8.5,9,6.5,8,8,6.5,8.5,9,8,8,7,pertimbangan
+902,Wilow,Pulman,wpulmanp1@va.gov,Perempuan,SMA 3,6.5,9,9,7.5,7.5,8,8,8,9,7,7.5,tidak lulus
+903,Rubie,Carabine,rcarabinep2@nifty.com,Laki-laki,SMA 5,7.5,7,7.5,9,8.5,9,6.5,6.5,8,7.5,9,lulus
+904,Sayer,Taplin,staplinp3@comcast.net,Laki-laki,SMA 9,9,9,9,8,8,9,6.5,7,7.5,9,7.5,tidak lulus
+905,Towney,Korneev,tkorneevp4@oakley.com,Laki-laki,SMA 8,6.5,7,9,8,6.5,8,7.5,8,8.5,8,6.5,tidak lulus
+906,Tiff,Braden,tbradenp5@vimeo.com,Laki-laki,SMA 3,9,8.5,7,7,9,7,8,6.5,6.5,7,8.5,tidak lulus
+907,Elayne,Lanham,elanhamp6@yahoo.co.jp,Laki-laki,SMA 9,7.5,9,7.5,8,7,8.5,6.5,8.5,7,7.5,9,lulus
+908,Rebekah,Blemings,rblemingsp7@pcworld.com,Laki-laki,SMA 2,8,6.5,9,9,8,9,9,7,7.5,6.5,9,tidak lulus
+909,Gradey,Garza,ggarzap8@vkontakte.ru,Perempuan,SMA 5,7.5,7.5,8,8.5,8.5,8.5,7.5,9,7,8.5,6.5,tidak lulus
+910,Ilyssa,Morde,imordep9@cbsnews.com,Laki-laki,SMA 11,7.5,6.5,9,8,9,7.5,9,7,8.5,6.5,8,lulus
+911,Bobbie,Simonnot,bsimonnotpa@washingtonpost.com,Laki-laki,SMA 3,9,7,9,7.5,8,7.5,6.5,6.5,8,8,9,tidak lulus
+912,Humfrey,Elgey,helgeypb@friendfeed.com,Laki-laki,SMA 6,9,8,7,9,9,7.5,6.5,8.5,9,7,7,tidak lulus
+913,Randee,Gayler,rgaylerpc@cocolog-nifty.com,Laki-laki,SMA 10,8.5,8.5,6.5,9,9,7,8,8,6.5,6.5,7,pertimbangan
+914,Alessandro,Bowhey,abowheypd@jalbum.net,Laki-laki,SMA 8,9,7,7.5,7.5,7.5,9,7,8,6.5,7,6.5,tidak lulus
+915,Ardenia,Sawl,asawlpe@omniture.com,Perempuan,SMA 10,8.5,6.5,7.5,9,7.5,7,7.5,8.5,6.5,7.5,6.5,tidak lulus
+916,Adan,Lehon,alehonpf@fastcompany.com,Perempuan,SMA 7,7,7,8.5,7,7,8,9,7,7.5,7,8.5,lulus
+917,Deloria,Ofer,doferpg@cnn.com,Perempuan,SMA 7,7,7.5,7.5,6.5,8.5,8,8,7.5,7,7.5,7,pertimbangan
+918,Perla,McGuigan,pmcguiganph@opensource.org,Laki-laki,SMA 9,8.5,8,6.5,9,7,6.5,6.5,8,8,8,8,tidak lulus
+919,Aldon,Jobb,ajobbpi@ucla.edu,Perempuan,SMA 8,7.5,9,7,7.5,8,7,8,8.5,8.5,7.5,7.5,lulus
+920,Bernadene,Soffe,bsoffepj@engadget.com,Laki-laki,SMA 11,7.5,6.5,8.5,9,9,6.5,6.5,7.5,7,7.5,9,pertimbangan
+921,Sherlocke,Minette,sminettepk@histats.com,Laki-laki,SMA 4,6.5,9,6.5,7,8.5,6.5,7,7.5,8,7,7,tidak lulus
+922,Eldredge,Leacock,eleacockpl@blinklist.com,Laki-laki,SMA 1,7.5,9,6.5,7,8.5,8.5,7,6.5,7.5,8,8,pertimbangan
+923,Jarrett,Waadenburg,jwaadenburgpm@msn.com,Perempuan,SMA 10,8.5,9,6.5,6.5,8,6.5,8,8.5,8,8.5,8,tidak lulus
+924,Rockie,Whitcomb,rwhitcombpn@fastcompany.com,Perempuan,SMA 8,7.5,6.5,8.5,7,6.5,8,8.5,7.5,7,7.5,7.5,tidak lulus
+925,Dian,McGonigal,dmcgonigalpo@blogger.com,Perempuan,SMA 6,9,7,7,9,7.5,9,8.5,7.5,7,8.5,8.5,lulus
+926,Noelani,Fawks,nfawkspp@bing.com,Laki-laki,SMA 7,8,6.5,7.5,7,9,8,8,6.5,8.5,9,7.5,lulus
+927,Maitilde,Bulled,mbulledpq@behance.net,Perempuan,SMA 10,9,7.5,8,7,7,9,7.5,7,9,9,9,tidak lulus
+928,Evan,Stroulger,estroulgerpr@paginegialle.it,Perempuan,SMA 8,7.5,9,8.5,8.5,8.5,7.5,8.5,8.5,8,7.5,8,tidak lulus
+929,Barnabe,Poll,bpollps@simplemachines.org,Laki-laki,SMA 2,9,8.5,7,8.5,8.5,6.5,6.5,8.5,6.5,7,9,tidak lulus
+930,Jerry,Nellies,jnelliespt@privacy.gov.au,Laki-laki,SMA 4,9,7.5,8,9,7.5,7,7,7.5,7.5,9,9,pertimbangan
+931,Madelene,Beeching,mbeechingpu@tinyurl.com,Perempuan,SMA 4,9,6.5,8,8,8.5,8.5,9,9,8,6.5,9,lulus
+932,Jerald,Antonowicz,jantonowiczpv@elegantthemes.com,Laki-laki,SMA 7,9,9,7,7.5,7.5,7.5,9,7,9,7,8.5,pertimbangan
+933,Amelita,Gush,agushpw@smugmug.com,Perempuan,SMA 4,7,6.5,7,8.5,7.5,6.5,8.5,8.5,8.5,6.5,9,lulus
+934,Mariele,Maryan,mmaryanpx@de.vu,Perempuan,SMA 6,7,6.5,8.5,7,8,8,8,6.5,6.5,8.5,9,tidak lulus
+935,Wallache,Graveney,wgraveneypy@netlog.com,Perempuan,SMA 5,9,9,7,7.5,7.5,7.5,6.5,7.5,9,6.5,7,tidak lulus
+936,Ximenes,Doulton,xdoultonpz@cbslocal.com,Laki-laki,SMA 9,8.5,8.5,8.5,7,8.5,7,9,8,8,8.5,7.5,tidak lulus
+937,Nerissa,Castledine,ncastledineq0@howstuffworks.com,Laki-laki,SMA 4,8,7.5,7,6.5,9,9,7.5,8.5,9,6.5,8,tidak lulus
+938,Jena,Leggin,jlegginq1@jimdo.com,Laki-laki,SMA 2,9,6.5,9,7,8.5,9,9,6.5,8.5,8,6.5,tidak lulus
+939,Rosabelle,De Michele,rdemicheleq2@ovh.net,Perempuan,SMA 3,8.5,7,8,8.5,8,8,9,8.5,6.5,7,7,pertimbangan
+940,Corri,Wraighte,cwraighteq3@jigsy.com,Laki-laki,SMA 4,8,7,8.5,7.5,7,6.5,8,9,7,8.5,6.5,lulus
+941,Ricoriki,Poltone,rpoltoneq4@simplemachines.org,Laki-laki,SMA 3,8.5,9,8,6.5,8.5,7,8.5,7,7.5,7,8,lulus
+942,Kathlin,Nourse,knourseq5@hatena.ne.jp,Perempuan,SMA 1,7.5,7.5,6.5,8.5,7.5,7,7.5,8,9,9,7.5,pertimbangan
+943,Gilburt,Manford,gmanfordq6@mtv.com,Laki-laki,SMA 11,8,8.5,7,8.5,8,8,8.5,7,6.5,7,8.5,pertimbangan
+944,Melisenda,Ordidge,mordidgeq7@slideshare.net,Perempuan,SMA 10,8.5,6.5,7,7,8,7.5,7.5,6.5,7,6.5,9,lulus
+945,Marion,Pratley,mpratleyq8@globo.com,Laki-laki,SMA 7,8,7.5,6.5,8,8,8.5,6.5,6.5,9,9,8.5,pertimbangan
+946,Hailee,Westwood,hwestwoodq9@furl.net,Perempuan,SMA 7,7.5,7,7.5,7,7,7,8.5,8,9,6.5,7.5,lulus
+947,Keefe,Unwins,kunwinsqa@mapquest.com,Laki-laki,SMA 3,8,7.5,9,7.5,7,7,8.5,8,8,6.5,9,tidak lulus
+948,Basilio,Von Salzberg,bvonsalzbergqb@hibu.com,Perempuan,SMA 2,9,7,8.5,6.5,6.5,7.5,8,7,8,6.5,9,lulus
+949,Kaila,Seary,ksearyqc@cisco.com,Perempuan,SMA 6,8,6.5,8,6.5,8.5,7.5,9,8,7,7,7,lulus
+950,Britte,Phillp,bphillpqd@booking.com,Perempuan,SMA 4,9,8.5,7,8,8.5,6.5,9,8,9,8,9,tidak lulus
+951,Dore,Rudwell,drudwellqe@nifty.com,Perempuan,SMA 3,9,7.5,8,8,8.5,8,8.5,8,6.5,7.5,7,tidak lulus
+952,Cristabel,Runnett,crunnettqf@ehow.com,Perempuan,SMA 8,6.5,7.5,8.5,7.5,6.5,9,7.5,7.5,9,9,9,tidak lulus
+953,Kiersten,Cregg,kcreggqg@princeton.edu,Perempuan,SMA 3,7.5,8.5,7,7,8.5,8,7.5,8,7,7.5,8,pertimbangan
+954,Flore,Vonasek,fvonasekqh@usa.gov,Perempuan,SMA 7,6.5,8,7,8.5,8.5,7.5,8.5,9,9,8.5,8,pertimbangan
+955,Fayette,Kilroy,fkilroyqi@ezinearticles.com,Laki-laki,SMA 10,8,6.5,6.5,9,9,8,6.5,8,7.5,6.5,8.5,tidak lulus
+956,Rose,Norheny,rnorhenyqj@google.com,Perempuan,SMA 6,7,8.5,8,9,8.5,9,8.5,7.5,9,7,8,lulus
+957,Kania,Hatherleigh,khatherleighqk@friendfeed.com,Laki-laki,SMA 5,8.5,6.5,8.5,8.5,7.5,7,7,8,7,6.5,7.5,pertimbangan
+958,Teirtza,Normaville,tnormavilleql@vkontakte.ru,Perempuan,SMA 4,7.5,9,9,7,8,9,6.5,8,8.5,6.5,6.5,pertimbangan
+959,Abey,Choke,achokeqm@walmart.com,Perempuan,SMA 2,9,8.5,6.5,7,7.5,9,6.5,7,9,8.5,7.5,pertimbangan
+960,Godfry,Garwell,ggarwellqn@vinaora.com,Perempuan,SMA 1,8,6.5,7.5,8,8,8.5,9,7,8.5,8.5,6.5,tidak lulus
+961,Bree,Cracie,bcracieqo@google.pl,Perempuan,SMA 5,6.5,7,7,8,8,9,7.5,6.5,6.5,6.5,8.5,pertimbangan
+962,Arri,Gallelli,agallelliqp@webs.com,Laki-laki,SMA 5,7.5,6.5,9,9,7,8.5,6.5,7,8.5,9,6.5,tidak lulus
+963,Karil,Capnor,kcapnorqq@intel.com,Laki-laki,SMA 5,9,8.5,8,8.5,7,7,7.5,9,8.5,8.5,6.5,tidak lulus
+964,Emmaline,Estevez,eestevezqr@creativecommons.org,Laki-laki,SMA 7,7.5,7,8.5,9,8,6.5,6.5,8.5,8,7.5,7,pertimbangan
+965,Rubetta,Sommer,rsommerqs@example.com,Laki-laki,SMA 2,8,9,7,8.5,9,9,8,8,9,9,9,tidak lulus
+966,Casi,Vance,cvanceqt@walmart.com,Perempuan,SMA 3,7.5,7,7,9,6.5,8,8.5,8,8,9,8,pertimbangan
+967,Kelly,Picford,kpicfordqu@google.co.uk,Perempuan,SMA 8,7.5,6.5,8.5,7,9,9,6.5,8.5,9,8.5,7,tidak lulus
+968,Laural,Chinery,lchineryqv@t.co,Laki-laki,SMA 10,6.5,7,7.5,8,8.5,8,7,6.5,9,8,7,tidak lulus
+969,Marcus,Rouf,mroufqw@japanpost.jp,Perempuan,SMA 11,7.5,7,6.5,9,7.5,8.5,7.5,6.5,8.5,8.5,6.5,lulus
+970,Theresa,Libermore,tlibermoreqx@aboutads.info,Laki-laki,SMA 6,7.5,8,8.5,9,7.5,8,7,7.5,7.5,7.5,9,pertimbangan
+971,Lynsey,Stoyles,lstoylesqy@nasa.gov,Laki-laki,SMA 3,9,7.5,6.5,7.5,8.5,8.5,8,7.5,9,9,6.5,lulus
+972,Arthur,Fairpool,afairpoolqz@etsy.com,Perempuan,SMA 9,6.5,9,9,7,9,6.5,7.5,9,8.5,6.5,7.5,lulus
+973,Merilee,Dible,mdibler0@zdnet.com,Laki-laki,SMA 4,7,9,9,9,7.5,7,7.5,8,9,8,8.5,tidak lulus
+974,Brnaba,Troy,btroyr1@networkadvertising.org,Laki-laki,SMA 7,6.5,7,6.5,7,7,6.5,7.5,7.5,7.5,6.5,9,lulus
+975,Sherry,Jansa,sjansar2@kickstarter.com,Perempuan,SMA 7,9,7,9,7,8.5,7.5,9,7.5,6.5,7.5,8.5,pertimbangan
+976,Alleyn,Gawne,agawner3@fastcompany.com,Perempuan,SMA 5,7.5,8,8.5,8,7,6.5,8,9,7,8.5,7.5,lulus
+977,Osborne,Lobell,olobellr4@answers.com,Perempuan,SMA 9,7.5,6.5,8,7,8,7,8.5,7.5,8.5,6.5,9,pertimbangan
+978,Essy,Bunworth,ebunworthr5@plala.or.jp,Laki-laki,SMA 7,8.5,8,9,8,8,6.5,7.5,7,7.5,8.5,7.5,tidak lulus
+979,Cortie,Assur,cassurr6@forbes.com,Laki-laki,SMA 1,8.5,8.5,7.5,6.5,6.5,9,8.5,7,7.5,7.5,7.5,lulus
+980,Christin,Rix,crixr7@cyberchimps.com,Perempuan,SMA 8,6.5,9,7.5,8,7,6.5,7.5,6.5,6.5,8,7.5,tidak lulus
+981,Alexander,Howford,ahowfordr8@g.co,Laki-laki,SMA 1,9,8.5,7,7,7.5,7,8.5,9,8.5,8,6.5,lulus
+982,Maxwell,Scrivin,mscrivinr9@topsy.com,Laki-laki,SMA 6,7.5,7,7,9,6.5,9,8,8,8.5,7.5,6.5,pertimbangan
+983,Robbi,Belli,rbellira@is.gd,Laki-laki,SMA 3,9,7.5,8,8.5,7.5,8.5,7.5,9,9,8,8.5,pertimbangan
+984,Sawyer,Flux,sfluxrb@wsj.com,Laki-laki,SMA 3,7,8.5,6.5,7,9,8,7.5,9,9,6.5,9,lulus
+985,Thomasin,Sutter,tsutterrc@i2i.jp,Perempuan,SMA 5,7,9,8.5,9,6.5,9,7.5,6.5,8.5,9,8,pertimbangan
+986,Putnam,Chattell,pchattellrd@salon.com,Laki-laki,SMA 10,8.5,6.5,9,8.5,7,8,8,8.5,7,8,7,tidak lulus
+987,Garner,Cargo,gcargore@tmall.com,Laki-laki,SMA 5,8.5,6.5,8,7,7,8,7,7.5,9,7,7.5,pertimbangan
+988,Ab,Tewkesberrie,atewkesberrierf@reference.com,Laki-laki,SMA 2,9,8.5,6.5,9,7.5,6.5,7,6.5,6.5,7,8.5,lulus
+989,Linnea,Macek,lmacekrg@go.com,Perempuan,SMA 9,8.5,8,7.5,7.5,7.5,8,7,7,8,7,6.5,pertimbangan
+990,Tallulah,Challicum,tchallicumrh@hexun.com,Laki-laki,SMA 6,8.5,6.5,8.5,8,9,6.5,8,9,9,6.5,7.5,tidak lulus
+991,Ileana,Chessil,ichessilri@cornell.edu,Perempuan,SMA 4,9,7,6.5,7,8,9,7.5,7,9,9,7,pertimbangan
+992,Sada,Clarkin,sclarkinrj@geocities.com,Perempuan,SMA 7,8,7.5,7.5,9,8.5,7.5,7.5,8,8.5,7,8,pertimbangan
+993,Heindrick,McSaul,hmcsaulrk@earthlink.net,Perempuan,SMA 1,9,7,8,7.5,7,8.5,7,8,7.5,7.5,7,lulus
+994,Lauritz,Counter,lcounterrl@bing.com,Perempuan,SMA 11,9,8,7,6.5,7,9,8.5,7,9,8.5,9,pertimbangan
+995,Ford,Losano,flosanorm@acquirethisname.com,Laki-laki,SMA 5,7,9,8,7.5,8.5,8,7,7.5,8.5,6.5,8,pertimbangan
+996,Sid,Scafe,sscafern@over-blog.com,Laki-laki,SMA 2,7,7.5,7.5,8.5,8.5,7.5,8,9,9,8,7.5,tidak lulus
+997,William,Spykings,wspykingsro@cnbc.com,Laki-laki,SMA 1,8.5,7.5,8,9,7.5,6.5,8,7,8,8.5,6.5,lulus
+998,Sayres,Aitkin,saitkinrp@apache.org,Perempuan,SMA 6,7,7,6.5,7,7.5,8,8.5,9,7.5,6.5,8,lulus
+999,Rich,Langrick,rlangrickrq@ed.gov,Perempuan,SMA 4,8,7,6.5,9,6.5,9,7.5,7.5,7.5,7.5,7.5,pertimbangan
+1000,Tiena,Dace,tdacerr@chron.com,Laki-laki,SMA 4,7.5,8,9,8.5,8.5,7.5,6.5,8.5,6.5,8.5,6.5,tidak lulus

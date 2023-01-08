@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  pert14_2:
+    build: ./
+    container_name: pert14-2
+    #command: uvicorn app.app:app --reload --host 0.0.0.0 --port 8000
+    command: python app.py runserver 0.0.0.0:5000
+    volumes:
+      - ./:/app
+    ports:
+      - 14002:5000

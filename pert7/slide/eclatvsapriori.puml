@@ -1,0 +1,18 @@
+@startwbs eclatapriori
+
+* Assosiation Rule
+** Apriori
+*** Follows Horizontal Approach
+*** More Node to Reach Target Node
+*** More Parameter for Comporison
+*** Slower
+*** Scan Whole Data More Than Once to give Output
+** Eclat
+*** Follows Vertical Approach
+*** Less Node to Reach Target Node
+*** Less Parameter for Comporison
+*** Faster
+*** Scan Whole Data Only One to give Output
+
+
+@endwbs

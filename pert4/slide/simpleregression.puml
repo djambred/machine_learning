@@ -1,0 +1,17 @@
+@startuml simpleregression
+:<math>y = b_0 + b_1 * x_1</math>;
+note right
+Dimana
+<math>y</math> adalah Dependent Variable (DV)
+<math>b_0</math> adalah Constant
+<math>b_1</math> adalah Coefficient
+<math>x_1</math> adalah Independent Variable
+
+CONTOH : 
+Misalnya kita akan menganalisa gaji 
+dari karyawan berdasarkan pengalaman kerjanya
+
+<math> gaji = b_0 + b_1 * pengalamankerja </math>
+
+end note
+@enduml

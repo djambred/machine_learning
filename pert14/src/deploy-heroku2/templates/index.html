@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="column is-4 is-offset-4">
+    <h3 class="title has-text-grey-dark">Predict Insurance Bill</h3>
+
+    <div class="box">
+        <form action="{{ url_for('predict')}}" method="POST">
+            <div class="formcontainer">
+
+                <div class="field is-horizontal">
+                    <div class="field-label is-normal">
+                        <label class="label">Age</label>
+                    </div>
+                    <input class="input" type="number" name="age" placeholder="Age" required="required"
+                           min="0" max="140"/>
+                </div>
+
+                <div class="field is-horizontal">
+                    <div class="field-label is-normal">
+                        <label class="label">Sex</label>
+                    </div>
+                    <div class="select is-fullwidth">
+                        <select type="submit" name="sex">
+                            <option value="male">Male</option>
+                            <option value="female">Female</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="field is-horizontal">
+                    <div class="field-label is-normal">
+                        <label class="label">BMI</label>
+                    </div>
+                    <input class="input" type="number" name="bmi" placeholder="BMI" required="required" step="0.01" min="0"
+                           max="210"/>
+                </div>
+
+                <div class="field is-horizontal">
+                    <div class="field-label is-normal">
+                        <label class="label">Children</label>
+                    </div>
+                    <input class="input" type="number" name="children" placeholder="Children" required="required"
+                           min="0" max="20" value="0"/>
+                </div>
+
+                <div class="field is-horizontal">
+                    <div class="field-label is-normal">
+                        <label class="label">Smoker</label>
+                    </div>
+                    <div class="select is-fullwidth">
+                        <select type="submit" name="smoker">
+                            <option value="no">No</option>
+                            <option value="yes">Yes</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="field is-horizontal">
+                    <div class="field-label is-normal">
+                        <label class="label">Region</label>
+                    </div>
+                    <div class="select is-fullwidth">
+                        <select type="submit" name="region">
+                            <option value="northeast">Northeast</option>
+                            <option value="northwest">Northwest</option>
+                            <option value="southeast">Southeast</option>
+                            <option value="southwest">Southwest</option>
+                        </select>
+
+                    </div>
+                </div>
+
+                <button type="submit" class="button is-block is-info is-large is-fullwidth">Predict</button>
+        </form>
+    </div>
+    {% if url_for(request.endpoint) == url_for('predict') %}
+    <br>{{pred}}
+    {% endif %}
+</div>
+{% endblock %}
